@@ -221,3 +221,9 @@ C:\Users\HP>
 
 ~~~
 
+[npm 切换淘宝镜像几种方式](https://blog.csdn.net/yuanyuanispeak/article/details/79480904)  
+
+
+
+
+
