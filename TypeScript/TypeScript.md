@@ -174,6 +174,8 @@ F:\typesc>
 ~~~
 
 
+[TypeScript 入门指南](https://www.oschina.net/question/12_72250)  
 
+[TypeScript 入门教程](http://www.runoob.com/w3cnote/getting-started-with-typescript.html)  
 
 
