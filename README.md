@@ -223,7 +223,46 @@ C:\Users\HP>
 
 [npm 切换淘宝镜像几种方式](https://blog.csdn.net/yuanyuanispeak/article/details/79480904)  
 
+~~~
+C:\Users\HP>npm config get registry
+https://registry.npmjs.org/
 
+C:\Users\HP>npm info express
+
+express@4.16.3 | MIT | deps: 30 | versions: 259
+Fast, unopinionated, minimalist web framework
+http://expressjs.com/
+
+keywords: express, framework, sinatra, web, rest, restful, router, app, api
+
+dist
+.tarball: https://registry.npmjs.org/express/-/express-4.16.3.tgz
+.shasum: 6af8a502350db3246ecc4becf6b5a34d22f7ed53
+.unpackedSize: 205.6 kB
+
+dependencies:
+accepts: ~1.3.5            cookie: 0.3.1              finalhandler: 1.1.1        path-to-regexp: 0.1.7
+array-flatten: 1.1.1       debug: 2.6.9               fresh: 0.5.2               proxy-addr: ~2.0.3
+body-parser: 1.18.2        depd: ~1.1.2               merge-descriptors: 1.0.1   qs: 6.5.1
+content-disposition: 0.5.2 encodeurl: ~1.0.2          methods: ~1.1.2            range-parser: ~1.2.0
+content-type: ~1.0.4       escape-html: ~1.0.3        on-finished: ~2.3.0        safe-buffer: 5.1.1
+cookie-signature: 1.0.6    etag: ~1.8.1               parseurl: ~1.3.2           send: 0.16.2
+(...and 6 more.)
+
+maintainers:
+- dougwilson <doug@somethingdoug.com>
+- hacksparrow <captain@hacksparrow.com>
+- jasnell <jasnell@gmail.com>
+- mikeal <mikeal.rogers@gmail.com>
+
+dist-tags:
+latest: 4.16.3
+
+published 5 months ago by dougwilson <doug@somethingdoug.com>
+
+C:\Users\HP>
+
+~~~
 
 
 
