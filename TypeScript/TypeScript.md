@@ -178,4 +178,11 @@ F:\typesc>
 
 [TypeScript 入门教程](http://www.runoob.com/w3cnote/getting-started-with-typescript.html)  
 
+参考文档
+TypeScript 中文手册:http://www.runoob.com/manual/gitbook/TypeScript/_book/  
+http://code.tutsplus.com/tutorials/getting-started-with-typescript--net-28890    
+https://zh.wikipedia.org/wiki/TypeScript  
+
+
+
 
