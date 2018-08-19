@@ -177,3 +177,47 @@ $ npm install -g cnpm --registry=https://registry.npm.taobao.org
 $ cnpm install [name]
 更多信息可以查阅：http://npm.taobao.org/。
 ~~~
+
+[npm太慢， 淘宝npm镜像使用方法](https://blog.csdn.net/quuqu/article/details/64121812)  
+~~~
+淘宝 npm 地址： http://npm.taobao.org/
+1.临时使用
+npm --registry https://registry.npm.taobao.org install express
+1
+2.持久使用
+npm config set registry https://registry.npm.taobao.org
+1
+配置后可通过下面方式来验证是否成功 
+npm config get registry
+或 
+npm info express
+
+3.通过cnpm使用
+npm install -g cnpm --registry=https://registry.npm.taobao.org
+1
+使用 
+cnpm install express
+~~~
+
+[淘宝 NPM 镜像](http://npm.taobao.org/)  
+
+~~~
+C:\Users\HP>npm install -g cnpm --registry=https://registry.npm.taobao.org
+npm WARN deprecated socks@1.1.10: If using 2.x branch, please upgrade to at least 2.1.6 to avoid a serious bug with socket data flow and an import issue introduced in 2.1.0
+C:\Users\HP\AppData\Roaming\npm\cnpm -> C:\Users\HP\AppData\Roaming\npm\node_modules\cnpm\bin\cnpm
++ cnpm@6.0.0
+added 629 packages from 837 contributors in 49.465s
+
+C:\Users\HP>cnpm -v
+cnpm@6.0.0 (C:\Users\HP\AppData\Roaming\npm\node_modules\cnpm\lib\parse_argv.js)
+npm@6.4.0 (C:\Users\HP\AppData\Roaming\npm\node_modules\cnpm\node_modules\npm\lib\npm.js)
+node@8.11.3 (C:\Program Files\nodejs\node.exe)
+npminstall@3.11.0 (C:\Users\HP\AppData\Roaming\npm\node_modules\cnpm\node_modules\npminstall\lib\index.js)
+prefix=C:\Users\HP\AppData\Roaming\npm
+win32 x64 10.0.17134
+registry=https://registry.npm.taobao.org
+
+C:\Users\HP>
+
+~~~
+
