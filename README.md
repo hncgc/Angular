@@ -95,11 +95,6 @@ added 59 packages from 122 contributors in 25.969s
 
 F:\typesc>  
 
-
-[Less.js 中文文档](http://www.css88.com/doc/less/)  
-[学习Less-看这篇就够了](https://segmentfault.com/a/1190000012360995)  
-[Less 官网](https://less.bootcss.com/)  
-
 [使用WebStorm开发TypeScript的设置](https://blog.csdn.net/xiaozhi_2016/article/details/64922203)  
 ~~~
 1. 打开Webstorm，新建一个空白项目，命名为TypeScriptProgram
