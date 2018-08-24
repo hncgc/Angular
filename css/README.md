@@ -85,7 +85,7 @@ Foundation
 [Foundation5 教程](http://www.runoob.com/foundation/foundation-tutorial.html)  
 
 
-[HTML中的<UL>标签中li横向排列](https://blog.csdn.net/leewokan/article/details/6626774)   
+[HTML中的 UL 标签中li横向排列](https://blog.csdn.net/leewokan/article/details/6626774)   
   
 [HTML_水平线详解](https://blog.csdn.net/admin_maxin/article/details/54572740)  
 
