@@ -77,6 +77,78 @@ screen.css" />
 @import url("phone.css") screen and (max-width:360px);
 ~~~
 
+
+[CSS3 @media 用法总结](https://www.jianshu.com/p/b8f375b52a61)   
+
+CSS 为不同类型的设备建立样式表
+https://blog.csdn.net/chq11106004389/article/details/50435030
+
+~~~
+方法一：在HTML中利用<link>，添加media属性
+
+<link  media="screen and (max-device-width:480px)" rel="stylesheet"  href="文件名.css"  type="text/css" >
+
+类似，可创建一个查询来匹配打印机设备
+<link rel="stylesheet"  href="loung-print.css"   media="print" >  
+                                      （lounge-print文件只有在媒体类型为media才会使用。说明需要我们要通过打印机查看页面）
+
+方法二：直接在CSS中利用@media
+
+@media    screen and (min-device-width:481px)  {        （对于与这个查询匹配的设备，将所有适用的规则放在大括号里）
+#guarantee{
+margin-right:250px;                                       （所以，如设备屏幕大于480px，就会使用这些规则）
+}
+}
+
+@media    screen and (max-device-width:480px)  {        （设备宽度小于等于480px,就会使用这些规则）
+#guarantee{
+margin-right:30px;                                        
+}
+}
+
+@media    print  {        
+body{
+font-family:Times,"Times New Roman",serif;             （如要打印页面，,就会使用这些规则）                             
+}
+}
+
+p.specials {        
+color:red;          (所有其他规则应用于所有页面，因为这些规则未包含在@media中)
+}
+
+<link>和@media如何取舍？
+如果所有规则都放在一个CSS文件中，CSS文件将相当庞大，此时建议用<link>来指定不同的样式表
+~~~
+
+[前端,移动开发者,UI须懂: 不同设备的之间的尺寸](https://blog.csdn.net/tenyit/article/details/50260579)  
+
+[css做兼容不同分辨率设备问题](https://jingyan.baidu.com/article/c1a3101e58edbdde656debe6.html)  
+
+[CSS智能判断不同设备浏览器显示不同样式](http://blog.sina.com.cn/s/blog_738213f10101c15m.html)  
+
+
+[div居中与div内容居中](https://www.thinkcss.com/jiqiao/1460.shtml)  
+
+[CSS实现垂直居中的5种方法](https://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)  
+
+[DIV浮动居中的方法，float居中的方法](https://blog.csdn.net/aerchi/article/details/7498460)  
+
+[float:left的div在屏幕中自适应居中](https://blog.csdn.net/xianglikai1/article/details/63016553)  
+
+[float元素居中](https://blog.csdn.net/sinolzeng/article/details/41114215)  
+
+[CSS + ul li 横向排列的两种方法](https://blog.csdn.net/superbirds/article/details/68501892)  
+
+
+[css 两个div叠加放置](https://blog.csdn.net/water_popcorn/article/details/79033415)  
+
+[无需图片，使用 CSS3 实现圆角按钮](http://www.open-open.com/home/space-37924-do-blog-id-5789.html)  
+
+
+自适应框架bootstrap
+---
+
+
 Foundation
 ---
 
