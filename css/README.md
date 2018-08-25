@@ -33,6 +33,8 @@ CSS
 <hr align="left" style="width:1px;height:40px; "></hr>
 ~~~
 
+[CSS实现等比例缩放的盒子](https://blog.csdn.net/kongjunchao159/article/details/50929781)  
+
 Less
 ---
 
