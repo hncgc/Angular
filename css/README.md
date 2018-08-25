@@ -30,6 +30,7 @@ CSS
 
 ~~~
 <hr style="width:2px;height:100px; "></hr>
+<hr align="left" style="width:1px;height:40px; "></hr>
 ~~~
 
 Less
