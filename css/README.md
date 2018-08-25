@@ -39,6 +39,26 @@ CSS
 
 [div覆盖div DIV相互重叠如何解决](http://www.divcss5.com/rumen/r674.shtml)  
 
+[div居中与div内容居中](https://www.thinkcss.com/jiqiao/1460.shtml)  
+
+[CSS实现垂直居中的5种方法](https://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)  
+
+[DIV浮动居中的方法，float居中的方法](https://blog.csdn.net/aerchi/article/details/7498460)  
+
+[float:left的div在屏幕中自适应居中](https://blog.csdn.net/xianglikai1/article/details/63016553)  
+
+[css图片垂直居中自适应](https://blog.csdn.net/promisecao/article/details/52774328)  
+
+[float元素居中](https://blog.csdn.net/sinolzeng/article/details/41114215)  
+
+[CSS + ul li 横向排列的两种方法](https://blog.csdn.net/superbirds/article/details/68501892)  
+
+[css 两个div叠加放置](https://blog.csdn.net/water_popcorn/article/details/79033415)  
+
+[无需图片，使用 CSS3 实现圆角按钮](http://www.open-open.com/home/space-37924-do-blog-id-5789.html)  
+
+
+
 Less
 ---
 
@@ -146,24 +166,6 @@ color:red;          (所有其他规则应用于所有页面，因为这些规�
 [CSS智能判断不同设备浏览器显示不同样式](http://blog.sina.com.cn/s/blog_738213f10101c15m.html)  
 
 
-[div居中与div内容居中](https://www.thinkcss.com/jiqiao/1460.shtml)  
-
-[CSS实现垂直居中的5种方法](https://www.qianduan.net/css-to-achieve-the-vertical-center-of-the-five-kinds-of-methods/)  
-
-[DIV浮动居中的方法，float居中的方法](https://blog.csdn.net/aerchi/article/details/7498460)  
-
-[float:left的div在屏幕中自适应居中](https://blog.csdn.net/xianglikai1/article/details/63016553)  
-
-[float元素居中](https://blog.csdn.net/sinolzeng/article/details/41114215)  
-
-[CSS + ul li 横向排列的两种方法](https://blog.csdn.net/superbirds/article/details/68501892)  
-
-
-[css 两个div叠加放置](https://blog.csdn.net/water_popcorn/article/details/79033415)  
-
-[无需图片，使用 CSS3 实现圆角按钮](http://www.open-open.com/home/space-37924-do-blog-id-5789.html)  
-
-
 自适应框架bootstrap
 ---
 
@@ -185,24 +187,6 @@ Foundation
 [HTML中的 UL 标签中li横向排列](https://blog.csdn.net/leewokan/article/details/6626774)   
   
 [HTML_水平线详解](https://blog.csdn.net/admin_maxin/article/details/54572740)  
-
-
-js
----
-
-[最简单的jQuery轮播图](http://www.jq22.com/webqd656)  
-
-[带按钮控制轮播焦点图代码](http://www.jsdaima.com/js/189.html)  
-
-[jquery.flexslider.js带左右箭头且带按钮可滚动的图片插件](https://www.cnblogs.com/linjiaxin/p/5960998.html)  
-
-[jQuery脚本](http://sc.chinaz.com/tag_jiaoben/jquery.html)  
-
-[jQuery网站首页幻灯片切换代码](http://sc.chinaz.com/jiaoben/170516052410.htm)  
-
-[兼容IE8的jQuery幻灯片切换代码](http://sc.chinaz.com/jiaoben/161006314550.htm)  
-
-
 
 
 [响应式网站模板](http://www.cssmoban.com/tags.asp?n=%E5%93%8D%E5%BA%94%E5%BC%8F)  
