@@ -4,6 +4,8 @@
 
 [超简单实用的弹窗jquery插件](http://www.jq22.com/jquery-info3147)  
 
+弹窗
+---
 
 [jQuery弹出层插件](http://www.jq22.com/jquery-plugins%E5%BC%B9%E5%87%BA%E5%B1%82-1-jq)  
 
@@ -15,7 +17,8 @@
 
 [原生JS+CSS（CSS3）+HTML实现页面弹框](https://blog.csdn.net/licheng11403080324/article/details/52435076)  
 
-
+轮播
+---
 
 [jQuery轮播图代码](http://www.jq22.com/webqd2243)  
 
@@ -26,5 +29,22 @@
 [jQuery全屏焦点图](http://www.jq22.com/webqd1205)  
 
 [全屏，HTML5全屏API，FullScreen功能方法](http://www.jq22.com/webqd2471)  
+
+tab切换
+---
+
+[jQuery tab切换](http://www.jq22.com/webqd4723)  
+
+[jQuery tab切换](http://www.jq22.com/webqd3798)  
+
+[tab切换中套tab切换](http://www.jq22.com/webqd2080)  
+
+[Tab标签页](http://www.jq22.com/webqd2420)  
+
+[tab标签切换](http://www.jq22.com/webqd2017)  
+
+[jQuery tab切换效果（改进）](http://www.jq22.com/webqd3135)  
+
+
 
 
