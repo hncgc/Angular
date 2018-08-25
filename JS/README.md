@@ -45,6 +45,23 @@ tab切换
 
 [jQuery tab切换效果（改进）](http://www.jq22.com/webqd3135)  
 
+[tab切换显示不同内容](http://www.jq22.com/webqd2099)  
+
+[侧边栏，tab切换](http://www.jq22.com/webqd801)  
+
+[qq客服侧边栏导航](http://www.jq22.com/webqd3488)  
+
+菜单
+---
+
+[jquery两级菜单导航栏](http://www.jq22.com/webqd2352)  
+[快速实现jQuery多级菜单效果](http://www.jq22.com/webqd84)  
+[简单的多级下拉菜单](http://www.jq22.com/webqd1233)  
+[jQuery多级下拉菜单展示](http://www.jq22.com/webqd3032)  
+
+
+
+
 
 
 
