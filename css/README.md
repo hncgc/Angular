@@ -67,6 +67,27 @@ CSS
 
 [CSS实现网页背景图片自适应全屏](https://www.cnblogs.com/neromaycry/p/8088828.html)  
 
+[怎么样使div里面字体随浏览器大小变化而变化](https://zhidao.baidu.com/question/564326926319274164.html?qbl=relate_question_1&word=css%20%CE%C4%D7%D6%CB%F5%B7%C5)  
+~~~
+使用媒体查询
+1.样式表里面添加下列样式，我顺手写的（仅仅用于测试），具体数据自己改，大概意思是屏幕宽度在1200px-1600px之间的时候1rem=60px，屏幕宽度800px-1200px之间的时候1rem=30px，代码如下：
+@media screen and (max-width: 1600px) {
+html{font-size: 60px;}
+}
+@media screen and (max-width: 1200px) {
+html{font-size: 30px;}
+}
+@media screen and (max-width: 800px) {
+html{font-size: 16px;}
+}
+@media screen and (max-width: 600px) {
+html{font-size: 12px;}
+}
+2.给你的字体设置为rem为字体单位，其实使用em也行，不过个人觉得rem更好控制
+毕竟rem是相对html的字体大小
+而em是相对父级的字体大小
+~~~
+
 Less
 ---
 
