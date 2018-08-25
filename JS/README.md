@@ -17,4 +17,14 @@
 
 
 
+[jQuery轮播图代码](http://www.jq22.com/webqd2243)  
+
+[仿京东js轮播图](http://www.jq22.com/webqd2010)  
+
+[全屏焦点图展示](http://www.jq22.com/webqd1694)  
+
+[jQuery全屏焦点图](http://www.jq22.com/webqd1205)  
+
+[全屏，HTML5全屏API，FullScreen功能方法](http://www.jq22.com/webqd2471)  
+
 
