@@ -94,7 +94,7 @@ html{font-size: 12px;}
 
 ~~~
 -webkit-text-size-adjust: none;
-
+顾名思义, 禁用Webkit内核浏览器的文字大小调整功能
 在中文版Chrome里面，网页CSS里所有小于12px的字体设置都无效，最终将显示12px。
 ~~~
 
