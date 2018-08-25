@@ -20,6 +20,18 @@
 轮播
 ---
 
+[最简单的jQuery轮播图](http://www.jq22.com/webqd656)  
+
+[带按钮控制轮播焦点图代码](http://www.jsdaima.com/js/189.html)  
+
+[jquery.flexslider.js带左右箭头且带按钮可滚动的图片插件](https://www.cnblogs.com/linjiaxin/p/5960998.html)  
+
+[jQuery脚本](http://sc.chinaz.com/tag_jiaoben/jquery.html)  
+
+[jQuery网站首页幻灯片切换代码](http://sc.chinaz.com/jiaoben/170516052410.htm)  
+
+[兼容IE8的jQuery幻灯片切换代码](http://sc.chinaz.com/jiaoben/161006314550.htm)  
+
 [jQuery轮播图代码](http://www.jq22.com/webqd2243)  
 
 [仿京东js轮播图](http://www.jq22.com/webqd2010)  
