@@ -20,7 +20,7 @@ CSS
 
 [CSS巧妙实现分隔线的几种方法](https://blog.csdn.net/jian_xi/article/details/72572393)  
 
-[里面的div怎么撑开外面的div让高度自适应](https://www.cnblogs.com/xiaoxiao2014/p/5474620.html]
+[里面的div怎么撑开外面的div让高度自适应](https://www.cnblogs.com/xiaoxiao2014/p/5474620.html)
 
 [css让图片自适应容器（div）大小](https://blog.csdn.net/promisecao/article/details/52313430)  
 
