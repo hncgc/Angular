@@ -37,6 +37,8 @@ CSS
 
 [css div自适应高度height](http://www.divcss5.com/jiqiao/j499.shtml)  
 
+[div覆盖div DIV相互重叠如何解决](http://www.divcss5.com/rumen/r674.shtml)  
+
 Less
 ---
 
@@ -193,6 +195,13 @@ js
 [带按钮控制轮播焦点图代码](http://www.jsdaima.com/js/189.html)  
 
 [jquery.flexslider.js带左右箭头且带按钮可滚动的图片插件](https://www.cnblogs.com/linjiaxin/p/5960998.html)  
+
+[jQuery脚本](http://sc.chinaz.com/tag_jiaoben/jquery.html)  
+
+[jQuery网站首页幻灯片切换代码](http://sc.chinaz.com/jiaoben/170516052410.htm)  
+
+[兼容IE8的jQuery幻灯片切换代码](http://sc.chinaz.com/jiaoben/161006314550.htm)  
+
 
 
 
