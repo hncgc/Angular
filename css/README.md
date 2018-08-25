@@ -88,6 +88,19 @@ html{font-size: 12px;}
 而em是相对父级的字体大小
 ~~~
 
+[css3字体缩放样式-webkit-text-size-adjust的用法详解](https://blog.csdn.net/juzipchy/article/details/71367642)  
+
+[-webkit-text-size-adjust: none;](https://blog.csdn.net/u014737974/article/details/50165843)  
+
+~~~
+-webkit-text-size-adjust: none;
+
+在中文版Chrome里面，网页CSS里所有小于12px的字体设置都无效，最终将显示12px。
+~~~
+
+
+
+
 Less
 ---
 
