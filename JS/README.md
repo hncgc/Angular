@@ -67,6 +67,12 @@ tab切换
 [JS树形菜单](http://www.jq22.com/webqd2457)  
 
 
+延迟
+---
+
+[js中的延迟执行和定时执行](http://www.jq22.com/webqd164)  
+
+[js页面长时间无操作执行](http://www.jq22.com/webqd2456)  
 
 
 
