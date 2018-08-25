@@ -22,6 +22,16 @@ CSS
 
 [里面的div怎么撑开外面的div让高度自适应](https://www.cnblogs.com/xiaoxiao2014/p/5474620.html]
 
+[css让图片自适应容器（div）大小](https://blog.csdn.net/promisecao/article/details/52313430)  
+
+[谈谈垂直分割线的几种写法](https://www.cnblogs.com/-simon/p/5883161.html)  
+
+[CSS巧妙实现分隔线的几种方法](http://www.daqianduan.com/4258.html)  
+
+~~~
+<hr style="width:2px;height:100px; "></hr>
+~~~
+
 Less
 ---
 
