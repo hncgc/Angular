@@ -96,6 +96,18 @@ html{font-size: 12px;}
 
 [【CSS3动画】transform对文字及图片的旋转、缩放、倾斜和移动](https://www.cnblogs.com/webonline/p/6077198.html)  
 
+[子元素div高度不确定，父div自适应高度](https://blog.csdn.net/xiebiaoling/article/details/9856079)  
+
+
+[设置div高度等于动态宽度](https://blog.csdn.net/WeLoveSunFlower/article/details/48550139)  
+
+[css实现高度动态变化自如 新手写着娱乐](https://blog.csdn.net/jyz18838957183/article/details/77196803)  
+
+[css实现高度height随宽度width变化保持比例不变](https://blog.csdn.net/forest_fire/article/details/79161064)  
+
+[css 高度随宽度比例变化](https://blog.csdn.net/qiqi_77_/article/details/79301214)  
+
+
 
 Less
 ---
@@ -212,6 +224,44 @@ color:red;          (所有其他规则应用于所有页面，因为这些规�
 [Bootstrap 教程 | 菜鸟教程](https://www.runoob.com/bootstrap/bootstrap-tutorial.html)  
 
 [全局CSS 样式 · Bootstrap v3 中文文档](https://v3.bootcss.com/css/)  
+
+[Bootstrap](https://www.runoob.com/try/try.php?filename=trybs_default)  
+
+下载 Bootstrap
+您可以从 http://getbootstrap.com/ 上下载 Bootstrap 的最新版本  
+http://getbootstrap.com/docs/4.1/getting-started/download/  
+
+~~~
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Bootstrap 实例</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">  
+  <script src="https://cdn.bootcss.com/jquery/2.1.1/jquery.min.js"></script>
+  <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css">  
+  <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+
+      <h2>图像</h2>
+      <p>创建响应式图片(将扩展到父元素)。 另外：图片以椭圆型展示：</p>            
+      <img src="cinqueterre.jpg" class="img-responsive img-circle" alt="Cinque Terre" width="304" height="236"> 
+      
+      <h2>图标</h2>
+      <p>插入图标:</p>      
+      <p>云图标: <span class="glyphicon glyphicon-cloud"></span></p>      
+      <p>信件图标: <span class="glyphicon glyphicon-envelope"></span></p>            
+      <p>搜索图标: <span class="glyphicon glyphicon-search"></span></p>
+      <p>打印图标: <span class="glyphicon glyphicon-print"></span></p>      
+      <p>下载图标：<span class="glyphicon glyphicon-download"></span></p>      
+~~~
+
 
 
 Foundation
