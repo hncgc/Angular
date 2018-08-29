@@ -12,3 +12,22 @@
 
 [HTML中include file的用法](https://www.cnblogs.com/adforce/p/3140549.html)  
 
+[怎么在html中include一个另外一个html内容](https://segmentfault.com/q/1010000011841959)  
+
+[使用 gulp-file-include 构建前端静态页面](http://www.cnblogs.com/nzbin/p/7467546.html)  
+https://www.npmjs.com/package/gulp-file-include  
+
+[bootstrap 支持头部复用吗，类似include这种？](https://www.zhihu.com/question/57610042)  
+~~~
+<div id="footer"></div>
+<script>
+    $(function(){
+        $("#footer").load("footer.html");
+    });
+</script>
+~~~
+
+
+
+
+
