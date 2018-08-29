@@ -262,6 +262,21 @@ http://getbootstrap.com/docs/4.1/getting-started/download/
       <p>下载图标：<span class="glyphicon glyphicon-download"></span></p>      
 ~~~
 
+[Bootstrap 实例 - 轮播（Carousel）](http://www.runoob.com/try/try.php?filename=bootstrap3-plugin-carousal-caption)  
+
+[Bootstrap自定义模态框，自动消失](https://blog.csdn.net/ai_shuyingzhixia/article/details/80159220)  
+
+[Bootstrap启动（关闭）轮播](https://www.cnblogs.com/candy-Yao/p/7446993.html)  
+~~~
+$('.carousel').carousel();   //启动轮播
+
+$('.carousel').carousel(‘pause’);   //关闭轮播
+
+<br><br>
+
+$(‘.carousel’).carousel({<br>　　pause：‘none’<br>});  //鼠标放到banner图上不停止轮播
+
+~~~
 
 
 Foundation
