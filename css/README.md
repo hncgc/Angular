@@ -296,7 +296,7 @@ Foundation
 
 
 
-
+[用js判断设备的宽度，加载不同的css和js](https://blog.csdn.net/sinat_24496253/article/details/53404285)  
 
 
 
