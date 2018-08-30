@@ -292,11 +292,18 @@ Foundation
 [HTML_水平线详解](https://blog.csdn.net/admin_maxin/article/details/54572740)  
 
 
+响应式设计
+---
+
 [响应式网站模板](http://www.cssmoban.com/tags.asp?n=%E5%93%8D%E5%BA%94%E5%BC%8F)  
 
 
-
 [用js判断设备的宽度，加载不同的css和js](https://blog.csdn.net/sinat_24496253/article/details/53404285)  
+
+
+[响应式设计：根据不同设备引不同css样式](https://www.cnblogs.com/supe/p/6692379.html)  
+
+
 
 
 
