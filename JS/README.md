@@ -1,5 +1,29 @@
 # JS
 
+jQuery 
+--- 
+
+[JavaScript 教程](http://www.w3school.com.cn/js/)  
+
+[JavaScript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)  
+
+[jQuery 教程](https://www.runoob.com/jquery/jquery-tutorial.html)  
+
+[jQuery API 中文文档 ](http://jquery.cuishifeng.cn/)
+
+[jQuery插件库](http://jquery.cuishifeng.cn/)  
+
+[jQuery - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499993118b8173572625b4afe93a8b19dd707ea1d000)  
+
+[jquery高级教程](https://study.163.com/courses-search?keyword=jQuery&utm_source=baidu&utm_medium=cpc&utm_campaign=affiliate&utm_term=IT_232d&utm_content=SEM)  
+
+AJAX
+---
+
+[AJAX 教程](http://www.w3school.com.cn/ajax/)  
+
+[AJAX 教程 | 菜鸟教程](http://www.runoob.com/ajax/ajax-tutorial.html)  
+
 [常用原代码](http://www.jq22.com/webinfo1)  
 
 [超简单实用的弹窗jquery插件](http://www.jq22.com/jquery-info3147)  
