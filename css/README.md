@@ -311,6 +311,7 @@ Foundation
 
 [纯css实现移动端横向滑动列表](https://www.cnblogs.com/minz/p/6435294.html) 
 
+[在h5中运用简单的css达到水平滚动的效果](https://blog.csdn.net/qq_39085422/article/details/77742608)  
 
 
 
