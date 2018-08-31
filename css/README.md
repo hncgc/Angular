@@ -305,7 +305,11 @@ Foundation
 
 
 
+[使用 css 控制 ul 水平居中](https://www.cmhello.com/css-control-ul-center.html)  
 
+[CSS 如何让li横向居中显示](https://blog.csdn.net/yxwmzouzou/article/details/17515527)  
+
+[纯css实现移动端横向滑动列表](https://www.cnblogs.com/minz/p/6435294.html) 
 
 
 
