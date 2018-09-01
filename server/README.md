@@ -124,6 +124,17 @@ Allow from 127.0.0.1
 [apache 服务器不能使用本机IP访问解决办法](https://blog.csdn.net/timecolor/article/details/46900317)  
 
 [解决apache服务器本地可以访问，同局域网内他人不能访问的问题](https://blog.csdn.net/wuyinghong_/article/details/17957031)  
+~~~
+解决方法：
+ 1.有安装防火墙的，把防火墙关闭
+2.windows默认带防火墙的，进入 控制面板-系统和安全-Windows 防火墙-允许的程序，点击下方的【允许运行另一程序】按钮，找到apache安装包 bin 下的 httpd.exe文件，点击【添加】，点击【确定】，重新访问就可以搞定了
+
+ 控制面板\所有控制面板项\Windows Defender 防火墙\允许的应用
+
+D:\phpStudy\Apache\bin\httpd.exe
+
+Apache HTTP Server      公用
+~~~
 
 [局域网ip地址用手机访问Apache服务器的默认网页](https://blog.csdn.net/yang_zongjun/article/details/48882363)  
 
