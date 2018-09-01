@@ -223,6 +223,21 @@ color:red;          (所有其他规则应用于所有页面，因为这些规�
 
 [Bootstrap4 教程](https://www.runoob.com/bootstrap4/bootstrap4-tutorial.html)  
 
+[Bootstrap4 官网下载](https://getbootstrap.com/docs/4.1/getting-started/download/)  
+~~~
+npm
+Install Bootstrap in your Node.js powered apps with the npm package:
+npm install bootstrap
+
+Composer  
+composer require twbs/bootstrap:4.1.3
+~~~
+
+[Bootstrap4 Examples](https://getbootstrap.com/docs/4.1/examples/)  
+
+[Build anything - Themes built by or reviewed by Bootstrap's creators](https://themes.getbootstrap.com/)  
+
+
 [Bootstrap中文网](http://www.bootcss.com/)  
 
 [Bootstrap 教程 | 菜鸟教程](https://www.runoob.com/bootstrap/bootstrap-tutorial.html)  
