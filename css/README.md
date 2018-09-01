@@ -220,6 +220,39 @@ h5 水平滚动
 [纯css实现移动端横向滑动列表](https://www.cnblogs.com/minz/p/6435294.html) 
 
 [在h5中运用简单的css达到水平滚动的效果](https://blog.csdn.net/qq_39085422/article/details/77742608)  
+~~~
+成功：
+css:
+
+.join_nav {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #f5f5f5;
+
+  display: inline;
+  white-space: nowrap;
+  overflow-x:scroll;
+  float:left;
+  overflow-y:hidden;
+}
+
+html:
+
+            <div class="join_nav">
+                <ul id="myTab" class="nav nav-tabs nav-justified">
+                    <li class="active"><a href="#develop" data-toggle="tab">开发</a></li>
+                    <li><a href="#interactive_design" data-toggle="tab">交互设计</a></li>
+                    <li><a href="#peration_planning" data-toggle="tab">运营策划</a></li>
+                    <li><a href="#product_manager" data-toggle="tab">产品经理/助理</a></li>
+                    <li><a href="#product_testing" data-toggle="tab">产品测试</a></li>
+                    <li><a href="#product_architecture" data-toggle="tab">产品架构</a></li>
+                </ul>
+            </div>
+
+~~~
 
 [手机网页左右滑动效果或者上下滑动效果](https://jingyan.baidu.com/article/fcb5aff7873451edaa4a719c.html)  
 
