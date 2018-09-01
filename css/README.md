@@ -224,6 +224,7 @@ h5 水平滚动
 [手机网页左右滑动效果或者上下滑动效果](https://jingyan.baidu.com/article/fcb5aff7873451edaa4a719c.html)  
 
 ~~~
+能滚动不能定位：
     <script type="text/javascript" src="js/iscroll.js"></script>
 
             <div id="wrapper">
