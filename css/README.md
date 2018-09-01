@@ -209,14 +209,39 @@ color:red;          (所有其他规则应用于所有页面，因为这些规�
 
 [CSS 如何让li横向居中显示](https://blog.csdn.net/yxwmzouzou/article/details/17515527)  
 
-[纯css实现移动端横向滑动列表](https://www.cnblogs.com/minz/p/6435294.html) 
-
-[在h5中运用简单的css达到水平滚动的效果](https://blog.csdn.net/qq_39085422/article/details/77742608)  
-
-
 [HTML中的 UL 标签中li横向排列](https://blog.csdn.net/leewokan/article/details/6626774)   
   
 [HTML_水平线详解](https://blog.csdn.net/admin_maxin/article/details/54572740)  
 
 
+h5 水平滚动
+---
+
+[纯css实现移动端横向滑动列表](https://www.cnblogs.com/minz/p/6435294.html) 
+
+[在h5中运用简单的css达到水平滚动的效果](https://blog.csdn.net/qq_39085422/article/details/77742608)  
+
+[手机网页左右滑动效果或者上下滑动效果](https://jingyan.baidu.com/article/fcb5aff7873451edaa4a719c.html)  
+
+~~~
+    <script type="text/javascript" src="js/iscroll.js"></script>
+
+            <div id="wrapper">
+                <div class="join_nav scroll" style="margin-top: 110px;">
+                    <ul id="myTab" class="nav nav-tabs nav-justified nav_scroll">
+                        <li class="active"><a href="#develop" data-toggle="tab">开发</a></li>
+                        <li><a href="#interactive_design" data-toggle="tab">交互设计</a></li>
+                        <li><a href="#peration_planning" data-toggle="tab">运营策划</a></li>
+                        <li><a href="#product_manager" data-toggle="tab">产品经理/助理</a></li>
+                        <li><a href="#product_testing" data-toggle="tab">产品测试</a></li>
+                        <li><a href="#product_architecture" data-toggle="tab">产品架构</a></li>
+                    </ul>
+                </div>
+            </div>
+
+<script>
+    var Scroll = new iScroll('wrapper', {hScrollbar: false, vScrollbar: false});
+</script>
+~~~
+[h5页面在手机端禁用横向滚动](https://www.jianshu.com/p/02eb9fd7651f)  
 
