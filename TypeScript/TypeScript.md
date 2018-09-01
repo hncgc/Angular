@@ -1,25 +1,24 @@
 # TypeScript  
 
-TypeScript  
-https://github.com/Microsoft/TypeScript/wiki  
+[TypeScript](https://www.tslang.cn/docs/handbook/typescript-in-5-minutes.html)   
+
+[TypeScript](https://github.com/Microsoft/TypeScript/wiki)  
 https://www.tslang.cn/  
 
-TypeScript 从入门到放弃  
-https://www.jianshu.com/p/c5005fad4274
+[TypeScript 从入门到放弃](https://www.jianshu.com/p/c5005fad4274)  
 
+[TypeScript中文网](https://www.tslang.cn/)  
 
-TypeScript中文网  
-https://www.tslang.cn/
-
-Typescript简介和安装  
-https://blog.csdn.net/xcg132566/article/details/76098753   
+[Typescript简介和安装](https://blog.csdn.net/xcg132566/article/details/76098753)   
 
 安装简单总结：安装node-->npm安装typescript的compiler-->配置IDE-->编码运行   
 
-TypeScript 安装  
-https://blog.csdn.net/adelais__/article/details/79181474  
-TypeScript官网：http://www.typescriptlang.org/index.html  
+[TypeScript 安装](https://blog.csdn.net/adelais__/article/details/79181474)  
+
+[TypeScript官网](http://www.typescriptlang.org/index.html)  
+~~~
 安装Node.js，官网：https://nodejs.org/en/，LTS和Current都行，建议LTS；下载完成双击打开就可以，如下图  
+~~~
 
 下载node-v8.11.3-x64.msi  
 
