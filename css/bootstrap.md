@@ -1,9 +1,34 @@
 
 # 自适应框架bootstrap
 
+[Bootstrap 优站精选](http://www.youzhan.org/)  
+
 [Bootstrap](https://getbootstrap.com/2.3.2/)  
 
-[Bootstrap3 教程](https://www.runoob.com/bootstrap/bootstrap-tutorial.html)  
+[Bootstrap中文网](http://www.bootcss.com/)  
+
+[Bootstrap3 教程 | 菜鸟教程](https://www.runoob.com/bootstrap/bootstrap-tutorial.html)  
+
+[bootstrap教程_w3cschool](https://www.w3cschool.cn/bootstrap/)  
+
+[Bootstrap3 中文文档](https://v3.bootcss.com/)  
+~~~
+通过 npm 进行安装
+你还可以利用 npm 工具来安装 Bootstrap：
+
+$ npm install bootstrap@3
+
+通过 Composer 进行安装
+
+$ composer require twbs/bootstrap
+~~~
+[全局CSS 样式 · Bootstrap v3 中文文档](https://v3.bootcss.com/css/)  
+
+[Bootstrap 教程(基础)_Bootstrap基础视频教程-慕课网](https://www.imooc.com/learn/141/)  
+
+[Bootstrap中文视频教程_Bootstrap入门基础学习教程-极客学院](http://www.jikexueyuan.com/course/bootstrap/)  
+
+-----------------
 
 [Bootstrap4 教程](https://www.runoob.com/bootstrap4/bootstrap4-tutorial.html)  
 
@@ -20,13 +45,6 @@ composer require twbs/bootstrap:4.1.3
 [Bootstrap4 Examples](https://getbootstrap.com/docs/4.1/examples/)  
 
 [Build anything - Themes built by or reviewed by Bootstrap's creators](https://themes.getbootstrap.com/)  
-
-
-[Bootstrap中文网](http://www.bootcss.com/)  
-
-[Bootstrap 教程 | 菜鸟教程](https://www.runoob.com/bootstrap/bootstrap-tutorial.html)  
-
-[全局CSS 样式 · Bootstrap v3 中文文档](https://v3.bootcss.com/css/)  
 
 [Bootstrap](https://www.runoob.com/try/try.php?filename=trybs_default)  
 
@@ -64,6 +82,8 @@ http://getbootstrap.com/docs/4.1/getting-started/download/
       <p>打印图标: <span class="glyphicon glyphicon-print"></span></p>      
       <p>下载图标：<span class="glyphicon glyphicon-download"></span></p>      
 ~~~
+
+[Bootstrap学习笔记(一) 排版](https://www.cnblogs.com/sankexin/p/5509297.html)  
 
 [Bootstrap 实例 - 轮播（Carousel）](http://www.runoob.com/try/try.php?filename=bootstrap3-plugin-carousal-caption)  
 
