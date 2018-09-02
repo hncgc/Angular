@@ -16,6 +16,9 @@ Development version - 用于测试和开发（未压缩，是可读的代码）
 http://jquery.com/download/
 
 npm install jquery
+
+git clone git://github.com/jquery/jquery.git
+git checkout 1.2.6
 ~~~
 
 [JavaScript 教程](http://www.w3school.com.cn/js/)  
