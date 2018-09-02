@@ -9,6 +9,10 @@ jQuery
 
 [jQuery 教程](https://www.runoob.com/jquery/jquery-tutorial.html)  
 
+[jQuery 参考手册](https://www.runoob.com/jquery/jquery-ref-selectors.html)  
+
+[jQuery API 手册](https://www.runoob.com/manual/jquery/)  
+
 [jQuery API 中文文档 ](http://jquery.cuishifeng.cn/)
 
 [jQuery插件库](http://jquery.cuishifeng.cn/)  
