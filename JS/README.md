@@ -4,6 +4,19 @@ jQuery
 --- 
 
 [jQuery下载](http://jquery.com/download/)  
+~~~
+网页中添加 jQuery
+从 jquery.com 下载 jQuery 库
+从 CDN 中载入 jQuery, 如从 Google 中加载 jQuery
+
+两个版本的 jQuery 可供下载：
+Production version - 用于实际的网站中，已被精简和压缩。
+Development version - 用于测试和开发（未压缩，是可读的代码）
+
+http://jquery.com/download/
+
+npm install jquery
+~~~
 
 [JavaScript 教程](http://www.w3school.com.cn/js/)  
 
