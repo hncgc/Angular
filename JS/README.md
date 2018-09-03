@@ -1,7 +1,13 @@
 # JS
 
+[JavaScript 教程](http://www.w3school.com.cn/js/)  
+
+[JavaScript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)  
+
 jQuery 
 --- 
+
+[Git 64位V2.16.0.2官方版](http://www.wmzhe.com/soft-38801.html)  
 
 [jQuery下载](http://jquery.com/download/)  
 ~~~
@@ -21,9 +27,7 @@ git clone git://github.com/jquery/jquery.git
 git checkout 1.2.6
 ~~~
 
-[JavaScript 教程](http://www.w3school.com.cn/js/)  
-
-[JavaScript教程](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000)  
+[jquery下载所有版本（实时更新）](http://www.jq22.com/jquery-info122)  
 
 [jQuery 教程](https://www.runoob.com/jquery/jquery-tutorial.html)  
 
