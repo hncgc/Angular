@@ -28,6 +28,21 @@ git checkout 1.2.6
 ~~~
 
 [jquery下载所有版本（实时更新）](http://www.jq22.com/jquery-info122)  
+~~~
+百度压缩版引用地址:
+
+<script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+微软压缩版引用地址:
+
+<script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.1.min.js"></script>
+官网jquery压缩版引用地址:
+
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+
+~~~
+
+[jquery-1.9.1下载](http://www.jq22.com/jquery/jquery-1.9.1.zip)  
+
 
 [jQuery 教程](https://www.runoob.com/jquery/jquery-tutorial.html)  
 
