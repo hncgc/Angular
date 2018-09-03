@@ -100,3 +100,21 @@ $('.carousel').carousel(‘pause’);   //关闭轮播
 $(‘.carousel’).carousel({<br>　　pause：‘none’<br>});  //鼠标放到banner图上不停止轮播
 
 ~~~
+
+[bootstrap3.3 兼容IE8处理方法](https://blog.csdn.net/u012116457/article/details/50772459)  
+~~~
+<!-- IE8兼容性处理代码  begin-->
+    <!--[if lt IE 9]>
+      <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Respond.js proxy on external server -->
+    <link href="http://externalcdn.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+	<!-- Respond.js redirect location on local server -->
+	<link href="<%=path%>/base/bootstrap/js/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" /> 
+	<!-- Respond.js proxy script on local server -->
+    <script src="<%=path%>/base/bootstrap/js/respond.proxy.js"></script> 
+    <!-- IE8兼容性处理代码  end -->
+~~~
+
+
