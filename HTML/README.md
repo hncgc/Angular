@@ -68,8 +68,9 @@ http://www.getlandeng29.org/
 ~~~
 
 [VPN 蓝灯(Lantern) v4.6.3免费版](https://www.luochenzhimu.com/archives/2365.html)  
-
-
+GitHub地址：https://github.com/getlantern/forum
 
  
+[百度云管家不限速版](https://www.luochenzhimu.com/archives/2053.html)  
+
 
