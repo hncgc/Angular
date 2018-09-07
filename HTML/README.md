@@ -57,4 +57,10 @@ https://github.com/XX-net/xxnet-android/releases/download/3.6.3/XX-Net-3.6.3-deb
 ---
 https://github.com/getlantern/lantern/releases/tag/latest
 
+[蓝灯中国 lantern](http://www.getlandeng.cn/)  
+http://www.getlandeng29.org/  
+
+[VPN 蓝灯(Lantern) v4.6.3免费版](https://www.luochenzhimu.com/archives/2365.html)  
+
+
 
