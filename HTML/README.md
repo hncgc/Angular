@@ -53,3 +53,8 @@ https://github.com/XndroidDev/Xndroid/releases
 单纯XX-Net，不能自动设置代理（已停止维护）：    
 https://github.com/XX-net/xxnet-android/releases/download/3.6.3/XX-Net-3.6.3-debug.apk
 
+蓝灯
+---
+https://github.com/getlantern/lantern/releases/tag/latest
+
+
