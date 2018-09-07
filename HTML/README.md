@@ -30,6 +30,10 @@ https://www.npmjs.com/package/gulp-file-include
 易用的翻墙工具
 ---
 
+[使用XX-Net永久访问真正的互联网](https://www.cnblogs.com/LangZXG/p/7141194.html?utm_source=itdadao&utm_medium=referral)  
+
+[最简XX-NET启用IPV6教程](https://blog.csdn.net/sxyandapp/article/details/78427397)  
+
 [XX-Net VPN梯子 PC端+安卓端](https://www.lyjhc.com/12360.html)  
 官方网站：https://github.com/XX-net/XX-Net （下载后，运行start.bat文件就可以了，不是平时的那种EXE文件）
 
@@ -48,3 +52,4 @@ https://github.com/XndroidDev/Xndroid/releases
 
 单纯XX-Net，不能自动设置代理（已停止维护）：    
 https://github.com/XX-net/xxnet-android/releases/download/3.6.3/XX-Net-3.6.3-debug.apk
+
