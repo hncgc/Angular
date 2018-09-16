@@ -1,0 +1,48 @@
+.bgc-fa {
+  background-color: #FAFAFA;
+}
+.btn {
+  border-radius: 4px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  background-color: #489CFF;
+  color: #fff;
+  text-align: center;
+}
+.ft30 {
+  font-size: 30px;
+}
+.ft26 {
+  font-size: 26px;
+}
+.ft20 {
+  font-size: 20px;
+}
+.ft16 {
+  font-size: 16px;
+}
+.ft13 {
+  font-size: 13px;
+}
+.ft11 {
+  font-size: 11px;
+}
+.ml10 {
+  margin-left: 10px;
+}
+.mr10 {
+  margin-right: 10px;
+}
+.mr20 {
+  margin-right: 20px;
+}
+.mr35 {
+  margin-right: 35px;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+/*# sourceMappingURL=publicLESS.css.map */

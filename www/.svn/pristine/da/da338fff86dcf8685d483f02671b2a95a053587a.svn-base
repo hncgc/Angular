@@ -1,0 +1,322 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	</head>
+	<style type="text/css">
+		.head {
+			height: 80px;
+		}
+		
+		.body {
+			min-height: 800px;
+		}
+		
+		.foot {
+			height: 200px;
+			background-color: #ccc;
+		}
+		
+		.logo {
+			display: block;
+			width: 100px;
+			margin-top: 10px;
+			float: left;
+		}
+		
+		.logo>img {
+			width: 100px;
+		}
+		
+		.head .tab {
+			display: block;
+			float: right;
+			margin-top: 15px;
+		}
+		
+		.head .tab:before {
+			content: " ";
+			display: table;
+		}
+		
+		.head .tab:after {
+			content: " ";
+			display: table;
+			clear: both;
+		}
+		
+		.head .tab>li {
+			display: block;
+			float: left;
+			list-style: none;
+			margin: 0 10px;
+			line-height: 50px;
+		}
+		
+		.head .tab>li:last-child {
+			margin-right: 0;
+		}
+		
+		.head .tab>li>a {
+			color: #333;
+			font-size: 16px;
+			display: block;
+			height: 50px;
+			line-height: 50px;
+			padding: 0 10px;
+			text-decoration: none;
+		}
+		
+		.head .tab>li>a:hover,
+		.head .tab>li.active>a {
+			color: #3f51b5;
+		}
+		.r,
+		.l {
+			color: #666;
+			width: 570px;
+			margin-top: 20px;
+			height: 160px;
+		}
+		.l {
+			border-right: 1px solid #afafaf;
+		}
+		.l>.title {
+			width: 100%;
+			height: 40px;
+			line-height: 40px;
+		}
+		.l>.title:before {
+			content: " ";
+			display: table;
+		}
+		.l>.title:after {
+			content: " ";
+			display: table;
+			clear: both;
+		}
+		.f-logo {
+			display: block;
+			float: left;
+		}
+		.f-logo>img {
+			width: 80px;
+		}
+		.l>.title>h3 {
+			float: left;
+			display: block;
+			margin-left: 20px;
+			line-height: 40px;
+		}
+		.line {
+			margin-top: 10px;
+			line-height: 30px;
+		}
+		.line.f>a {
+			color: #666;
+			margin-left: 60px;
+			display: inline-block;
+		}
+		.line.f>a:first-child {
+			margin-left: 0;
+		}
+		.line.f>a:hover {
+			color: #3F51B5;
+		}
+		.r-head {
+			position: relative;
+			height: 40px;
+			line-height: 40px;
+		}
+		.r-head>h3 {
+			float: left;
+			height: 40px;
+			line-height: 40px;
+			margin-left: 40px;
+		}
+		.r-head>.list {
+			float: right;
+			height: 40px;
+			line-height: 40px;
+		}
+		.r-head>.list>a {
+			color: #666;
+			font-size: 16px;
+			display: inline-block;
+			margin-left: 40px;
+			text-decoration: none;
+			padding: 0 5px;
+		}
+		.r-head>.list>a:hover {
+			color: #3F51B5;
+		}
+		.r-foot {
+			margin-top: 30px;
+			margin-left: 40px;
+			line-height: 30px;
+			text-align: center;
+		}
+		.r-foot>.fun {
+			text-align: center;
+			position: relative;
+		}
+		.r-foot>.fun>a {
+			color: #666;
+		}
+		.r-foot>.fun>a:hover {
+			color: #3F51B5;
+		}
+		.news-list {
+			display: block;
+			position: relative;
+			margin-top: 40px;
+		}
+		.news-list>li {
+			display: block;
+			position: relative;
+			margin-bottom: 40px;
+		}
+		.news-list>li>.img-wrap {
+			position: absolute;
+			width: 300px;
+			height: 300px;
+			top: 0;
+			overflow: hidden;
+		}
+		.news-list>li>.img-wrap>img {
+			width: 300px;
+		}
+		.news-list>li>.news-cont {
+			position: relative;
+			height: 300px;
+			text-align: center;
+			padding: 0 60px;
+		}
+		.news-list>li:nth-child(odd)>.img-wrap {
+			left: 0;
+		}
+		.news-list>li:nth-child(odd)>.news-cont {
+			margin-left: 320px;
+		}
+		.news-list>li:nth-child(even)>.img-wrap {
+			right: 0;
+		}
+		.news-list>li:nth-child(even)>.news-cont {
+			margin-right: 320px;
+		}
+		.news-list>li>.news-cont>h3 {
+			margin-bottom: 20px;
+		}
+		.news-list>li>.news-cont>.brife {
+			margin-bottom: 30px;
+		}
+		.news-list>li>.news-cont>.desc {
+			color: #999;
+			font-size: 12px;
+			line-height: 30px;
+		}
+	</style>
+	<body>
+		<div class="head">
+			<div class="container">
+				<a class="logo"><img src="img/logo-min.png"/></a>
+				<ul class="tab">
+					<li>
+						<a href="index0.html">首页</a>
+					</li>
+					<li class="active">
+						<a href="news.html">最新动态</a>
+					</li>
+					<li>
+						<a href="about0.html">关于我们</a>
+					</li>
+					<li>
+						<a href="cooper.html">招商合作</a>
+					</li>
+					<li>
+						<div>
+							<span><i class="fa fa-qrcode"></i></span>
+							<a>APP下载</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="body">
+			<div class="container">
+				<ul class="news-list">
+					<li>
+						<div class="img-wrap">
+							<img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1545461093,3099736160&fm=27&gp=0.jpg"/>
+						</div>
+						<div class="news-cont">
+							<h3>活动标题</h3>
+							<p class="brife">活动一句话简介</p>
+							<p class="desc">活动内容详情-活动内容详情*-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情活动内容详情-活动内容详情*-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情活动内容详情-活动内容详情*-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情</p>
+						</div>
+					</li>
+					<li>
+						<div class="img-wrap">
+							<img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1029455458,2912265556&fm=27&gp=0.jpg"/>
+						</div>
+						<div class="news-cont">
+							<h3>活动标题</h3>
+							<p class="brife">活动一句话简介</p>
+							<p class="desc">活动内容详情-活动内容详情*-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情活动内容详情-活动内容详情*-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情活动内容详情-活动内容详情*-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情-活动内容详情</p>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="foot">
+			<div class="container">
+				<div class="pull-left l">
+					<div class="title">
+						<a class="f-logo"><img src="img/logo-min.png"/></a>
+						<h3>生活在临近，信息在共为</h3>
+					</div>
+					<div class="clear"></div>
+					<div class="line">
+						<span class="key">公司邮箱：</span>
+						<span class="value">li.zhonghua@gong-wei.com</span>
+					</div>
+					<div class="line">
+						<span class="key">客服电话：</span>
+						<span class="value">021-34790992</span>
+					</div>
+					<div class="line f">
+						<a>关于我们</a>
+						<a>常见问题</a>
+						<a>意见反馈</a>
+						<a>共为协议</a>
+					</div>
+				</div>
+				<div class="pull-left r">
+					<div class="r-head">
+						<h3>关注 &下载</h3>
+						<div class="list">
+							<a><i class="fa fa-wechat"></i></a>
+							<a><i class="fa fa-weibo"></i></a>
+							<a><i class="fa fa-apple"></i></a>
+							<a><i class="fa fa-android"></i></a>
+							<a><i class="fa fa-windows"></i></a>
+						</div>
+					</div>
+					<div class="clear"></div>
+					<div class="r-foot">
+						<p>Copyright © 2014-2018 共为网 当前呈现版本 17.08.16</p>
+						<div class="fun">
+							<a>沪ICP备 13030189号-2</a>
+							<a>沪公网安备 31010102002533号</a>
+							<span>上海共为信息技术有限公司版权所有</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>

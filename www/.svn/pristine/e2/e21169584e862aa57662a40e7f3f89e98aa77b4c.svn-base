@@ -1,0 +1,108 @@
+@charset "utf-8";
+.join_1 {
+  width: 100%;
+  background: #f3f3f3;
+}
+
+.join_2 {
+  width: 100%;
+  background: #f3f3f3;
+}
+
+.join_2_1 {
+  width: 100vw;
+  background: #fff;
+}
+
+.join_2_1 h1 {
+  text-align: center;
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 22px;
+  color: #333333;
+  line-height: 200%;
+}
+
+.join_2_1 .mail {
+  text-align: center;
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 18px;
+  color: #999999;
+  padding-left: 30px;
+  padding-left: 30px;
+  line-height: 200%;
+}
+
+.join_nav {
+  margin-top: 10px;
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 16px;
+  color: #333333;
+  line-height: 120%;
+}
+
+.join_nav {
+  width: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #f5f5f5;
+
+  display: inline;
+  white-space: nowrap;
+  overflow-x:scroll;
+  float:left;
+  overflow-y:hidden;
+}
+
+.nav > li {
+  display: inline-block;
+}
+
+.nav > li > a {
+  display: inline-block;
+}
+
+.nav-tabs.nav-justified {
+  width: auto!important;
+  border-bottom: 0;
+}
+
+
+.tab-content {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+  clear: both;
+}
+
+.tab-pane {
+  width: auto;
+  text-align: left;
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 14px;
+  color: #666666;
+  line-height: 180%;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.tab-pane h2 {
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 14px;
+  color: #666666;
+  line-height: 180%;
+  padding-top: 10px;
+}
+
+.tab-pane ul li {
+  background-image: url(../images/list-disc.png);
+  background-repeat: no-repeat;
+  background-position: 0px 6px;
+  padding-left: 20px;
+  color: #333;
+}
+
+.join_footer {
+  width: 100%;
+  height: 20px;
+  background: #fff;
+}

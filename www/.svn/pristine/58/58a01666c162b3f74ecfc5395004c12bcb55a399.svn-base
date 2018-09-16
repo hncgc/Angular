@@ -1,0 +1,570 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"/>
+    <meta name=""/>
+    <title>共为主页</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" href="css/index.css"/>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="js/bootstrap.3.3.7.min.js"></script>
+</head>
+
+<body>
+<div class="topbar">
+    <ul id="menu">
+        <li><img src="images/index/image_new_logo.png" width="50" height="50"/></li>
+        <li class="topcenter">共为</li>
+        <li class="topcenter">
+            <a class="leftmargin" href="index.html">
+                <div class="title">首页</div>
+                <hr>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="about.html">
+                <div class="title">关于我们</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="join.html">
+                <div class="title">加入我们</div>
+            </a>
+        </li>
+    </ul>
+
+</div>
+
+<div id="myCarousel" class="carousel slide">
+    <!-- 轮播（Carousel）指标 -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+    <!-- 轮播（Carousel）项目 -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="images/index/img1.png" alt="First slide">
+            <div class="carousel-caption hide">标题 1</div>
+        </div>
+        <div class="item">
+            <img src="images/index/img2.png" alt="Second slide">
+            <div class="carousel-caption hide">标题 2</div>
+        </div>
+        <div class="item">
+            <img src="images/index/img3.png" alt="Third slide">
+            <div class="carousel-caption hide">标题 3</div>
+        </div>
+        <div class="item">
+            <img src="images/index/img4.png" alt="Fourth slide">
+            <div class="carousel-caption hide">标题 4</div>
+        </div>
+    </div>
+    <!-- 轮播（Carousel）导航 -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="picture_1">
+    <div class="picture_left">
+        <div class="item_left">
+            <div class="item_title">临近</div>
+            <div class="item_text">临近信息一网打尽，临近动态一览无余</div>
+        </div>
+    </div>
+    <div class="picture_right">
+        <img src="images/index/index_01.png"/>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="picture_2">
+
+    <div class="picture_right">
+        <div class="item_right">
+            <div class="item_title">需求</div>
+            <div class="item_text">大家一起做事、心愿、倡议、抱怨</div>
+        </div>
+    </div>
+    <div class="picture_left">
+        <img src="images/index/index_02.png"/>
+    </div>
+    <div class="clearfloat"></div>
+
+</div>
+
+<div class="picture_3">
+
+    <div class="picture_left">
+        <div class="item_left">
+            <div class="item_title">随聊</div>
+            <div class="item_text">临近的人们可以实时交流</div>
+        </div>
+    </div>
+    <div class="picture_right">
+        <img src="images/index/index_03.png"/>
+    </div>
+
+    <div class="clearfloat"></div>
+
+</div>
+
+<div class="picture_4">
+
+    <div class="picture_right">
+        <div class="item_right">
+            <div class="item_title">商讯</div>
+            <div class="item_text">临近的商企、机构可以实时发布信息</div>
+        </div>
+    </div>
+    <div class="picture_left">
+        <img src="images/index/index_04.png"/>
+    </div>
+    <div class="clearfloat"></div>
+
+</div>
+
+<div class="picture_5">
+
+    <div class="picture_left">
+        <div class="item_left">
+            <div class="item_title">资产</div>
+            <div class="item_text">谁创建，谁拥有，谁贡献，谁得益</div>
+        </div>
+    </div>
+    <div class="picture_right">
+        <img src="images/index/index_05.png"/>
+    </div>
+    <div class="clearfloat"></div>
+
+</div>
+
+
+<div class="download">
+    <div class="download_box">
+        <div class="download_left">
+            <div class="download_left_in">
+                <div class="download_text">
+                    <img src="images/index/ic_blue_vertical_line.png"/>
+                    <span>下载安卓手机客户端</span>
+                </div>
+                <div class="download_img">
+                    <a href="download/com.gong_wei-app.apk"><img src="images/index/index_button.png" /></a>
+                </div>
+            </div>
+        </div>
+        <div class="download_right">
+            <img src="images/index/qr_code_gw.png"/>
+        </div>
+    </div>
+
+</div>
+
+<div class="clearfloat"></div>
+
+<div class="index_box">
+    <div class="index_box_1">
+        <img src="images/index/dynamic_info.png"/>
+    </div>
+    <div class="index_box_2" align="center">
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_1.jpg"></div>
+            <div class="index_box_content">
+                <div class="content">
+                    <div class="text_content_1" id="dy_info_1">
+                        好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                    </div>
+                    <div class="clearfloat">
+                        <div class="text_content_2">
+                            2018-7-14
+                        </div>
+                        <div class="text_content_3">
+                            <a id="dy_url_1" href="index.html">进入详情</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_2.jpg"></div>
+            <div class="index_box_content">
+                <div class="content">
+                    <div class="text_content_1" id="dy_info_2">
+                        好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                    </div>
+                    <div class="clearfloat">
+                        <div class="text_content_2">
+                            2018-7-14
+                        </div>
+                        <div class="text_content_3">
+                            <a id="dy_url_2" href="index.html">进入详情</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_3.jpg"></div>
+            <div class="index_box_content">
+                <div class="content">
+                    <div class="text_content_1" id="dy_info_3">
+                        好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                    </div>
+                    <div class="clearfloat">
+                        <div class="text_content_2">
+                            2018-7-14
+                        </div>
+                        <div class="text_content_3">
+                            <a id="dy_url_3" href="index.html">进入详情</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_4.jpg"></div>
+            <div class="index_box_content">
+                <div class="content">
+                    <div class="text_content_1" id="dy_info_4">
+                        好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                    </div>
+                    <div class="clearfloat">
+                        <div class="text_content_2">
+                            2018-7-14
+                        </div>
+                        <div class="text_content_3">
+                            <a id="dy_url_4" href="index.html">进入详情</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+        <div class="clearfloat"></div>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="clearfloat"></div>
+
+<div class="footer">
+    <div class="footer_main">
+
+        <div class="footer_right">
+            <div class="company">
+                <ul class="footer_menu">
+                    <li class="footer_menu_title">公司相关</li>
+                    <li>
+                        <a href="about.html">关于我们</a>
+                    </li>
+                    <li>
+                        <a href="feedback.html">意见反馈</a>
+                    </li>
+                    <li>
+                        <a href="join.html">加入我们</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="rule">
+                <ul class="footer_menu">
+                    <li class="footer_menu_title">协议条款</li>
+                    <li>
+                        <!--a href="register_protocol.html">注册协议</a-->
+                        <a data-toggle="modal" data-target="#registrationModal">注册协议</a>
+                    </li>
+                    <li>
+                        <!--a href="privacy.html">隐私协议</a-->
+                        <a data-toggle="modal" data-target="#privacyModal">隐私协议</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="footer_left">
+            <div class="footer_text_1">
+                <img src="images/index/logo_white_bg.png"/>
+                <span>共为</span>
+            </div>
+            <div class="footer_text_2">信息聚为资产 分享就是投资</div>
+            <div class="footer_icon">
+                <ul>
+                    <li><a data-toggle="modal" data-target="#wechatModal"><img src="images/index/icon_wechat.png"/></a></li>
+                    <li><a data-toggle="modal" data-target="#weiboModal"><img src="images/index/icon_weibo.png"/></a></li>
+                    <li><a data-toggle="modal" data-target="#appModal"><img src="images/index/icon_android.png"/></a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="footer_line">
+        <hr align="center" width="100%" size="1" color="#444444" noshade="noshade">
+    </div>
+
+    <div class="copyright">沪ICP备 13030180号 Copyright ©2014-2018 上海共为信息技术有限公司 ︱ 地址：上海市闵行区江凯路1358号</div>
+    <div class="copyright">
+        上海市互联网举报中心 ︱ 2018沪公网安备31010102002533号
+        <img src="images/index/icon_web_safety.png" width="15" height="15"/>
+    </div>
+
+</div>
+
+
+<!-- 微信二维码 -->
+<div class="modal fade" id="wechatModal" tabindex="-1" role="dialog" aria-labelledby="wechatModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="wechatModalLabel">微信二维码</h4>
+            </div>
+            <div class="modal-body">
+                <img class="center-block" src="images/index/qr_code_gw.png"/>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 微信二维码 -->
+<div class="modal fade" id="weiboModal" tabindex="-1" role="dialog" aria-labelledby="weiboModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="weiboModalLabel">新浪微博二维码</h4>
+            </div>
+            <div class="modal-body">
+                <img class="center-block" src="images/index/qr_code_gw.png"/>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- App下载二维码 -->
+<div class="modal fade" id="appModal" tabindex="-1" role="dialog" aria-labelledby="appModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="appModalLabel">App下载</h4>
+            </div>
+            <div class="modal-body">
+                <img class="center-block" src="images/index/qr_code_gw.png"/>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 注册协议 -->
+<div class="modal fade" id="registrationModal" tabindex="-1" role="dialog" aria-labelledby="registrationModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="registrationModalLabel">共为用户注册协议</h4>
+            </div>
+            <div class="modal-body">
+                <p>欢迎您来到共为</p>
+                <p>在您注册成为共为用户的过程中，本协议有助于您了解我们为您提供的服务内容以及您的权利义务，请您仔细阅读、充分理解协议的条款内容后再点击同意确认。</p>
+                <p>当您注册成功，无论是进入共为，还是在共为上发布任何内容（即「内容」），以及使用各分项分类服务时，均意味着您（即「用户」）完全接受本协议项下的全部条款。</p>
+                <h2>使用规则</h2>
+                <p>1.	用户注册成功后，共为将给予每个用户一个用户帐号及相应的密码，该用户帐号和密码由用户负责保管；用户享有账号的使用权，该使用权不得以任何方式私自转让，用户应当对以其用户帐号进行的所有活动和事件负法律责任。</p>
+                <p>2.	共为按照“后台实名、前台自愿”的原则，要求用户进行基于移动电话号码等方式的真实身份信息认证后注册和使用账号。</p>
+                <p>3.	用户须对在共为的注册信息的真实性、合法性、有效性承担全部责任，用户不得冒充他人；不得利用他人的名义发布任何信息；不得恶意使用注册帐号导致其他用户误认；否则共为有权立即停止提供服务，收回其帐号并由用户独自承担由此而产生的一切法律责任。</p>
+                <p>4.	用户直接或通过各类方式（如 RSS 源和站外 API 引用等）间接使用共为服务和数据的行为，都将被视作已无条件接受本协议全部内容；若用户对本协议的任何条款存在异议，请停止使用共为所提供的全部服务。</p>
+                <p>5.	共为是一个信息共享、交互、传播及获取的平台，用户通过共为发表的信息为公开的信息，其他第三方均可以通过共为获取用户发表的信息，用户对任何信息的发表即认可该信息为公开的信息，并单独对此行为承担法律责任；任何用户不愿被其他第三人获知的信息都不应该在共为上进行发表。</p>
+                <p>6.	用户承诺不得以任何方式利用共为直接或间接从事违反中国法律以及社会公德的行为，共为有权对违反上述承诺的内容予以删除。</p>
+                <p>7.	用户不得利用共为服务制作、上载、复制、发布、传播或者转载以及违规发布如下内容：</p>
+                <p>•	违反法律法规：发布违反国家相关法律法规及「七条底线」、「九不准」管理规定的信息，主要表现为：</p>
+                <p>o	反对宪法所确定的基本原则；</p>
+                <p>o	危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一；</p>
+                <p>o	损害国家荣誉和利益；</p>
+                <p>o	煽动民族仇恨、民族歧视，破坏民族团结；</p>
+                <p>o	破坏国家宗教政策，宣扬邪教和封建迷信；</p>
+                <p>o	散布谣言，扰乱社会秩序，破坏社会稳定；</p>
+                <p>o	宣扬淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪；</p>
+                <p>o	煽动非法集会、结社、游行、示威、聚众扰乱社会秩序；</p>
+                <p>o	诽谤他人，泄露他人隐私，侵害他人合法权益；</p>
+                <p>o	含有法律、行政法规禁止的其他内容的信息。</p>
+                <p>•	不友善行为：不尊重知乎用户及其所贡献内容的行为，主要表现为：</p>
+                <p>o	轻蔑：贬低、轻视他人及其劳动成果；</p>
+                <p>o	诽谤：捏造、散布虚假事实，损害他人名誉；</p>
+                <p>o	嘲讽：以比喻、夸张、侮辱性的手法对他人或其行为进行揭露或描述，以此来激怒他人；</p>
+                <p>o	挑衅：以不友好的方式激怒他人，意图使对方对自己的言论作出回应，蓄意制造事端；</p>
+                <p>o	羞辱：贬低他人的能力、行为、生理或身份特征，让对方难堪；</p>
+                <p>o	谩骂：以不文明的语言对他人进行负面评价；</p>
+                <p>o	歧视：针对他人的民族、种族、宗教、性取向、性别、年龄、地域、生理特征等身份或者归类的攻击</p>
+                <p>o	威胁：许诺以不良的后果来迫使他人服从自己的意志。</p>
+                <p>•	发布垃圾广告信息：用户以推广曝光为目的，发布影响用户体验、扰乱知乎社区秩序的内容，或进行相关行为。</p>
+                <p>o	多次发布包含售卖产品、提供服务、宣传推广内容的垃圾广告。包括但不限于以下几种形式：</p>
+                <p>单个帐号多次发布包含垃圾广告的内容</p>
+                <p>多个广告帐号互相配合发布包含垃圾广告的内容</p>
+                <p>多次发布包含欺骗性外链的内容，如未注明的外部链接、跳转网站等，诱骗用户点击链接</p>
+                <p>发布大量包含 SEO 推广链接的内容获取搜索引擎中的不正当曝光</p>
+                <p>o	购买或出售帐号之间虚假地互动，发布干扰社区秩序的推广内容及相关交易。包括但不限于以下几种形式：</p>
+                <p>购买机器注册帐号的关注伪造在社区内的影响力</p>
+                <p>购买机器注册帐号点击赞同谋求回答的不正当曝光</p>
+                <p>o	使用严重影响用户体验的违规手段进行恶意营销。包括但不限于以下几种形式：</p>
+                <p>不规范转载他人内容同时加入推广营销内容</p>
+                <p>发布包含欺骗性的恶意营销内容，如通过伪造经历、冒充他人等方式进行恶意营销</p>
+                <p>o	使用特殊符号、图片等方式规避垃圾广告内容审核的广告内容</p>
+                <p>•	恶意行为：滥用产品功能，进行影响用户体验，危及平台安全及损害他人权益的行为。主要表现为：</p>
+                <p>o	恶意编辑，指清空或删除有效内容，添加无关信息，破坏内容结构等降低公共编辑内容质量的编辑</p>
+                <p>o	冒充他人，通过头像、用户名等个人信息暗示自己与他人或机构相等同或有关联</p>
+                <p>o	重复发布干扰正常用户体验的内容。包括但不限于以下几种形式：</p>
+                <p>•	重复的回答内容多次发布在不同问题下</p>
+                <p>•	频繁发布难以辨识涵义影响阅读体验的字符、数字等无意义乱码</p>
+                <p>•	骚扰他人，以评论、@ 他人、私信等方式对他人反复发送重复或者相似的诉求</p>
+                <p>o	诱导投票或关注，如通过点赞抽奖、集赞更新等形式诱导投票或者诱导关注</p>
+                <p>o	制作及传播外挂或者用于操作帐号功能的恶意程序或相关教程</p>
+                <p>o	发布含有潜在危险的内容，如钓鱼网站、木马、病毒网站等</p>
+                <p>8.	共为有权对用户使用的情况进行审查和监督，如用户在使用时违反任何上述规定，共为或其授权的人有权要求用户改正或直接采取一切必要的措施（包括但不限于更改或删除用户张贴的内容、暂停或终止用户使用共为的权利）以减轻用户不当行为造成的影响。用户可以使用共为页面上的「举报」功能对涉嫌违规的行为和用户进行举报。违规的信息由共为站方或共为指定的管理员根据本规定直接处理。</p>
+                <p>9.	共为站方可以随着社区管理经验的不断丰富，出于维护共为社区氛围和秩序的目的，不断完善本规定。</p>
+                <p>10.	服务条款的修改，在必要时将修改服务条款，届时将在用户界面提示修改内容，如果用户不同意所作的修改，可以主动取消获得的网络服务。如果用户继续享有共为的服务，则被视为接受服务条款变动。</p>
+                <p>11.	如果共为用户对共为基于本规范做出的处理有异议，可以通过页面的「建议反馈」功能向共为进行反馈。</p>
+                <h2>版权声明</h2>
+                <p>除非我方平台另行声明，我方平台内的所有产品、技术、软件、程序、数据及其他信息（包括文字、图标、图片、照片、音频、视频、图表、色彩组合、版面设计等）的所有权利（包括版权、商标权、专利权、商业秘密及其他相关权利）均归我方平台网站服务提供者及/或其关联公司所有。未经我方平台网站服务提供者及/或其关联公司许可，任何人不得以包括通过机器人、蜘蛛等程序或设备监视、复制、传播、展示、镜像、上载、下载等方式擅自使用我方平台内的任何内容。</p>
+                <p>尊重用户个人隐私信息，我们深知个人信息的重要性，共为将通过技术手段、强化内部管理等办法充分保护用户的个人隐私信息，除法律或有法律赋予权限的政府部门要求或事先得到用户明确</p>
+                <p>我方平台上的“共为”、“Gongwei”等文字及/或标识以及我方平台其他标识、徽记、产品和服务名称均为我方平台服务提供者及/或其关联公司在中国和其他国家的商标，如有宣传、展示等任何使用需要，您必须取得我方平台服务提供者及/或其关联公司事先书面授权。</p>
+                <h2>个人隐私</h2>
+                <p>为了保障您的信息安全，共为承诺会对您的信息妥善保管，并使用信息安全保护达到合理的安全水平。共为致力于使用各种安全技术及配套的管理体系来防止您的信息被泄露、损毁或丢失，除法律或有法律赋予权限的政府部门要求或事先得到用户明确授权等原因外，我们保证不对外公开或向第三方透露用户个人隐私信息，或用户在使用服务时存储的非公开内容。同时，为了运营和改善共为的技术与服务，共为将可能会自动收集使用向第三方提供用户的非个人隐私信息，这将有助于共为向用户提供更好的用户体验和服务质量。</p>
+                <p>您使用或继续使用我们的服务，即意味着同意我们按照共为《隐私声明》收集、使用、储存和分享您的相关信息。</p>
+                <h2>免责声明</h2>
+                <p>1.  共为不能对用户发布内容的正确性进行保证。用户在平台中引发的法律纠纷，由用户双方自行处理，与共为无关。</p>
+                <p>2.	用户在共为发布的内容仅代表个人，并不代表共为的发布。作为内容的发布者，需自行对所发表内容负责，因所发布内容引发的一切纠纷，由该内容的发布者承担全部法律及连带责任。共为不承担任何法律及连带责任。</p>
+                <p>3.	共为不保证网络服务一定能满足用户的要求，也不保证网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作保证。</p>
+                <p>4.	对于因不可抗力或共为不能控制的原因造成的网络服务中断或其它缺陷，共为不承担任何责任，但将尽力减少因此而给用户造成的损失和影响。</p>
+                <h2>举报规则</h2>
+                <p>如果个人或企业发现共为上存在违反法律法规，违反正常社会道德，侵犯其合法权益时，可以通过点击平台举报按键来向共为平台进行举报投诉。为了保证举报、投诉的问题能够及时的有效处理，请务必提交真实有效、完整清晰的材料，将为举报、投诉更快捷的受理。</p>
+                <p>用户需要保证举报、投诉的内容真实性，否则需要承担相应的人缘值减值和贡献分的减值（贡献分减值后不能参加分红）。</p>
+                <p>共为自接到举报、投诉后会尽快处理，处理结果会有消息通知。</p>
+                <h2>协议的修订</h2>
+                <p>为了满足您多样化和专业化的服务需求，我们将根据国家法律、法规及其他规范性文件及业务需要，可能增加、变更服务内容或服务方式。您理解并同意共为可能对本协议内容进行变更，并以在共为官方网站发布公告的方式提前予以公布。若您不接受本协议的变更，您有权自主决定选择停止使用本服务。若您在公告约定的生效时间后继续使用本服务的，表示您已充分阅读、理解并接受变更修改后协议内容，也将遵循变更修改后的协议内容使用本服务。</p>
+                <h2>协议终止</h2>
+                <p>您同意，共为基于平台服务的安全性，有权终止向您提供部分或全部共为平台服务，暂时冻结您的账户，待安全问题解决后及时恢复，并对终止、冻结及恢复的事实及时通知。如果网站的安全问题是由于您的违法行为引起，共为有权终止向您提供部分或全部服务，永久冻结（注销）您的账户，并有权向您对损失进行索赔。</p>
+                <p>如您对本协议的修改有异议，或对共为的服务不满，可以行使如下权利：</p>
+                <p>1、可以停止使用共为平台的网络服务；</p>
+                <p>2、通过官方注销账号按键停止对其服务；在此情况下，共为平台没有义务传送任何未处理的信息或未完成事项给您或任何无直接关系的第三方。</p>
+                <p>您同意，您与共为的协议关系终止后，共为仍享有下列权利：</p>
+                <p>1、继续保存您未及时删除的注册信息及您使用共为平台服务期间发布的所有信息至法律规定的记录保存期满。</p>
+                <p>2、您在使用共为平台服务期间存在违法行为或违反本协议或规则的行为的，共为仍可依据本协议向您主张权利、追究责任。</p>
+                <h2>其他</h2>
+                <p>1、共为郑重提醒用户注意本《协议》中免除共为责任和加重用户义务的条款，请用户仔细阅读，自主考虑风险。未成年人应在法定监护人的陪同下阅读本《协议》。以上各项条款内容的最终解释权及修改权归共为所有。</p>
+                <p>2、本《协议》签订地为中华人民共和国上海市闵行区。</p>
+                <p>3、本协议的成立、生效、履行、解释及纠纷解决，适用中华人民共和国大陆地区法律（不包括冲突法）。</p>
+                <p>4、若您与共为之间发生任何纠纷或争议，首先应友好协商解决；协商不成的，双方同意将纠纷或争议提交本协议签订地有管辖权的人民法院解决。</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 隐私协议 -->
+<div class="modal fade" id="privacyModal" tabindex="-1" role="dialog" aria-labelledby="privacyModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="privacyModalLabel">共为隐私保护协议</h4>
+            </div>
+            <div class="modal-body">
+                <p>在共为，我们将隐私视作每个人的基本权利。您在使用我们的服务时，我们可能会收集和使用您的相关信息。我们希望通过《共为隐私政策》向您说明我们在您使用我们的服务时如何收集、使用、保存、共享和转让这些信息，以及我们为您提供的访问、更新、删除和保护这些信息的方式。</p>
+                <p>请您在使用我们的服务前仔细阅读并确认您已经充分理解本政策所写明的内容，并让您可以按照本隐私政策的指引做出您认为适当的选择。您使用或在我们更新本隐私政策后（我们会及时提示您更新情况）继续使用我们的服务，即意味着您同意本隐私政策（含更新版本）内容，并且同意我们按照本隐私政策收集、使用、保存和共享您的相关信息。</p>
+                <h2>一、我们收集的个人信息</h2>
+                <p>个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。包括但不限于自然人的姓名、出生日期、身份证件号码、个人生物识别信息、住址、电话号码等。此类信息会在您注册和使用我们的服务时被收集，共为仅会出于本政策所述以下目的收集和使用您的个人信息：</p>
+                <p>•	注册信息。您使用共为提供的服务，可以注册并登陆经注册的共为账号。此时，您需要向我们提供以下信息：账号名称、头像（如有）和手机号码等，提供上述信息并同意注册协议和本政策后，您可以使用共为的核心业务功能，包括：浏览平台内的内容、发布、随聊、评论、评价等。在您注册共为帐号时，我们会使用手机号码对您进行实名验证，如您拒绝提供手机号码或进行实名验证，您仍可浏览部分共为平台内的内容，但将无法使用随聊、发布内容、评论、评价等信息发布服务。</p>
+                <p>•	位置信息。当您开启设备定位功能并使用我们基于位置提供的相关服务时，我们会收集有关您位置的信息。我们保证在您的设备使用定位服务时不会收集其他无关信息。</p>
+                <p>•	关键词信息。当您使用共为提供的搜索服务时，我们会收集您的查询关键字信息、设备信息等，为了提供高效的搜索服务，这些信息有部分会暂时存储在您的本地存储设备之中。该等关键词信息通常无法单独识别您的个人身份，不属于您的个人信息，不在本政策的限制范围内。只有当您的搜索关键词信息与您的其他信息互有联系并可以识别您的个人身份时，则在结合使用期间，我们会将您的搜索关键词信息作为您的个人信息，与您的搜索历史记录一同按照本政策对其进行处理与保护。</p>
+                <p>•	真实身份信息。当您使用共为提供的身份认证服务时，我们会收集您的姓名、身份证号、职业、有关身份证明等信息。如果您不提供这些信息，我们将无法提供相关服务。</p>
+                <p>•	联系方式信息。当您向共为进行帐号申诉或参与营销活动时，为了方便与您联系或帮助您解决问题，我们会收集并记录您的姓名、手机号码、电子邮件及其他联系方式等个人信息。如您拒绝提供上述信息，我们可能无法向您及时反馈投诉结果或向您邮寄礼品（如有）。</p>
+                <p>•	共为会收集你设备的具体位置信息为你提供您所在位置的有关资讯，共为所收集的信息中不会涉及你设备的其他信息。</p>
+                <p>•	用户共享的信息。当您在共为中使用第三方提供的服务时，您同意共为允许该第三方收集您的帐号名称、头像及其他提供服务所必须的个人信息。如果您拒绝第三方在提供服务时收集上述信息，将可能导致您无法在共为中使用该第三方服务。</p>
+                <p>•	（暂不需要）您在使用第三方帐号（如微信、微博）登录共为。此时您可选择授权共为在符合相关法律和法规规定的前提下读取您在该第三方平台上登记、公布、记录的公开信息（包括但不限于昵称、头像、关注用户列表等）。对于我们要求但第三方无法提供的个人信息，我们仍可以要求您补充提供。共为可能从第三方获取您的上述信息的目的是为了记住您作为知乎用户的登录身份，并向您提供个性化推荐，以便于共为向您提供更优质的产品服务。您可以在使用第三方帐号登录共为时选择授权共为可获取的个人信息的范围，或在使用共为的过程中通过【帐号与安全-社交帐号绑定】设置拒绝或管理共为获取您个人信息的权限。但请注意，如果停止某些权限，您有可能无法享受最佳的服务体验，某些服务也可能无法正常使用。</p>
+                <p>•	当涉及国家安全与利益、社会公共利益、与犯罪侦查有关的相关活动、你或他人生命财产安全但在特殊情况下无法获得你的及时授权、能够从其他合法公开的渠道、法律法规规定的其他情形下，共为可能在不经过你的同意或授权的前提下，收集你的个人信息。</p>
+                <h2>二、共为如何使用您的个人信息</h2>
+                <p>我们会将您的个人信息用于以下目的：</p>
+                <p>•	为您提供个性化服务</p>
+                <p>•	帮助我们设计新服务，提升现有服务体验</p>
+                <p>•	在我们提供服务时，用于身份验证、客户服务、安全防范、诈骗检测、存档和备份用途，确保我们向您提供的产品和服务的安全性。</p>
+                <p>•	向您发送您可能感兴趣的信息；向您提供与您更加相关的广告以替代普遍投放的广告；邀请您参与共为活动和市场调查</p>
+                <p>•	开展内部审计、数据分析和研究，以更好地改善我们的产品、服务及与用户之间的沟通</p>
+                <h2>三、设备权限的调用</h2>
+                <p>共为在提供服务的过程中，可能需要您开通一些设备权限，例如通知、相册、相机、手机通讯录、蓝牙等访问权限。您也可以在设备的设置功能中随时选择关闭部分或者全部权限，从而拒绝共为收集相应的个人信息。在不同设备中，权限显示方式及关闭方式可能有所不同，具体请参考设备及系统开发方说明或指引。</p>
+                <h2>四、个人信息的保护和安全措施</h2>
+                <p>共为重视个人信息的安全。我们采取互联网业内标准做法来保护您的个人信息，防止信息遭到未经授权访问、披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。</p>
+                <p>我们会尽全力保护您的个人信息，但请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，不可能始终保证信息百分之百的安全。您需要了解，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。</p>
+                <p>在发生个人信息安全事件的场合，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。</p>
+                <h2>五、个人信息的存储</h2>
+                <p>共为会采取合适的安全措施和技术手段存储及保护你的个人信息，以防止丢失、被误用、受到未授权访问或泄漏、被篡改或毁坏。你的个人信息存放在有密码控制的位于中国境内的服务器中，访问均是受到限制的。当你需要跨境信息传输服务时，共为会默认你继续使用中国境内的服务器。</p>
+                <p>共为会依照个人信息的不同等级存储不同期限，存储期限严格按照法律及相关法规规定，最低期限不少于6个月。</p>
+                <p>根据本条款的规定，我们仅允许有必要知晓这些信息的共为员工等第三方访问个人信息，并要求他们履行相应的保密义务。</p>
+                <p>共为如涉及向境外传输个人信息，将会向用户明确告知并征得同意。</p>
+                <h2>>六、个人信息的使用和对外提供</h2>
+                <p>未经你本人允许，我们不会向任何第三方公开（包括共享、转让、公开披露等方式）你的个人信息，下列情形除外：</p>
+                <p>•	共为已经取得你或你监护人的授权或同意；</p>
+                <p>•	司法机关或行政机关基于法定程序要求共为披露的；</p>
+                <p>•	共为为维护自身合法权益而向用户提起诉讼或仲裁时；</p>
+                <p>•	根据你与共为相关服务条款、应用许可使用协议的约定；</p>
+                <p>•	在法律允许的范围内，为保障共为、共为用户以及社会公共利益免受损害时；</p>
+                <p>•	符合你与其他第三人之间有关约定的；</p>
+                <p>你可以向特定的对象发送你的照片、身份信息、位置信息等，也可以基于共为的服务向不特定人共享自己的照片、位置信息、身份信息等。当你因为你的共享行为导致你的信息发生泄漏等严重情况时，共为不承担相关法律责任。</p>
+                <h2>七、对未成年人个人信息的特别保护</h2>
+                <p>我们鼓励父母或监护人指导未满十八岁的未成年人使用我们的服务。我们建议未成年人鼓励他们的父母或监护人阅读本政策，并建议未成年人在提交个人信息之前寻求父母或监护人的同意和指导。但是，如果您确认自己能够完全理解本政策的全部内容且您为使用共为服务所进行的相关操作行为与您的年龄、智力相适应的，则您可以独立进行相关操作（包括向我们提交您的个人信息）。</p>
+                <h2>八、隐私政策的修改</h2>
+                <p>•	为给您提供更好的服务以及随着我们业务的发展，本隐私政策也会随之更新。但未经你明确同意，我们不会削减你依据当前生效个人信息保护政策所应享有的权利。</p>
+                <p>•	我们会通过在移动端发出更新版本并在生效前通过公告或以其他适当方式提醒你相关内容的更新，以便及时了解最新的个人信息保护政策。</p>
+                <p>•	对于重大变更，我们还会提供更为显著的通知（我们会通过包括但不限于邮件、短信、私信或在浏览页面做特别提示等方式，说明个人信息保护政策的具体变更内容）。</p>
+                <p>本政策所指的重大变更包括但不限于：</p>
+                <p>ｏ	我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；</p>
+                <p>ｏ	我们在所有权结构、组织架构等方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；</p>
+                <p>ｏ	个人信息共享、转让或公开披露的主要对象发生变化；</p>
+                <p>ｏ	你参与个人信息处理方面的权利及其行使方式发生重大变化；</p>
+                <p>ｏ	我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时；</p>
+                <p>ｏ	个人信息安全影响评估报告表明存在高风险时。</p>
+                <h2>九、如何联系我们</h2>
+                <p>•	如您对本隐私政策或您个人信息的相关事宜有任何问题、意见或建议，请通过意见反馈做出反馈意见或发送邮件至***@gongwei.com（一个共为邮箱）。</p>
+                <p>•	一般情况下，我们将在三十天内回复。如果您对我们的回复不满意，特别是我们的个人信息处理行为损害了您的合法权益，您还可以向网信、电信、公安及工商等监管部门进行投诉或举报。</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    //启动轮播
+    $('.carousel').carousel();
+</script>
+
+</body>
+</html>

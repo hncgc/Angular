@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"/>
+    <meta name=""/>
+    <title>关于我们</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" href="css/about.css"/>
+    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.3.3.7.min.js"></script>
+    <script type="text/javascript" src="js/carouseljs.js"></script>
+</head>
+
+<body>
+<div class="topbar">
+    <ul id="menu">
+        <li><img src="images/index/image_new_logo.png" width="50" height="50"/></li>
+        <li class="topcenter">共为</li>
+        <li class="topcenter">
+            <a class="leftmargin" href="index.html">
+                <div class="title">首页</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="about.html">
+                <div class="title">关于我们</div>
+                <hr>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="join.html">
+                <div class="title">加入我们</div>
+            </a>
+        </li>
+    </ul>
+
+</div>
+<div class="clearfloat"></div>
+
+<div class="about_1">
+    <img src="images/about/about_01.jpg" />
+</div>
+<div class="about_2">
+
+    <img src="images/about/about_02.png" />
+    <div class="about_2_1">
+        <ul>
+            <li>ABOUT</li>
+            <li>US</li>
+            <li class="vertical_line"></li>
+            <li class="title">什么是共为？</li>
+            <li class="content">
+                共为是提供一个开放和全方位的实时临近信息的社交平台，让大家一起参与，
+                一起做事，分享生活乐趣。链接地方圈内的生活信息资源，提供实时信息服
+                务（查找、匹配），大家共为、共享、共有的平台。
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+<div class="about_3">
+    <div class="about_3_1">
+        <h1>更多交流、互动、反馈</h1>
+        <table>
+            <tr>
+                <td>电子邮件</td>
+                <td>lizhonghua@gong-wei.com</td>
+            </tr>
+            <tr>
+                <td>微博</td>
+                <td>@共为</td>
+            </tr>
+            <tr>
+                <td>微信公众号</td>
+                <td>共为信息</td>
+            </tr>
+        </table>
+
+    </div>
+    <div class="about_3_2">
+        <img src="images/about/about_03.jpg" />
+        <img src="images/about/about_04.jpg" />
+        <img src="images/about/about_05.jpg" />
+        <img src="images/about/about_06.jpg" />
+    </div>
+
+</div>
+
+<div class="footer">
+    <div class="footer_main">
+
+        <div class="footer_right">
+            <div class="company">
+                <ul class="footer_menu">
+                    <li class="footer_menu_title">公司相关</li>
+                    <li>
+                        <a href="about.html">关于我们</a>
+                    </li>
+                    <li>
+                        <a href="feedback.html">意见反馈</a>
+                    </li>
+                    <li>
+                        <a href="join.html">加入我们</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="rule">
+                <ul class="footer_menu">
+                    <li class="footer_menu_title">协议条款</li>
+                    <li>
+                        <a href="register_protocol.html">注册协议</a>
+                    </li>
+                    <li>
+                        <a href="privacy.html">隐私协议</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+        <div class="footer_left">
+            <div class="footer_text_1">
+                <img src="images/index/logo_white_bg.png"/>
+                <span>共为</span>
+            </div>
+            <div class="footer_text_2">信息聚为资产 分享就是投资</div>
+            <div class="footer_icon">
+                <ul>
+                    <li><img src="images/index/icon_wechat.png"/></li>
+                    <li><img src="images/index/icon_weibo.png"/></li>
+                    <li><img src="images/index/icon_android.png"/></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="footer_line">
+        <hr align="center" width="100%" size="1" color="#444444" noshade="noshade">
+    </div>
+
+    <div class="copyright">沪ICP备 13030180号 Copyright ©2014-2018 上海共为信息技术有限公司 ︱ 地址：上海市闵行区江凯路1358号</div>
+    <div class="copyright">
+        上海市互联网举报中心 ︱ 2018沪公网安备31010102002533号
+        <img src="images/index/icon_web_safety.png" width="15" height="15"/>
+    </div>
+
+</div>
+
+</body>
+</html>

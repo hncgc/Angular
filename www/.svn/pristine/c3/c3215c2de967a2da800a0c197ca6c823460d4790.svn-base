@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"/>
+    <meta name=""/>
+    <title>共为主页</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" href="css/index.css" type="text/css"/>
+    <![endif]-->
+    <!--[if gte IE 9]><!-->
+    <link rel="stylesheet" media="(max-width:1080px)" type="text/css" href="css/global_small.css"/>
+    <link rel="stylesheet" media="(min-width:1081px)" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" media="(max-width:1080px)" href="css/index_small.css" type="text/css"/>
+    <link rel="stylesheet" media="(min-width:1081px)" href="css/index.css" type="text/css"/>
+    <!--<![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 9]><!-->
+    <script src="js/jquery-3.3.1.min.js" charset="utf-8"></script>
+    <!--<![endif]-->
+    <script src="js/bootstrap.3.3.7.min.js"></script>
+    <!-- IE8兼容性处理代码  begin-->
+    <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Respond.js proxy on external server -->
+    <link href="http://externalcdn.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+    <!-- Respond.js redirect location on local server -->
+    <link href="<%=path%>/base/bootstrap/js/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
+    <!-- Respond.js proxy script on local server -->
+    <script src="<%=path%>/base/bootstrap/js/respond.proxy.js"></script>
+    <!-- IE8兼容性处理代码  end -->
+
+</head>
+
+<body>
+<div id="navbar1" class="topbar hidden">
+    <ul class="menu menubar1">
+        <li><img src="images/index/image_new_logo.png" width="50" height="50"/></li>
+        <li class="topcenter">共为</li>
+        <li class="topcenter">
+            <a class="leftmargin" href="index.html">
+                <div class="title">首页</div>
+                <hr>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="about.html">
+                <div class="title">关于我们</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="join.html">
+                <div class="title">加入我们</div>
+            </a>
+        </li>
+    </ul>
+</div>
+
+<nav id="navbar2" class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#example-navbar-collapse">
+                <span class="sr-only">切换导航</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">共为信息</a>
+        </div>
+        <div class="collapse navbar-collapse" id="example-navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html">首页</a></li>
+                <li><a href="about.html">关于我们</a></li>
+                <li><a href="join.html">加入我们</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="clearfloat"></div>
+
+<div id="myCarousel" class="carousel slide">
+    <!-- 轮播（Carousel）指标 -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+    </ol>
+    <!-- 轮播（Carousel）项目 -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <img src="images/index/img1.png" alt="First slide">
+            <div class="carousel-caption hide">标题 1</div>
+        </div>
+        <div class="item">
+            <img src="images/index/img2.png" alt="Second slide">
+            <div class="carousel-caption hide">标题 2</div>
+        </div>
+        <div class="item">
+            <img src="images/index/img3.png" alt="Third slide">
+            <div class="carousel-caption hide">标题 3</div>
+        </div>
+        <div class="item">
+            <img src="images/index/img4.png" alt="Fourth slide">
+            <div class="carousel-caption hide">标题 4</div>
+        </div>
+    </div>
+    <!-- 轮播（Carousel）导航 -->
+    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+</div>
+
+<div class="picture_1">
+    <div class="picture_left">
+        <div class="item_left">
+            <div class="item_title">临近</div>
+            <div class="item_text">临近信息一网打尽，临近动态一览无余</div>
+        </div>
+    </div>
+    <div class="picture_right">
+        <img src="images/index/index_01.png"/>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="picture_2">
+    <div class="picture_right">
+        <div class="item_right">
+            <div class="item_title">需求</div>
+            <div class="item_text">大家一起做事、心愿、倡议、抱怨</div>
+        </div>
+    </div>
+    <div class="picture_left">
+        <img src="images/index/index_02.png"/>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="picture_3">
+    <div class="picture_left">
+        <div class="item_left">
+            <div class="item_title">随聊</div>
+            <div class="item_text">临近的人们可以实时交流</div>
+        </div>
+    </div>
+    <div class="picture_right">
+        <img src="images/index/index_03.png"/>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="picture_4">
+    <div class="picture_right">
+        <div class="item_right">
+            <div class="item_title">商讯</div>
+            <div class="item_text">临近的商企、机构可以实时发布信息</div>
+        </div>
+    </div>
+    <div class="picture_left">
+        <img src="images/index/index_04.png"/>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="picture_5">
+    <div class="picture_left">
+        <div class="item_left">
+            <div class="item_title">资产</div>
+            <div class="item_text">谁创建，谁拥有，谁贡献，谁得益</div>
+        </div>
+    </div>
+    <div class="picture_right">
+        <img src="images/index/index_05.png"/>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="download">
+    <div class="download_left">
+        <div class="download_text">
+            <img src="images/index/ic_blue_vertical_line.png"/>
+            <span>下载安卓手机客户端</span>
+        </div>
+        <div class="download_img">
+            <a href="download/com.gong_wei-app.apk"><img src="images/index/index_button.png"/></a>
+        </div>
+    </div>
+    <div class="download_right">
+        <img src="images/index/qr_code_gw.png"/>
+    </div>
+</div>
+
+<div class="clearfloat"></div>
+
+<div class="index_box">
+    <div class="index_box_1">
+        <img src="images/index/dynamic_info.png"/>
+    </div>
+    <div class="index_box_2" align="center">
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_1.jpg"></div>
+            <div class="index_box_content">
+                <div class="text_content_1" id="dy_info_1">
+                    好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                </div>
+                <div class="text_content_2">
+                    <div class="text_content_2_1">
+                        2018-7-14
+                    </div>
+                    <div class="text_content_2_2">
+                        <a id="dy_url_1" href="index.html">进入详情</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_2.jpg"></div>
+            <div class="index_box_content">
+                <div class="text_content_1" id="dy_info_2">
+                    好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                </div>
+                <div class="text_content_2">
+                    <div class="text_content_2_1">
+                        2018-7-14
+                    </div>
+                    <div class="text_content_2_2">
+                        <a id="dy_url_2" href="index.html">进入详情</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_3.jpg"></div>
+            <div class="index_box_content">
+                <div class="text_content_1" id="dy_info_3">
+                    好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                </div>
+                <div class="text_content_2">
+                    <div class="text_content_2_1">
+                        2018-7-14
+                    </div>
+                    <div class="text_content_2_2">
+                        <a id="dy_url_3" href="index.html">进入详情</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="index_box_3">
+            <div class="index_box_img"><img src="images/index/index_dynamic_info_4.jpg"></div>
+            <div class="index_box_content">
+                <div class="text_content_1" id="dy_info_4">
+                    好与不好都走了，幸与不幸都过了。真正的梦想，永远在实现中，更在坚持之中。累了，就停一停，让手贴着温暖的手...
+                </div>
+                <div class="text_content_2">
+                    <div class="text_content_2_1">
+                        2018-7-14
+                    </div>
+                    <div class="text_content_2_2">
+                        <a id="dy_url_4" href="index.html">进入详情</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="clearfloat"></div>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+
+<div class="clearfloat"></div>
+
+<div id="footer"></div>
+<script>
+    $(function () {
+        //启动轮播
+        $('.carousel').carousel();
+        $("#footer").load("footer.html");
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"/>
+    <meta name=""/>
+    <title>共为意见反馈</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" media="(max-width:1080px)" type="text/css" href="css/global_small.css"/>
+    <link rel="stylesheet" media="(min-width:1081px)" type="text/css" href="css/global.css"/>
+    <script type="text/javascript" src="js/jquery-3.3.1.min.js" charset="utf-8"></script>
+    <script type="text/javascript" src="js/bootstrap.3.3.7.min.js"></script>
+    <style>
+        .header {
+            padding: 15px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+        .header h4 {
+            margin: 0;
+            line-height: 1.8;
+            text-align: center;
+            font-size: 20px;
+        }
+        .body {
+            position: relative;
+            padding: 15px;
+            line-height: 1.8;
+            font-size: 16px;
+        }
+        .container {
+            background: #f5f5f5;
+            margin-top: 30px;
+            height: 500px;
+        }
+    </style>
+</head>
+
+<body>
+<div class="topbar">
+    <ul id="menu">
+        <li><img src="images/index/image_new_logo.png" width="50" height="50"/></li>
+        <li class="topcenter">共为</li>
+        <li class="topcenter">
+            <a class="leftmargin" href="index.html">
+                <div class="title">首页</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="about.html">
+                <div class="title">关于我们</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="join.html">
+                <div class="title">加入我们</div>
+            </a>
+        </li>
+    </ul>
+
+</div>
+
+<div class="container">
+    <div class="header">
+        <h4>意见反馈</h4>
+    </div>
+
+</div>
+<div id="footer"></div>
+<script>
+    $(function(){
+        $("#footer").load("footer.html");
+    });
+</script>
+</body>
+</html>

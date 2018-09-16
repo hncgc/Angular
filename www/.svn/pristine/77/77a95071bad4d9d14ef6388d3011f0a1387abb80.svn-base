@@ -1,0 +1,136 @@
+@charset "utf-8";
+.join_1 {
+  width: 100%;
+  height:auto!important;
+  height: 1120px;
+  _height: 1120px;
+  min-height:1120px;
+  position: relative;
+  background: #f3f3f3;
+}
+
+.join_1_1 {
+  width: 100vw;
+  height:auto!important;
+  _height: 800px;
+  height: 800px;
+  min-height:800px;
+  position: absolute;
+  left: 0%;
+  top: 35vw;
+  z-index: 99;
+  background: #fff;
+}
+
+.join_1_1_1 {
+  margin-top: 20px;
+  text-align: center;
+
+}
+
+.join_1_1_1 h1 {
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 25px;
+  color: #333333;
+  line-height: 200%;
+}
+
+.join_1_1_1 .mail {
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 20px;
+  color: #999999;
+  line-height: 200%;
+}
+
+.join_nav {
+  padding-top: 30px;
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 16px;
+  color: #333333;
+  line-height: 200%;
+}
+
+.join_content {
+  padding-top: 30px;
+  clear: both;
+}
+
+.join_nav, .join_content {
+  width: 100%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.nav {
+  /*width: 650px;*/
+}
+
+.join_nav {
+  /*width: 650px;
+  display: -webkit-box;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling:touch;
+  */
+}
+
+.nav_scroll {
+  display: -webkit-box;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling:touch;
+
+  width:320px;
+  display: inline;
+  white-space: nowrap;
+  overflow-x:scroll;
+  float:left;
+  overflow-y:hidden;
+}
+
+.nav > li {
+  display: inline-block;
+}
+
+.nav > li > a {
+  display: inline-block;
+}
+
+.nav-tabs.nav-justified {
+  width: auto!important;
+  border-bottom: 0;
+}
+.recruitment {
+  width: auto;
+  text-align: left;
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 14px;
+  color: #666666;
+  line-height: 180%;
+
+}
+
+.recruitment h2 {
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 14px;
+  color: #666666;
+  line-height: 180%;
+  padding-top: 20px;
+}
+
+.recruitment ul li {
+  /*list-style-type: disc;*/
+  background-image: url(../images/list-disc.png);
+  background-repeat: no-repeat;
+  background-position: 0px 6px;
+  padding-left: 20px;
+  color: #333;
+}
+
+.recruitment ol li {
+  /*list-style-type:decimal;*/
+}
+
+.join_2 {
+  width: 100%;
+  height: 50px;
+  background: #f3f3f3;
+}

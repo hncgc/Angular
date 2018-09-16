@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"/>
+    <meta name=""/>
+    <title>关于我们</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" media="(max-width:1080px)" type="text/css" href="css/global_small.css"/>
+    <link rel="stylesheet" media="(min-width:1081px)" type="text/css" href="css/global.css"/>
+    <link rel="stylesheet" media="(max-width:1080px)" type="text/css" href="css/about_small.css"/>
+    <link rel="stylesheet" media="(min-width:1081px)" type="text/css" href="css/about.css"/>
+    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.3.3.7.min.js"></script>
+    <script type="text/javascript" src="js/carouseljs.js"></script>
+</head>
+
+<body>
+<div class="topbar">
+    <ul id="menu">
+        <li><img src="images/index/image_new_logo.png" width="50" height="50"/></li>
+        <li class="topcenter">共为</li>
+        <li class="topcenter">
+            <a class="leftmargin" href="index.html">
+                <div class="title">首页</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="about.html">
+                <div class="title">关于我们</div>
+                <hr>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="join.html">
+                <div class="title">加入我们</div>
+            </a>
+        </li>
+    </ul>
+
+</div>
+<div class="clearfloat"></div>
+
+<div class="about_1">
+    <img src="images/about/about_01.jpg"/>
+    <div class="about_1_1"><img src="images/about/abuot_01_1.jpg" /> </div>
+</div>
+<div class="about_2">
+    <img src="images/about/about_02.png"/>
+    <div class="about_2_1">
+        <ul>
+            <li>ABOUT</li>
+            <li>US</li>
+            <li class="vertical_line"></li>
+            <li class="title">什么是共为？</li>
+            <li class="content">
+                共为是提供一个开放和全方位的实时临近信息的社交平台，让大家一起参与，
+                一起做事，分享生活乐趣。链接地方圈内的生活信息资源，提供实时信息服
+                务（查找、匹配），大家共为、共享、共有的平台。
+            </li>
+        </ul>
+    </div>
+</div>
+
+<div class="about_separate"></div>
+<div class="about_3">
+    <div class="about_3_1">
+        <h1>如何联系到我们？</h1>
+        <div class="about_3_1_1">
+            <img src="images/about/icon_about_01.png"/>
+            <p class="title">客户热线</p>
+            <p>021-34790992</p>
+            <p class="title">客户邮箱</p>
+            <p>gwkh@gong_wei.com</p>
+            <p class="title">服务时间</p>
+            <p>9:00 -- 18:00</p>
+        </div>
+        <div class="about_3_1_1">
+            <img src="images/about/icon_about_02.png"/>
+            <p class="title">反馈邮箱</p>
+            <p>gwkh@gong_wei.com</p>
+            <p class="title">联系地址</p>
+            <p>上海闵行区江凯路1358号</p>
+        </div>
+        <div class="about_3_1_1">
+            <img src="images/about/icon_about_03.png"/>
+            <p class="title">共为微博</p>
+            <img src="images/index/icon_weibo.png"/>
+            <p class="title">微信公众号</p>
+            <img src="images/index/qr_code_gw.png" width="88" height="88"/>
+        </div>
+    </div>
+</div>
+<div class="about_separate"></div>
+
+<div id="footer"></div>
+<script>
+    $(function () {
+        $("#footer").load("footer.html");
+    });
+</script>
+
+</body>
+</html>

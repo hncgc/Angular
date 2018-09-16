@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-orientation" content="portrait"/>
+    <meta name=""/>
+    <title>共为意见反馈</title>
+    <link rel="stylesheet" href="css/bootstrap.css">
+
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" type="text/css" href="css/global.css"/>
+    <![endif]-->
+    <!--[if gte IE 9]><!-->
+    <link rel="stylesheet" media="(max-width:1080px)" type="text/css" href="css/global_small.css"/>
+    <link rel="stylesheet" media="(min-width:1081px)" type="text/css" href="css/global.css"/>
+    <!--<![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
+    <![endif]-->
+    <!--[if gte IE 9]><!-->
+    <script src="js/jquery-3.3.1.min.js" charset="utf-8"></script>
+    <!--<![endif]-->
+    <script src="js/bootstrap.3.3.7.min.js"></script>
+    <!-- IE8兼容性处理代码  begin-->
+    <!--[if lt IE 9]>
+    <script src="//cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="//cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Respond.js proxy on external server -->
+    <link href="http://externalcdn.com/respond-proxy.html" id="respond-proxy" rel="respond-proxy"/>
+    <!-- Respond.js redirect location on local server -->
+    <link href="<%=path%>/base/bootstrap/js/respond.proxy.gif" id="respond-redirect" rel="respond-redirect"/>
+    <!-- Respond.js proxy script on local server -->
+    <script src="<%=path%>/base/bootstrap/js/respond.proxy.js"></script>
+    <!-- IE8兼容性处理代码  end -->
+
+    <style>
+        .header {
+            padding: 15px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .header h4 {
+            margin: 0;
+            line-height: 1.8;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        .body {
+            position: relative;
+            padding: 15px;
+            line-height: 2.5;
+            font-size: 16px;
+        }
+
+        .container {
+            background: #f5f5f5;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            height: 500px;
+        }
+
+        .form {
+            padding-top: 10px;
+            padding-bottom: 30px;
+            font-family: '微软雅黑', Arial, sans-serif;
+            font-size: 16px;
+        }
+
+        .form ul li {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .form input, .form label {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+    </style>
+</head>
+
+<body>
+<div id="navbar1" class="topbar hidden">
+    <ul class="menu menubar1">
+        <li><img src="images/index/image_new_logo.png" width="50" height="50"/></li>
+        <li class="topcenter">共为</li>
+        <li class="topcenter">
+            <a class="leftmargin" href="index.html">
+                <div class="title">首页</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="about.html">
+                <div class="title">关于我们</div>
+            </a>
+        </li>
+        <li class="topcenter">
+            <a href="join.html">
+                <div class="title">加入我们</div>
+            </a>
+        </li>
+    </ul>
+
+</div>
+
+<nav id="navbar2" class="navbar navbar-default" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse"
+                    data-target="#example-navbar-collapse">
+                <span class="sr-only">切换导航</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="#">共为信息</a>
+        </div>
+        <div class="collapse navbar-collapse" id="example-navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="index.html">首页</a></li>
+                <li><a href="about.html">关于我们</a></li>
+                <li><a href="join.html">加入我们</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="clearfloat"></div>
+
+<div class="container">
+    <div class="header">
+        <h4>意见反馈</h4>
+    </div>
+</div>
+
+<div id="footer"></div>
+
+<script>
+    $(function () {
+        $("#footer").load("footer.html");
+    });
+</script>
+</body>
+</html>

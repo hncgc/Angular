@@ -1,0 +1,531 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="css/font-awesome.css" />
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+	</head>
+	<style type="text/css">
+		.topbar {
+			height: 80px;
+			width: 100%;
+			z-index: 11;
+			position: fixed;
+		}
+		.topbar.bg {
+			background-color: #fff;
+			box-shadow: 0 0 2px rgba(0,0,0,0.2);
+		}
+		
+		.logo {
+			margin-top: 10px;
+			float: left;
+			display: block;
+		}
+		
+		.logo>img {
+			height: 60px;
+		}
+		
+		.topbar-list {
+			float: right;
+			display: block;
+			padding: 10px 0;
+		}
+		
+		.topbar-list>li {
+			float: left;
+			display: block;
+			height: 60px;
+			line-height: 60px;
+			margin-left: 100px;
+		}
+		
+		.topbar-list>li>a {
+			color: #ccc;
+			font-size: 16px;
+			display: block;
+			padding: 0 20px;
+			text-decoration: none;
+		}
+		.topbar-list.bg>li>a {
+			color: #333;
+		}
+		
+		.topbar-list>li.active>a,
+		.topbar-list>li>a:hover {
+			color: #fff;
+		}
+		.topbar-list.bg>li.active>a,
+		.topbar-list.bg>li>a:hover {
+			color: #3F51B5;
+		}
+		
+		.topbar-list>li>.download {
+			color: #fff;
+			height: 30px;
+			cursor: pointer;
+			line-height: 30px;
+			padding: 0 10px;
+			border-radius: 2px;
+			margin-top: 15px;
+			background-color: #3F51B5;
+		}
+		
+		.topbar-list>li>.download>a {
+			color: #fff;
+			text-decoration: none;
+		}
+		
+		.banner {
+			height: 750px;
+			position: relative;
+			background: url("img/banner-index.jpg") no-repeat center;
+		}
+		
+		.banner>.container {
+			color: #fff;
+			font-size: 26px;
+			padding: 150px 80px;
+		}
+		
+		.foot {
+			height: 200px;
+			background-color: #333;
+		}
+		
+		.r,
+		.l {
+			color: #9b9b9b;
+			width: 570px;
+			margin-top: 20px;
+			height: 160px;
+		}
+		
+		.l {
+			border-right: 1px solid #5c5c5c;
+		}
+		
+		.l>.title {
+			width: 100%;
+			height: 40px;
+			line-height: 40px;
+		}
+		
+		.l>.title:before {
+			content: " ";
+			display: table;
+		}
+		
+		.l>.title:after {
+			content: " ";
+			display: table;
+			clear: both;
+		}
+		
+		.f-logo {
+			display: block;
+			float: left;
+		}
+		
+		.f-logo>img {
+			width: 80px;
+		}
+		
+		.l>.title>h3 {
+			float: left;
+			display: block;
+			margin-left: 20px;
+			line-height: 40px;
+		}
+		
+		.line {
+			margin-top: 10px;
+			line-height: 30px;
+		}
+		.line.f {
+			width: 80px;
+			height: auto;
+			margin-right: 20px;
+		}
+		
+		.line.f>a {
+			color: #9b9b9b;
+			margin-bottom: 10px;
+			display: inline-block;
+		}
+		
+		.line.f>a:first-child {
+			margin-left: 0;
+		}
+		
+		.r-head {
+			position: relative;
+			height: 40px;
+			line-height: 40px;
+		}
+		
+		.r-head>h3 {
+			float: left;
+			height: 40px;
+			line-height: 40px;
+			margin-left: 40px;
+		}
+		
+		.r-head>.list {
+			float: right;
+			height: 40px;
+			line-height: 40px;
+		}
+		
+		.r-head>.list>a {
+			color: #666;
+			font-size: 16px;
+			display: inline-block;
+			margin-left: 40px;
+			text-decoration: none;
+			padding: 0 5px;
+		}
+		
+		.r-head>.list>a:hover {
+			color: #fff;
+		}
+		
+		.r-foot {
+			margin-top: 30px;
+			margin-left: 40px;
+			line-height: 30px;
+			text-align: center;
+		}
+		
+		.r-foot>.fun {
+			text-align: center;
+			position: relative;
+		}
+		
+		.r-foot>.fun>a {
+			color: #9b9b9b;
+		}
+		.body {
+			position: relative;
+		}
+		
+		.circle,
+		.nearby {
+			display: block;
+			position: relative;
+			margin-top: 20px;
+		}
+		
+		.circle:before,
+		.nearby:before {
+			content: " ";
+			display: table;
+		}
+		
+		.circle:after,
+		.nearby:after {
+			content: " ";
+			display: table;
+			clear: both;
+		}
+		
+		.circle>.img-wrap {
+			float: left;
+		}
+		
+		.img-wrap>img {
+			width: 600px;
+		}
+		
+		.circle>.text-wrap {
+			float: left;
+			margin-left: 100px;
+		}
+		
+		.text-wrap>h1 {
+			font-size: 42px;
+			line-height: 80px;
+			margin-top: 200px;
+			margin-bottom: 20px;
+		}
+		
+		.text-wrap>.desc {
+			color: #666;
+			font-size: 16px;
+			line-height: 30px;
+		}
+		
+		.nearby>.img-wrap {
+			float: right;
+		}
+		
+		.nearby>.text-wrap {
+			float: right;
+			margin-right: 100px;
+		}
+		
+		.news {
+			border-top: 1px solid #ddd;
+		}
+		.carousel-warp {
+			position: relative;
+			margin-top: 60px;
+			margin-bottom: 60px;
+		}
+		.carousel {
+			width: 1140px;
+			height: 350px;
+			overflow: hidden;
+		}
+		.carousel>li {
+			height: 350px;
+			display: block;
+			overflow: hidden;
+		}
+		.carousel>li:before {
+			content: " ";
+			display: table;
+		}
+		.carousel>li:after {
+			content: " ";
+			display: table;
+			clear: both;
+		}
+		.carousel>li>.img-container {
+			float: left;
+		}
+		.carousel>li>.img-container>img {
+			height: 350px;
+		}
+		.carousel>li>.text-container {
+			float: left;
+			width: 480px;
+			margin-left: 60px;
+		}
+		.carousel>li>.text-container>.title {
+			font-size: 32px;
+			line-height: 50px;
+			text-align: center;
+			margin-top: 80px;
+		}
+		.carousel>li>.text-container>.sub-title {
+			font-size: 22px;
+			line-height: 40px;
+			text-align: center;
+			margin-bottom: 20px;
+		}
+		.carousel>li>.text-container>.desc {
+			color: #666;
+			line-height: 30px;
+			text-align: center;
+		}
+		.carousel-index {
+			display: block;
+			position: relative;
+			width: 232px;
+			height: 10px;
+			margin: 20px auto;
+		}
+		.carousel-index>li {
+			width: 18px;
+    		height: 6px;
+    		float: left;
+    		cursor: pointer;
+    		margin-left: 40px;
+    		border-radius: 3px;
+			background-color: #666;
+		}
+		.carousel-index>li.index {
+			background-color: #3F51B5;
+		}
+	</style>
+
+	<body>
+		<div id="topbar" class="topbar">
+			<div class="container">
+				<a class="logo"><img src="img/logo-min.png"></a>
+				<!--<span class="t">随时随地，了解周边信息</span>-->
+				<ul id="topbar-list" class="topbar-list">
+					<li class="active">
+						<a href="index.html">首页</a>
+					</li>
+					<li>
+						<a href="about0.html">关于我们</a>
+					</li>
+					<li>
+						<a href="cooper.html">招商合作</a>
+					</li>
+					<li>
+						<div class="download">
+							<span><i class="fa fa-qrcode"></i></span>
+							<a>APP下载</a>
+						</div>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="banner">
+			<div class="container">
+				<!--<span class="t">随时随地，了解周边信息</span>-->
+			</div>
+		</div>
+		<div class="body">
+			<div class="container">
+				<div class="circle">
+					<div class="img-wrap"><img src="img/localcircle.png"></div>
+					<div class="text-wrap">
+						<h1>地方圈</h1>
+						<div class="desc">
+							一种超越社交群的全新社交模式<br /> 走到哪里都有社交、信息、服务、互助
+						</div>
+					</div>
+				</div>
+				<div class="nearby">
+					<div class="img-wrap"><img src="img/localcircle.png"></div>
+					<div class="text-wrap">
+						<h1>临近</h1>
+						<div class="desc">
+							随时随地了解周边商讯、需求、活动<br /> 本地生活问题，你可以在临近提问、点评、分享
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="news">
+				<div class="container">
+					<div class="carousel-warp">
+						<ul class="carousel">
+							<li>
+								<div class="img-container"><img src="img/a1.png"></div>
+								<div class="text-container">
+									<div class="title">3月互动开启</div>
+									<div class="sub-title">来比比谁眼光好</div>
+									<div class="desc">
+										随时随地了解周边商讯、需求、活动<br />
+										本地生活问题，你可以在临近提问、点评、分享
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="img-container"><img src="img/a2.png"></div>
+								<div class="text-container">
+									<div class="title">4月互动开启</div>
+									<div class="sub-title">来比比谁眼光好</div>
+									<div class="desc">
+										随时随地了解周边商讯、需求、活动<br />
+										本地生活问题，你可以在临近提问、点评、分享
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="img-container"><img src="img/a3.png"></div>
+								<div class="text-container">
+									<div class="title">5月互动开启</div>
+									<div class="sub-title">来比比谁眼光好</div>
+									<div class="desc">
+										随时随地了解周边商讯、需求、活动<br />
+										本地生活问题，你可以在临近提问、点评、分享
+									</div>
+								</div>
+							</li>
+							<li>
+								<div class="img-container"><img src="img/a4.png"></div>
+								<div class="text-container">
+									<div class="title">6月互动开启</div>
+									<div class="sub-title">来比比谁眼光好</div>
+									<div class="desc">
+										随时随地了解周边商讯、需求、活动<br />
+										本地生活问题，你可以在临近提问、点评、分享
+									</div>
+								</div>
+							</li>
+						</ul>
+						<ul class="carousel-index">
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="foot">
+			<div class="container">
+				<div class="pull-left l">
+					<div class="title">
+						<a class="f-logo"><img src="img/logo-min.png" /></a>
+						<h3>生活在临近，信息在共为</h3>
+					</div>
+					<div class="clear"></div>
+					<div class="line f pull-right">
+						<a>关于我们</a>
+						<a>意见反馈</a>
+						<a>共为协议</a>
+					</div>
+					<div class="line">
+						<span class="key">公司邮箱：</span>
+						<span class="value">li.zhonghua@gong-wei.com</span>
+					</div>
+					<div class="line">
+						<span class="key">客服电话：</span>
+						<span class="value">021-34790992</span>
+					</div>
+					<div class="line">
+						<span class="key">公司地址：</span>
+						<span class="value">上海市闵行区恒南路1358号809室</span>
+					</div>
+				</div>
+				<div class="pull-left r">
+					<div class="r-head">
+						<h3>关注 &下载</h3>
+						<div class="list">
+							<a><i class="fa fa-wechat"></i></a>
+							<a><i class="fa fa-weibo"></i></a>
+							<a><i class="fa fa-apple"></i></a>
+							<a><i class="fa fa-android"></i></a>
+							<a><i class="fa fa-windows"></i></a>
+						</div>
+					</div>
+					<div class="clear"></div>
+					<div class="r-foot">
+						<p>Copyright © 2014-2018 共为网 当前呈现版本 17.08.16</p>
+						<div class="fun">
+							<a>沪ICP备 13030189号-2</a>
+							<a>沪公网安备 31010102002533号</a>
+							<span>上海共为信息技术有限公司版权所有</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+
+	<script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+	<script type="text/javascript" src="js/carousel.js" ></script>
+	<script>
+		var topbar = $('#topbar');
+		var topbarList = $('#topbar-list');
+		var carouselWarp = $('.carousel-warp');
+		
+		$(document).ready(function() {
+			$(window).scroll(function(event) {
+				var scrollTop = $(window).scrollTop();
+				if (scrollTop > 670) {
+					topbar.addClass('bg');
+					topbarList.addClass('bg');
+				} else {
+					topbar.removeClass('bg');
+					topbarList.removeClass('bg');
+				}
+			});
+			carouselWarp.carousel({
+				carousel: '.carousel',
+				indexContainer: '.carousel-index',
+				timing : 5000,//自动播放间隔
+				animateTime : 800,//动画时间
+				auto : true,//是否自动播放
+			});
+		});
+	</script>
+
+</html>
