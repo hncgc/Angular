@@ -1,13 +1,39 @@
 
 # CSS
 
-[CSS 教程](http://www.runoob.com/css/css-tutorial.html)  
+w3c
+---
 
 [CSS 教程](http://www.w3school.com.cn/css/index.asp)  
 
+[CSS 参考手册](http://www.w3school.com.cn/cssref/index.asp)  
+
 [CSS3 教程](http://www.w3school.com.cn/css3/index.asp)  
 
+[CSS3 属性参考手册](http://www.w3school.com.cn/cssref/index.asp)   
+
+[CSS3 选择器参考手册](http://www.w3school.com.cn/cssref/css_selectors.asp)   
+
+菜鸟教程
+---
+
+[CSS 教程](http://www.runoob.com/css/css-tutorial.html)  
+
 [CSS3 教程](https://www.runoob.com/css3/css3-tutorial.html)  
+
+[CSS 参考手册](https://www.runoob.com/cssref/css-reference.html)  
+
+[CSS 属性](https://www.runoob.com/cssref/css-reference.html)  
+
+[CSS 选择器参考手册](https://www.runoob.com/cssref/css-selectors.html)  
+
+[CSS 声音参考手册](https://www.runoob.com/cssref/css-ref-aural.html)  
+
+[CSS 单位](https://www.runoob.com/cssref/css-units.html)  
+
+[CSS 颜色参考手册](https://www.runoob.com/cssref/css-colors.html)  
+
+----------------------
 
 [Less](https://github.com/hncgc/Angular/blob/master/css/less.md)  
 
@@ -220,10 +246,44 @@ h5 水平滚动
 [纯css实现移动端横向滑动列表](https://www.cnblogs.com/minz/p/6435294.html) 
 
 [在h5中运用简单的css达到水平滚动的效果](https://blog.csdn.net/qq_39085422/article/details/77742608)  
+~~~
+成功：
+css:
+
+.join_nav {
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #f5f5f5;
+
+  display: inline;
+  white-space: nowrap;
+  overflow-x:scroll;
+  float:left;
+  overflow-y:hidden;
+}
+
+html:
+
+            <div class="join_nav">
+                <ul id="myTab" class="nav nav-tabs nav-justified">
+                    <li class="active"><a href="#develop" data-toggle="tab">开发</a></li>
+                    <li><a href="#interactive_design" data-toggle="tab">交互设计</a></li>
+                    <li><a href="#peration_planning" data-toggle="tab">运营策划</a></li>
+                    <li><a href="#product_manager" data-toggle="tab">产品经理/助理</a></li>
+                    <li><a href="#product_testing" data-toggle="tab">产品测试</a></li>
+                    <li><a href="#product_architecture" data-toggle="tab">产品架构</a></li>
+                </ul>
+            </div>
+
+~~~
 
 [手机网页左右滑动效果或者上下滑动效果](https://jingyan.baidu.com/article/fcb5aff7873451edaa4a719c.html)  
 
 ~~~
+能滚动不能定位：
     <script type="text/javascript" src="js/iscroll.js"></script>
 
             <div id="wrapper">
@@ -244,4 +304,7 @@ h5 水平滚动
 </script>
 ~~~
 [h5页面在手机端禁用横向滚动](https://www.jianshu.com/p/02eb9fd7651f)  
+
+[CSS 实现隐藏滚动条同时又可以滚动](https://www.cnblogs.com/alice626/p/6206760.html)  
+
 
