@@ -217,6 +217,23 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 </script>
 ~~~
 
+[js跳转页面与打开新窗口的方法](https://www.cnblogs.com/lijshui/p/7451360.html)  
+
+[jquery获得url的get参数](http://www.cnblogs.com/jinshuo/p/8074052.html)  
+
+[使用jquery获取url及url参数的方法](https://www.cnblogs.com/babycool/p/3169058.html)  
+
+[jQuery ajax - ajax() 方法](http://www.w3school.com.cn/jquery/ajax_ajax.asp)  
+
+[jQuery - AJAX get() 和 post() 方法](http://www.w3school.com.cn/jquery/jquery_ajax_get_post.asp)  
+
+[jQuery - 设置内容和属性](http://www.w3school.com.cn/jquery/jquery_dom_set.asp)  
+
+[jQuery修改标签的内容或值](https://blog.csdn.net/licanty/article/details/71629288)  
+
+
+
+
 
 
 
