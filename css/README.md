@@ -46,6 +46,14 @@ CSS
 
 [六种实现元素水平居中](https://www.w3cplus.com/css/elements-horizontally-center-with-css.html)  
 
+[网页常见的底部栏（footer）目前有两种](https://blog.csdn.net/xianglikai1/article/details/78411615)  
+
+[css实现让页面的footer始终位于底部](https://blog.csdn.net/liangrongliu1991/article/details/79580953)  
+
+[CSS div水平垂直居中和div置于底部](https://blog.csdn.net/qq_27918787/article/details/52745383)  
+
+[CSS垂直居中的11种实现方式](https://www.cnblogs.com/zhouhuan/p/vertical_center.html)  
+
 [纯CSS实现垂直居中的几种方法](https://www.cnblogs.com/hutuzhu/p/4450850.html)  
 
 [用CSS/CSS3 实现 水平居中和垂直居中的完整攻略](https://blog.csdn.net/summer_lover_/article/details/66479576)  
