@@ -192,5 +192,31 @@ setTimeout("go()",3000);
 </SCRIPT>
 ~~~
 
+[js中实现页面跳转（返回前一页、后一页）](https://www.cnblogs.com/amingxiansen/p/9074596.html)  
+~~~
+<a href="javascript:history.go(-1)">返回上一页</a> 
+<a href="javascript:location.reload()">重载页面，本地刷新</a> 
+<a href="javascript:history.go(-1);location.reload()">返回上一页重载页面，本地刷新</a> 
+
+<a href="#" onclick="self.location=document.referrer;">返回</a> 
+
+自动刷新页面的方法:
+1.页面自动刷新：把如下代码加入<head>区域中
+<meta http-equiv="refresh" content="20">  
+2.页面自动跳转：把如下代码加入<head>区域中
+<meta http-equiv="refresh" content="20;url=http://www.javaeye.com">  
+其中20指隔20秒后跳转到http://www.javaeye.com页面
+3.页面自动刷新js版
+
+<script language="JavaScript">
+function myrefresh()
+{
+       window.location.reload();
+}
+setTimeout('myrefresh()',1000); //指定1秒刷新一次
+</script>
+~~~
+
+
 
 
