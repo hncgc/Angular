@@ -227,6 +227,12 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 [jQuery - AJAX get() 和 post() 方法](http://www.w3school.com.cn/jquery/jquery_ajax_get_post.asp)  
 
+[$.ajax()方法详解](http://www.cnblogs.com/tylerdonet/p/3520862.html)  
+
+[一个简单的ajax请求数据](https://blog.csdn.net/dezhonger/article/details/70211484)  
+
+[ajax 一个完整的ajax请求](https://blog.csdn.net/fortunegrant/article/details/79534732)  
+
 [jQuery - 设置内容和属性](http://www.w3school.com.cn/jquery/jquery_dom_set.asp)  
 
 [jQuery修改标签的内容或值](https://blog.csdn.net/licanty/article/details/71629288)  
