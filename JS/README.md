@@ -233,9 +233,16 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 [ajax 一个完整的ajax请求](https://blog.csdn.net/fortunegrant/article/details/79534732)  
 
+[WebAPI请求——js调用](https://blog.csdn.net/shiyaru1314/article/details/51065410)  
+
 [jQuery - 设置内容和属性](http://www.w3school.com.cn/jquery/jquery_dom_set.asp)  
 
 [jQuery修改标签的内容或值](https://blog.csdn.net/licanty/article/details/71629288)  
+
+[jquery JSON的解析方式](https://www.cnblogs.com/leejersey/p/3594473.html)  
+
+[jquery ajax获取json并解析，获取的json是object对象格式](https://blog.csdn.net/twinkle2star/article/details/75315235)  
+
 
 
 
