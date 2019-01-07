@@ -227,6 +227,12 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 ------
 
+[Jquery 使用Ajax获取后台返回的Json数据后,页面处理](https://blog.csdn.net/smartsmile2012/article/details/17220413)  
+
+[jQuery中Ajax事件beforesend及各参数含义](http://www.cnblogs.com/wicub/p/3477516.html)  
+
+[ajax 三种提交请求的方法](https://blueskator.iteye.com/blog/2119068)  
+
 [jQuery ajax - ajax() 方法](http://www.w3school.com.cn/jquery/ajax_ajax.asp)  
 
 [jQuery - AJAX get() 和 post() 方法](http://www.w3school.com.cn/jquery/jquery_ajax_get_post.asp)  
