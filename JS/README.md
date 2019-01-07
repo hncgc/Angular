@@ -263,9 +263,15 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 [HTML-设置横向滚动条](https://blog.csdn.net/lfq0404/article/details/79490943)  
 
 [html 手机web超出屏幕宽度的内容不换行，并产生横向滚动条](https://www.aliyun.com/jiaocheng/638204.html)  
+~~~
+white-space: nowrap;
+overflow-x: scroll;
+~~~
 
-
-
+[移动端主界面横向出现滚动条的解决办法](https://blog.csdn.net/cxf_l/article/details/81077691)  
+~~~
+overflow-x：hidden
+~~~
 
 
 
