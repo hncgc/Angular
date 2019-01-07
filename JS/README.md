@@ -273,6 +273,18 @@ overflow-x: scroll;
 overflow-x：hidden
 ~~~
 
+[移动端去除横向滚动条](https://www.cnblogs.com/unclekeith/p/7272491.html)  
+
+--------
+
+[六种实现元素水平居中](https://www.w3cplus.com/css/elements-horizontally-center-with-css.html)  
+
+[html 元素水平居中方式](https://www.cnblogs.com/darcrand-blog/p/5721733.html)  
+~~~
+1，行内元素：text-align：center；
+2，定宽块元素：margin：0 auto；
+~~~
+
 
 
 
