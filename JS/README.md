@@ -249,6 +249,7 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 [Ajax返回的json遍历取值并显示到前台](https://blog.csdn.net/qq_26079137/article/details/76188658)  
 
+[jQuery 遍历 - each() 方法](http://www.w3school.com.cn/jquery/traversing_each.asp)  
 
 ------
 
