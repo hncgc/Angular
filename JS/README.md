@@ -219,9 +219,13 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 [js跳转页面与打开新窗口的方法](https://www.cnblogs.com/lijshui/p/7451360.html)  
 
+------
+
 [jquery获得url的get参数](http://www.cnblogs.com/jinshuo/p/8074052.html)  
 
 [使用jquery获取url及url参数的方法](https://www.cnblogs.com/babycool/p/3169058.html)  
+
+------
 
 [jQuery ajax - ajax() 方法](http://www.w3school.com.cn/jquery/ajax_ajax.asp)  
 
@@ -235,18 +239,24 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 [WebAPI请求——js调用](https://blog.csdn.net/shiyaru1314/article/details/51065410)  
 
-[jQuery - 设置内容和属性](http://www.w3school.com.cn/jquery/jquery_dom_set.asp)  
+------
 
-[jQuery修改标签的内容或值](https://blog.csdn.net/licanty/article/details/71629288)  
+[$.ajax()方法从服务器获取json数据几种方式详解](https://blog.csdn.net/Sun9528/article/details/72979062)  
 
 [jquery JSON的解析方式](https://www.cnblogs.com/leejersey/p/3594473.html)  
 
 [jquery ajax获取json并解析，获取的json是object对象格式](https://blog.csdn.net/twinkle2star/article/details/75315235)  
 
+[Ajax返回的json遍历取值并显示到前台](https://blog.csdn.net/qq_26079137/article/details/76188658)  
 
 
+------
+
+[jQuery - 设置内容和属性](http://www.w3school.com.cn/jquery/jquery_dom_set.asp)  
+
+[jQuery修改标签的内容或值](https://blog.csdn.net/licanty/article/details/71629288)  
 
 
-
+------
 
 
