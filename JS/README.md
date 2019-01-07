@@ -260,4 +260,7 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 ------
 
+[HTML-设置横向滚动条](https://blog.csdn.net/lfq0404/article/details/79490943)  
+
+
 
