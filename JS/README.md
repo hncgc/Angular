@@ -245,6 +245,12 @@ setTimeout('myrefresh()',1000); //指定1秒刷新一次
 
 [WebAPI请求——js调用](https://blog.csdn.net/shiyaru1314/article/details/51065410)  
 
+[jquery ajax的error错误信息](https://www.cnblogs.com/MirageFox/p/6145674.html)  
+
+[$.ajax({})方法success，error，complete，beforeSend使用例子及解释](https://www.cnblogs.com/fire-dragon/p/5882144.html)  
+
+
+
 ------
 
 [$.ajax()方法从服务器获取json数据几种方式详解](https://blog.csdn.net/Sun9528/article/details/72979062)  
