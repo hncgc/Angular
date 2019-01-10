@@ -309,5 +309,26 @@ overflow-x：hidden
 
 [js实现图片点击弹出放大效果(无插件)]()  
 
+[Jquery 点击图片在弹出层显示大图，注意jquery的应用](https://blog.csdn.net/mihl520/article/details/79898813)  
+
+[js之单选框判断身份和h5页面点击图片放大](https://www.cnblogs.com/yk-68/p/8507350.html)  
+
+[移动web HTML5使用photoswipe模仿微信朋友圈图片放大浏览](https://www.cnblogs.com/theroad/p/5397229.html)  
+~~~
+使用js框架是PhotoSwipe 
+官网：http://photoswipe.com/
+github：https://github.com/dimsemenov/photoswipe
+~~~
+
+[点击查看大图滑动预览(h5,pc通用)](https://www.cnblogs.com/a-cat/p/9805664.html)  
+
+
+
+
+
+
+
+
+
 
 
