@@ -303,5 +303,11 @@ overflow-x：hidden
 [推荐用于移动APP开发的顶级JavaScript框架](https://cloud.tencent.com/info/6ffab3bb2e7fe5ae0955f1124a5dbb60.html)  
 
 
+[Jquery 点击图片在弹出层显示大图](https://www.cnblogs.com/antis/p/7053991.html)  
+
+[JQ实现点击小图显示大图](https://blog.csdn.net/wwj791859814/article/details/77119710)  
+
+[js实现图片点击弹出放大效果(无插件)]()  
+
 
 
