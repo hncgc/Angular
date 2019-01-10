@@ -117,4 +117,13 @@ $(‘.carousel’).carousel({<br>　　pause：‘none’<br>});  //鼠标放到
     <!-- IE8兼容性处理代码  end -->
 ~~~
 
+[bootstrap 点击图片弹出大图](https://blog.csdn.net/suitingwei/article/details/50217157)  
+
+[Bootstrap实现图片弹出放大](https://blog.csdn.net/my98800/article/details/78066910)  
+
+[bootstrap-模态框-弹出图片](https://blog.csdn.net/encircles/article/details/71127324)  
+
+
+
+
 
