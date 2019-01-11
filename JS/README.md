@@ -313,12 +313,28 @@ overflow-x：hidden
 
 [js之单选框判断身份和h5页面点击图片放大](https://www.cnblogs.com/yk-68/p/8507350.html)  
 
+PhotoSwipe
+---
+
+[PhotoSwipe官网](https://photoswipe.com/)  
+https://github.com/dimsemenov/photoswipe  
+git clone https://github.com/dimsemenov/PhotoSwipe.git  
+https://photoswipe.com/documentation/getting-started.html  
+
+[PhotoSwipe中文API(一)](https://www.cnblogs.com/jiangxiaobo/p/5695831.html)  
+
+[h5 - PhotoSwipe图片放大功能集成和使用](https://blog.csdn.net/u012246458/article/details/80522915)  
+
+[移动端 点击图片放大](https://blog.csdn.net/Amy_cloud/article/details/78899186)  
+
 [移动web HTML5使用photoswipe模仿微信朋友圈图片放大浏览](https://www.cnblogs.com/theroad/p/5397229.html)  
 ~~~
 使用js框架是PhotoSwipe 
 官网：http://photoswipe.com/
 github：https://github.com/dimsemenov/photoswipe
 ~~~
+
+--------------------
 
 [点击查看大图滑动预览(h5,pc通用)](https://www.cnblogs.com/a-cat/p/9805664.html)  
 
@@ -327,8 +343,6 @@ github：https://github.com/dimsemenov/photoswipe
 [Bootstrap实现图片弹出放大](https://blog.csdn.net/my98800/article/details/78066910)  
 
 [bootstrap-模态框-弹出图片](https://blog.csdn.net/encircles/article/details/71127324)  
-
-
 
 
 
