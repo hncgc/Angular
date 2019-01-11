@@ -316,10 +316,13 @@ overflow-x：hidden
 PhotoSwipe
 ---
 
-[PhotoSwipe官网](https://photoswipe.com/)  
-https://github.com/dimsemenov/photoswipe  
+
+官方网站：http://photoswipe.com/  
+源码下载：https://github.com/dimsemenov/photoswipe  
+国内CDN：http://www.bootcdn.cn/photoswipe/ 
 git clone https://github.com/dimsemenov/PhotoSwipe.git  
 https://photoswipe.com/documentation/getting-started.html  
+
 
 [PhotoSwipe简介](https://blog.csdn.net/renfufei/article/details/10360855)  
 
