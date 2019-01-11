@@ -321,7 +321,21 @@ https://github.com/dimsemenov/photoswipe
 git clone https://github.com/dimsemenov/PhotoSwipe.git  
 https://photoswipe.com/documentation/getting-started.html  
 
+[PhotoSwipe简介](https://blog.csdn.net/renfufei/article/details/10360855)  
+
 [PhotoSwipe中文API(一)](https://www.cnblogs.com/jiangxiaobo/p/5695831.html)  
+
+[PhotoSwipe中文API(二)](https://www.cnblogs.com/jiangxiaobo/p/5695930.html)  
+
+[PhotoSwipe中文API(三)](https://www.cnblogs.com/jiangxiaobo/p/5695947.html)  
+
+[PhotoSwipe中文API(四)](https://www.cnblogs.com/jiangxiaobo/p/5696001.html)  
+
+[PhotoSwipe中文API(五)](https://www.cnblogs.com/jiangxiaobo/p/5696016.html)  
+
+[PhotoSwipe 官方API解读（一）](https://blog.csdn.net/qq_15602525/article/details/81318268)  
+
+
 
 [h5 - PhotoSwipe图片放大功能集成和使用](https://blog.csdn.net/u012246458/article/details/80522915)  
 
