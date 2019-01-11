@@ -352,6 +352,9 @@ https://photoswipe.com/documentation/getting-started.html
 github：https://github.com/dimsemenov/photoswipe
 ~~~
 
+[移动端使用PhotoSwipe 图片放大浏览](https://blog.csdn.net/xyajia/article/details/78349111)  
+
+
 --------------------
 
 [点击查看大图滑动预览(h5,pc通用)](https://www.cnblogs.com/a-cat/p/9805664.html)  
