@@ -342,6 +342,7 @@ https://photoswipe.com/documentation/getting-started.html
 (https://blog.csdn.net/lei95/article/details/79247134)  
 
 [h5 - PhotoSwipe图片放大功能集成和使用](https://blog.csdn.net/u012246458/article/details/80522915)  
+菜单英文，可下载、分享到FaceBak  
 
 [移动端 点击图片放大](https://blog.csdn.net/Amy_cloud/article/details/78899186)  
 
