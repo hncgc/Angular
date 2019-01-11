@@ -338,7 +338,8 @@ https://photoswipe.com/documentation/getting-started.html
 
 [PhotoSwipe 官方API解读（一）](https://blog.csdn.net/qq_15602525/article/details/81318268)  
 
-[PhotoSwipe 图片浏览插件使用方法 - 简单](https://blog.csdn.net/lei95/article/details/79247134)  
+[PhotoSwipe 图片浏览插件使用方法 - 简单](https://blog.csdn.net/xjtarzan/article/details/50716791)  
+(https://blog.csdn.net/lei95/article/details/79247134)  
 
 [h5 - PhotoSwipe图片放大功能集成和使用](https://blog.csdn.net/u012246458/article/details/80522915)  
 
