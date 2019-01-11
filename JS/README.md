@@ -346,6 +346,8 @@ html用js打印 PC有效 手机
 [h5 - PhotoSwipe图片放大功能集成和使用](https://blog.csdn.net/u012246458/article/details/80522915)  
 菜单英文，可下载、分享到FaceBak  
 
+[点击小图浏览大图，双击缩放，赶快拿走](http://ask.dcloud.net.cn/article/194)  
+
 [移动端 点击图片放大](https://blog.csdn.net/Amy_cloud/article/details/78899186)  
 
 [移动web HTML5使用photoswipe模仿微信朋友圈图片放大浏览](https://www.cnblogs.com/theroad/p/5397229.html)  
