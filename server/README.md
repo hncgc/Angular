@@ -146,12 +146,44 @@ http://192.168.2.59/ 可访问
 
 
 
+[sftp](https://baike.baidu.com/item/sftp/1184182?fr=aladdin)  
 
+[浅谈SFTP、FTP的区别](http://baijiahao.baidu.com/s?id=1598109448025995755&wfr=spider&for=pc)  
 
+[sftp登录及命令行用法](https://blog.csdn.net/qnavy123/article/details/79299151)  
+~~~
+1.  sftp常用命令
 
+        ls  查看当前目录下文件
 
+        help 查看sftp支持哪些命令
 
+  cd 指定目录
 
+  pwd 查看当前目录
+
+  get xxx.txt 下载xxx文件
+
+put xxx.txt 上传xxx文件
+
+        quit / bye / exit 退出sftp
+
+        sftp  xxx.xxx.xxx.xxx   登录root用户
+
+        sftp zygf@xxx.xxx.xxx.xxx  进行登录zygf用户
+
+2.  sftp命令行登录过程
+
+      ① sftp   xxx.xxx.xxx.xxx   登录（默认root用户），若指定用户 sftp zygf@xxx.xxx.xxx.xxx  进行登录（zygf为用户名）
+
+      ② 登录成功后，会提示输入 密码
+
+      ③  然后，可进入目录， ls 查看目录下内容
+
+      ④  cd 切换目录，get 获取文件， put 上传文件
+
+      ⑤  quit /  bye / exit  退出sftp
+---
 
 
 
