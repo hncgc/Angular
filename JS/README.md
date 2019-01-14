@@ -385,13 +385,13 @@ github：https://github.com/dimsemenov/photoswipe
 
 [H5 -- （功能）基于html2canvas实现长按网页保存为图片到本地](https://blog.csdn.net/weixin_41076513/article/details/80896399)  
 
+------------------------
 
+[SVG 教程](http://www.w3school.com.cn/svg/index.asp)  
 
+[SVG 参考手册](http://www.runoob.com/svg/svg-reference.html)  
 
-
-
-
-
+[SVG | HTML5资源教程](https://www.html5tricks.com/tag/svg/)  
 
 
 
