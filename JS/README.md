@@ -379,6 +379,18 @@ github：https://github.com/dimsemenov/photoswipe
 <a href="#" onclick="saveImg.document.execCommand('saveAs');">下载</a>
 ~~~
 
+[使用JavaScript将图片保存至本地](https://www.cnblogs.com/zhangkaiqiang/p/8183926.html)  
+
+[原生js 保存图片到本地](https://www.cnblogs.com/web-fusheng/p/8608430.html)  
+
+[H5 -- （功能）基于html2canvas实现长按网页保存为图片到本地](https://blog.csdn.net/weixin_41076513/article/details/80896399)  
+
+
+
+
+
+
+
 
 
 
