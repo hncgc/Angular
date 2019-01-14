@@ -185,9 +185,11 @@ put xxx.txt 上传xxx文件
       ⑤  quit /  bye / exit  退出sftp
 ---
 
+[sftp常用命令介绍](https://blog.csdn.net/stpeace/article/details/39404449)  
 
+[linux下如何使用sftp命令](https://www.cnblogs.com/the-tops/p/5956163.html)  
 
-
+[WinSCP中文版|WinSCP(SFTP客户端)下载 v5.14.1中文版](http://www.pc6.com/softview/SoftView_18212.html)  
 
 
 
