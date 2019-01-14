@@ -373,6 +373,8 @@ github：https://github.com/dimsemenov/photoswipe
 
 [bootstrap-模态框-弹出图片](https://blog.csdn.net/encircles/article/details/71127324)  
 
+------------------
+
 [JS - 简单的下载图片至本地](https://www.cnblogs.com/jzsz/p/8029536.html)  
 ~~~
 <iframe id="saveImg" src="图片路径" style="display:none;"></iframe>
@@ -386,6 +388,8 @@ github：https://github.com/dimsemenov/photoswipe
 [H5 -- （功能）基于html2canvas实现长按网页保存为图片到本地](https://blog.csdn.net/weixin_41076513/article/details/80896399)  
 
 [HTML+JS下载图片到本地](https://blog.csdn.net/wuye_lh/article/details/80050393)  
+
+[js下载图片(不让浏览器打开)](https://blog.csdn.net/liiil/article/details/80887155)  
 
 ------------------------
 
