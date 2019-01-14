@@ -401,6 +401,8 @@ function funcReadImgInfo(){
 
 ~~~
 
+[微信端页面仿微信朋友圈，点击图片放大查看](https://blog.csdn.net/dream0129/article/details/80205249)  
+
 [微信端html5中的图片放大预览](https://blog.csdn.net/dunegao/article/details/78715899)  
 
 [微信h5点击放大全屏看图片](https://blog.csdn.net/webZRH/article/details/71429837)  
