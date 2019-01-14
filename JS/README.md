@@ -378,6 +378,27 @@ github：https://github.com/dimsemenov/photoswipe
 ---
 
 [手机微信浏览器调用图片放大功能](https://blog.csdn.net/skyblacktoday/article/details/82907019)  
+~~~
+<script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
+
+ /*调用微信预览图片的方法*/
+ 
+function funcReadImgInfo(){
+    var imgs = [];
+    var imgObj = $(".userImg img");//这里改成相应的对象
+    for(var i=0; i<imgObj.length; i++){
+         imgs.push(imgObj.eq(i).attr('src'));
+         imgObj.eq(i).click(function(){
+              var nowImgurl = $(this).attr('src');
+              WeixinJSBridge.invoke("imagePreview",{
+               "urls":imgs,
+               "current":nowImgurl
+              });
+         });
+     }
+}
+
+~~~
 
 [解决第三方网页在微信浏览器中点击图片会自动放大](https://blog.csdn.net/qq_33208896/article/details/80307660)  
 
