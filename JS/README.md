@@ -373,6 +373,16 @@ github：https://github.com/dimsemenov/photoswipe
 
 [bootstrap-模态框-弹出图片](https://blog.csdn.net/encircles/article/details/71127324)  
 
+
+在微信浏览器中浏览大图
+---
+
+[手机微信浏览器调用图片放大功能](https://blog.csdn.net/skyblacktoday/article/details/82907019)  
+
+[解决第三方网页在微信浏览器中点击图片会自动放大](https://blog.csdn.net/qq_33208896/article/details/80307660)  
+
+[html:点击图片放大到全屏，再次点击缩回](https://blog.csdn.net/xujiezi/article/details/40296619)  
+
 ------------------
 
 [JS - 简单的下载图片至本地](https://www.cnblogs.com/jzsz/p/8029536.html)  
