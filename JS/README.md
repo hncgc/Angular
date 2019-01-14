@@ -344,6 +344,7 @@ https://photoswipe.com/documentation/getting-started.html
 (https://blog.csdn.net/lei95/article/details/79247134)  
 html用js打印 PC有效 手机
 
+[jQuery移动端图片查看插件photoswipe.js](http://www.jq22.com/jquery-info18564)  
 
 [h5 - PhotoSwipe图片放大功能集成和使用](https://blog.csdn.net/u012246458/article/details/80522915)  
 菜单英文，可下载、分享到FaceBak  在photoswipe-ui-default.js
