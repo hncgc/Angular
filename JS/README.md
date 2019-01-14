@@ -405,7 +405,7 @@ function funcReadImgInfo(){
 
 [微信h5点击放大全屏看图片](https://blog.csdn.net/webZRH/article/details/71429837)  
 
-
+[微信内置浏览器图片放大轮播](https://blog.csdn.net/sft0809/article/details/50802658)  
 
 [解决第三方网页在微信浏览器中点击图片会自动放大](https://blog.csdn.net/qq_33208896/article/details/80307660)  
 
