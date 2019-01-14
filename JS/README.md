@@ -373,5 +373,13 @@ github：https://github.com/dimsemenov/photoswipe
 
 [bootstrap-模态框-弹出图片](https://blog.csdn.net/encircles/article/details/71127324)  
 
+[JS - 简单的下载图片至本地](https://www.cnblogs.com/jzsz/p/8029536.html)  
+~~~
+<iframe id="saveImg" src="图片路径" style="display:none;"></iframe>
+<a href="#" onclick="saveImg.document.execCommand('saveAs');">下载</a>
+~~~
+
+
+
 
 
