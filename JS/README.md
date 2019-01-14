@@ -378,6 +378,7 @@ github：https://github.com/dimsemenov/photoswipe
 ---
 
 [手机微信浏览器调用图片放大功能](https://blog.csdn.net/skyblacktoday/article/details/82907019)  
+微信公众号网页上点击放大图片浏览，解决方案  
 ~~~
 <script type="text/javascript" src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>
 
@@ -400,9 +401,17 @@ function funcReadImgInfo(){
 
 ~~~
 
+[微信端html5中的图片放大预览](https://blog.csdn.net/dunegao/article/details/78715899)  
+
+[微信h5点击放大全屏看图片](https://blog.csdn.net/webZRH/article/details/71429837)  
+
+
+
 [解决第三方网页在微信浏览器中点击图片会自动放大](https://blog.csdn.net/qq_33208896/article/details/80307660)  
 
 [html:点击图片放大到全屏，再次点击缩回](https://blog.csdn.net/xujiezi/article/details/40296619)  
+
+[微信jsjdk的config流程（含纯前端2小时玩耍流程）](https://www.jianshu.com/p/887fb1e943d0)  
 
 ------------------
 
