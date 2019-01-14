@@ -338,6 +338,8 @@ https://photoswipe.com/documentation/getting-started.html
 
 [PhotoSwipe 官方API解读（一）](https://blog.csdn.net/qq_15602525/article/details/81318268)  
 
+[移动端图片放大滑动查看-插件photoswipe的使用](https://www.cnblogs.com/liboxncg/p/7098349.html)  
+
 [[JS插件]PhotoSwipe 图片浏览插件使用方法](https://blog.csdn.net/xjtarzan/article/details/50716791)  
 (https://blog.csdn.net/lei95/article/details/79247134)  
 html用js打印 PC有效 手机
