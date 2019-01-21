@@ -441,5 +441,53 @@ function funcReadImgInfo(){
 
 [SVG | HTML5资源教程](https://www.html5tricks.com/tag/svg/)  
 
+-----------------------------
+
+[js中怎么截取文件后缀名](https://zhidao.baidu.com/question/304974772611548764.html)  
+~~~
+var fileExtension = fileName.substring(fileName.lastIndexOf('.') + 1);
+
+function getFileName(o){//通过第一种方式获取文件名
+    var pos=o.lastIndexOf("\\");//查找最后一个\的位置
+    return o.substring(pos+1); //截取最后一个\位置到字符长度，也就是截取文件名 
+}
+ 
+function getFileName2(o){//通过第二种方式获取文件名
+    var arr = o.split('\\');//通过\分隔字符串，成字符串数组
+    return arr[arr.length-1];//取最后一个，就是文件名
+}
+~~~
+
+[js中截取文件的后缀名方法](https://blog.csdn.net/qq_34409900/article/details/80408235)  
+
+[JS中如何删除某个指定字符(前)后的字符串](https://zhidao.baidu.com/question/292699810.html)  
+~~~
+var str;
+var ipos;
+str="123456789+abc";
+ipos = str.indexOf("+");
+str1=str.substring(0,ipos); //取前部分
+str2=str.substring(ipos,str.length);//取后部分
+~~~
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
