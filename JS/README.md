@@ -470,7 +470,7 @@ str1=str.substring(0,ipos); //取前部分
 str2=str.substring(ipos,str.length);//取后部分
 ~~~
 
-
+[JS数组、字符串常用方法](https://www.cnblogs.com/songzk/p/6081883.html)  
 
 
 
