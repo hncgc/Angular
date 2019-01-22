@@ -484,6 +484,8 @@ Videojs
 
 [官方文档](https://docs.videojs.com/docs/)  
 
+[videojs中文文档详解](https://blog.csdn.net/a0405221/article/details/80923090)  
+
 [npm video.js](https://www.npmjs.com/package/video.js)  
 ~~~
 npm install video.js
@@ -521,9 +523,13 @@ Dvideo.js
 
 [基于原生js的视频播放器插件Dvideo.js(原创)](http://www.jq22.com/jquery-info18287)  
 
+-------------------------
 
+[MIME类型大全](https://www.cnblogs.com/TBW-Superhero/p/5945469.html)  
 
+[MIME类型大全](https://blog.csdn.net/u013089311/article/details/53695212)  
 
+[文件后缀与Mime类型对照表](https://blog.csdn.net/q343509740/article/details/79616603)  
 
 
 
