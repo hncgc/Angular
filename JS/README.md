@@ -472,12 +472,26 @@ str2=str.substring(ipos,str.length);//取后部分
 
 [JS数组、字符串常用方法](https://www.cnblogs.com/songzk/p/6081883.html)  
 
+视频播放
+--------------------
+
+
+Videojs
+---
+
+[官方文档](https://docs.videojs.com/docs/)  
+
+[视频播放插件Video.js](http://www.jq22.com/jquery-info404)  
+
+[video.js--很赞的H5视频播放库](https://www.cnblogs.com/stoneniqiu/p/5807568.html)  
 
 
 
 
+Dvideo.js
+---
 
-
+[基于原生js的视频播放器插件Dvideo.js(原创)](http://www.jq22.com/jquery-info18287)  
 
 
 
