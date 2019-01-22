@@ -500,6 +500,13 @@ npm install video.js
 
 [video.js API 详解](https://blog.csdn.net/zh_rey/article/details/78215968)  
 
+[videojs的使用以及如何把播放按钮居中](https://blog.csdn.net/zhoubing1217/article/details/52587863)  
+
+[video.js 无法正常显示中间播放按钮和播放后暂停等按钮](https://zhidao.baidu.com/question/625821426966555364.html)  
+
+[videojs插件中间播放按钮怎么显示](https://zhidao.baidu.com/question/2205799146677833988.html)  
+
+[video.js 视频播放插件及常见问题](https://blog.csdn.net/Zhang_314/article/details/71319816)  
 
 
 
