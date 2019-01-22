@@ -478,12 +478,28 @@ str2=str.substring(ipos,str.length);//取后部分
 
 Videojs
 ---
+[videojs github官网地址](https://github.com/videojs/video.js)  
+
+[官方文档](https://docs.videojs.com/)  
 
 [官方文档](https://docs.videojs.com/docs/)  
+
+[npm video.js](https://www.npmjs.com/package/video.js)  
+~~~
+npm install video.js
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/video.js/6.7.3/video-js.min.css" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/video.js/6.7.3/video.min.js"></script>
+~~~
 
 [视频播放插件Video.js](http://www.jq22.com/jquery-info404)  
 
 [video.js--很赞的H5视频播放库](https://www.cnblogs.com/stoneniqiu/p/5807568.html)  
+
+[利用vedio播放视频和原生js对其进行控制](https://blog.csdn.net/m0_37568521/article/details/74080210)  
+
+[video.js API 详解](https://blog.csdn.net/zh_rey/article/details/78215968)  
+
 
 
 
