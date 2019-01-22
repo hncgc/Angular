@@ -510,6 +510,10 @@ npm install video.js
 
 [video.js 移动端视频播放器插件心得](https://blog.csdn.net/HoneyYZY/article/details/80675250)  
 
+--------------
+
+[H5播放器内置播放视频（兼容绝大多数安卓和ios）](https://blog.csdn.net/u012454084/article/details/77333968)  
+
 [H5 视频播放解决方案](https://segmentfault.com/a/1190000010377156)  
 
 Dvideo.js
