@@ -508,7 +508,7 @@ npm install video.js
 
 [video.js 视频播放插件及常见问题](https://blog.csdn.net/Zhang_314/article/details/71319816)  
 
-
+[video.js 移动端视频播放器插件心得](https://blog.csdn.net/HoneyYZY/article/details/80675250)  
 
 
 Dvideo.js
