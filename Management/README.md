@@ -20,5 +20,37 @@ https://www.layui.com/admin/std/dist/views/
 
 [Uimaker](http://www.uimaker.com/)  
 
-http://dls.ev123.com/login.php
+http://dls.ev123.com/login.php  
+
+http://www.17sucai.com/pins/1969.html  
+
+cookie
+---
+
+[web实现登录，记住密码功能（cookie）](https://blog.csdn.net/qq_37164847/article/details/82700589)  
+
+[web前端cookie的使用方法](https://blog.csdn.net/tangcc110/article/details/78891168)  
+
+[设置cookie与获取cookie](https://blog.csdn.net/javaTempest/article/details/72874732)  
+~~~
+/要引用cookie插件
+
+<script src="js/jquery.cookie.js"></script>
+
+//传入要设置的键值
+
+function setCookie(name,key){
+
+var date=new Date(); 
+date.setTime(date.getTime()+60*60*1000); //设置date为当前时间+60分
+$.cookie(name, key, {path: "/", expires: date});
+}
+
+//传入要获取的键
+
+function getCookie(name){
+return $.cookie(name);
+}
+~~~
+
 
