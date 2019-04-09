@@ -25,11 +25,25 @@ http://dls.ev123.com/login.php
 http://www.17sucai.com/pins/1969.html  
 
 cookie
----
+---  
+
 [jquery.cookie.js 下载和使用方法](https://blog.csdn.net/qq_29207823/article/details/81745757)  
 
 [jquery 中$.cookie()方法使用 jquery.cookie.js](https://blog.csdn.net/weixin_40050532/article/details/80651362)  
-  
+
+[jQuery.cookie.js使用方法总结](https://blog.csdn.net/csdnshenzhen/article/details/73046761)  
+
+[【Web小课堂】登录之后，在其他页面怎么判断是否已经登录？](https://blog.csdn.net/jnshu_it/article/details/80163283)  
+
+[【修真院web小课堂】登录之后，在其他页面怎么判断是否已经登录？](https://blog.csdn.net/jj555666555/article/details/80957344)  
+
+[如何解决每次向后台发起请求时判断用户是否处于登录状态？](https://blog.csdn.net/xixi880928/article/details/69389337)  
+
+[js判断页面是否登录](https://blog.csdn.net/qq_28643437/article/details/53696132)  
+
+[怎麽样用JS判断用户是否登陆登陆](https://bbs.csdn.net/topics/310127855)  
+
+
 [web实现登录，记住密码功能（cookie）](https://blog.csdn.net/qq_37164847/article/details/82700589)  
 
 [web前端cookie的使用方法](https://blog.csdn.net/tangcc110/article/details/78891168)  
