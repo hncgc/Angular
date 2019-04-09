@@ -26,7 +26,10 @@ http://www.17sucai.com/pins/1969.html
 
 cookie
 ---
+[jquery.cookie.js 下载和使用方法](https://blog.csdn.net/qq_29207823/article/details/81745757)  
 
+[jquery 中$.cookie()方法使用 jquery.cookie.js](https://blog.csdn.net/weixin_40050532/article/details/80651362)  
+  
 [web实现登录，记住密码功能（cookie）](https://blog.csdn.net/qq_37164847/article/details/82700589)  
 
 [web前端cookie的使用方法](https://blog.csdn.net/tangcc110/article/details/78891168)  
