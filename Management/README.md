@@ -11,6 +11,9 @@ https://github.com/K-walker/web-frame-template
 
 [后台界面也可以很酷！31个高大上的后台管理系统模版](http://www.woshipm.com/pd/93533.html)  
 
-  [layuiAdmin 后台管理模板](https://www.layui.com/admin/)  
+[layuiAdmin 后台管理模板](https://www.layui.com/admin/)  
+https://www.layui.com/admin/std/dist/views/
 
 [Uimaker](http://www.uimaker.com/)  
+
+
