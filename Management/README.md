@@ -10,6 +10,7 @@ https://github.com/K-walker/web-frame-template
 
 [hAdmin响应式后台管理模板](http://www.mycodes.net/154/8965.htm)  
 http://demo1.mycodes.net/houtai/hAdmin/  
+http://www.jq22.com/yanshi10489  
 
 [Metronic – 超赞！基于 Bootstrap 的响应式后台管理模板](https://www.cnblogs.com/lhb25/p/metronic-responsive-admin-dashboard-template.html)  
 http://www.yyyweb.com/ctools/download.php?target=http%3A%2F%2Fdreamsky.github.io%2Fmain%2Fblog%2Fmetronic-bootstrap%2Fmetronic.bootstrap.rar  
