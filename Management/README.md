@@ -6,6 +6,19 @@ https://github.com/K-walker/web-frame-template
 
 [12个非常不错的免费HTML后台管理模板](https://blog.csdn.net/acmdream/article/details/77870802)  
 
+[39个前端精美后台模板](https://blog.csdn.net/mo911108/article/details/81084879)  
+
+[hAdmin响应式后台管理模板](http://www.mycodes.net/154/8965.htm)  
+http://demo1.mycodes.net/houtai/hAdmin/  
+
+[Metronic – 超赞！基于 Bootstrap 的响应式后台管理模板](https://www.cnblogs.com/lhb25/p/metronic-responsive-admin-dashboard-template.html)  
+http://www.yyyweb.com/ctools/download.php?target=http%3A%2F%2Fdreamsky.github.io%2Fmain%2Fblog%2Fmetronic-bootstrap%2Fmetronic.bootstrap.rar  
+
+[bootstrap后台模版hAdmin](http://www.jq22.com/jquery-info10489)  
+
+[20个经典bootsrtap后台html网站模板推荐](https://blog.csdn.net/qq445422083/article/details/24475317)  
+
+[20款最好的免费 Bootstrap 后台管理和前端模板](https://www.cnblogs.com/tuyile006/p/6840733.html)  
 
 [Charisma Admin Template](https://github.com/usmanhalalit/charisma)  
 
