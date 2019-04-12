@@ -60,7 +60,7 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
 
 [HTTP教程(英文更全)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)  
 
-[JS教程(英文更全)[(https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)  
+[JS教程(英文更全)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)  
 
 [Node.js官方文档Guides(英文)](https://nodejs.org/en/docs/guides/)  
 
