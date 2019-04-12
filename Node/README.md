@@ -36,41 +36,6 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
 
 [安装Node.js和npm](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143450141843488beddae2a1044cab5acb5125baf0882000)  
 
-[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)  
-
-[从零开始nodejs系列文章-nodejs到底能干什么](https://blog.csdn.net/weixin_39214481/article/details/82023696)  
-
-Nodejs标准的web开发框架Express
-------------------------------
-
-[Nodejs开发框架Express3.0开发手记–从零开始](http://blog.fens.me/nodejs-express3/)  
-https://github.com/bsspirit/nodejs-demo  
-~~~
-Express4项目的结构、配置和使用。
-
-bin, 存放启动项目的脚本文件
-node_modules, 存放所有的项目依赖库。
-public，静态文件(css,js,img)
-routes，路由文件(MVC中的C,controller)
-views，页面文件(Ejs模板)
-package.json，项目依赖配置及开发者信息
-app.js，应用核心配置文件
-~~~
-
-
-[Node.js开发框架Express4.x](http://blog.fens.me/nodejs-express4/)  
-
-
-
-
-
-
-
-
-
-
-
-
 [CNode](https://cnodejs.org/)  
 
 [nodejs基础教程](https://www.geekjc.com/ebook/detail/5b9f65ce0f510f6ae689bccd/1537172650925)  
@@ -100,6 +65,29 @@ app.js，应用核心配置文件
 [nodejs视频教程](https://www.sucaihuo.com/video/224-0-0)  
 
 
+[从零开始nodejs系列文章](http://blog.fens.me/series-nodejs/)  
+
+[从零开始nodejs系列文章-nodejs到底能干什么](https://blog.csdn.net/weixin_39214481/article/details/82023696)  
+
+Nodejs标准的web开发框架Express
+------------------------------
+
+[Nodejs开发框架Express3.0开发手记–从零开始](http://blog.fens.me/nodejs-express3/)  
+https://github.com/bsspirit/nodejs-demo  
+~~~
+Express4项目的结构、配置和使用。
+
+bin, 存放启动项目的脚本文件
+node_modules, 存放所有的项目依赖库。
+public，静态文件(css,js,img)
+routes，路由文件(MVC中的C,controller)
+views，页面文件(Ejs模板)
+package.json，项目依赖配置及开发者信息
+app.js，应用核心配置文件
+~~~
+
+
+[Node.js开发框架Express4.x](http://blog.fens.me/nodejs-express4/)  
 
 
 
