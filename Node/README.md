@@ -69,8 +69,12 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
 
 [从零开始nodejs系列文章-nodejs到底能干什么](https://blog.csdn.net/weixin_39214481/article/details/82023696)  
 
+
+Express
+---
 Nodejs标准的web开发框架Express
-------------------------------
+
+[Express4.16.4](http://expressjs.com/)  
 
 [Nodejs开发框架Express3.0开发手记–从零开始](http://blog.fens.me/nodejs-express3/)  
 https://github.com/bsspirit/nodejs-demo  
@@ -90,7 +94,7 @@ app.js，应用核心配置文件
 [Node.js开发框架Express4.x](http://blog.fens.me/nodejs-express4/)  
 
 
-
+[Express 实战（七）：视图与模板：Pug 和 EJS](https://segmentfault.com/a/1190000010820999)  
 
 
 
