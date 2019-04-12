@@ -1,5 +1,10 @@
 # TypeScript  
 
+
+[Use TypeScript to Build a Node API with Express](https://developer.okta.com/blog/2018/11/15/node-express-typescript)  
+
+[TypeScript教程](https://www.w3cschool.cn/typescript/typescript-tutorial.html)  
+
 [TypeScript](https://www.tslang.cn/docs/handbook/typescript-in-5-minutes.html)   
 
 [TypeScript](https://github.com/Microsoft/TypeScript/wiki)  
