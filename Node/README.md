@@ -42,7 +42,7 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
 
 [nodejs基础教程](https://www.geekjc.com/ebook/detail/5b9f65ce0f510f6ae689bccd/1537172650925)  
 
-[ Node + Mysql，这里有个实战项目](https://github.com/dkvirus/py-novel/tree/master/server_node_express)  
+[ Node + Mysql实战项目-SERVER_NODE_EXPRESS](https://github.com/dkvirus/py-novel/tree/master/server_node_express)  
 ~~~
 |-- server_node_express
     |-- src/                        <= 源码目录
@@ -58,8 +58,13 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
     |-- README.md
 ~~~
 
+[HTTP教程(英文更全)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP)  
 
+[JS教程(英文更全)[(https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)  
 
+[Node.js官方文档Guides(英文)](https://nodejs.org/en/docs/guides/)  
+
+[nodejs视频教程](https://www.sucaihuo.com/video/224-0-0)  
 
 
 
