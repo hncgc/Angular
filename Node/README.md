@@ -40,6 +40,25 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
 
 [CNode](https://cnodejs.org/)  
 
+[nodejs基础教程](https://www.geekjc.com/ebook/detail/5b9f65ce0f510f6ae689bccd/1537172650925)  
+
+[ Node + Mysql，这里有个实战项目](https://github.com/dkvirus/py-novel/tree/master/server_node_express)  
+~~~
+|-- server_node_express
+    |-- src/                        <= 源码目录
+        |-- configs/                <= 配置目录，包含数据库属性
+        |-- routes                  <= 路由目录
+        |-- statics                 <= 静态目录
+        |-- utils                   <= 常用工具类目录
+        |-- views                   <= 视图目录，暂时没有内容
+        |-- app.js                  <= 项目入口文件
+        |-- router.js               <= 路由分发文件
+    |-- .gitignore
+    |-- package.json
+    |-- README.md
+~~~
+
+
 
 
 
