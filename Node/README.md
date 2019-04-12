@@ -100,11 +100,16 @@ app.js，应用核心配置文件
 
 [Node.js开发框架Express4.x](http://blog.fens.me/nodejs-express4/)  
 
-[Express 实战（七）：视图与模板：Pug 和 EJS](https://segmentfault.com/a/1190000010820999)  
-
 [【实战】用 express+MongoDB 搭建一个完整的前端项目](https://segmentfault.com/a/1190000015866331)  
 
 [NodeJs+Express+Mysql + Angular(Vue/React) 项目实战 - 大纲](https://segmentfault.com/a/1190000018005152)  
+
+------------
+
+[Express 实战（七）：视图与模板：Pug 和 EJS](https://segmentfault.com/a/1190000010820999)  
+
+[Express Tutorial Part 4: Routes and controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)  
+
 
 
 
