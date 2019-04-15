@@ -1,5 +1,11 @@
 # TypeScript  
 
+[TypeScript 教程 | 菜鸟教程](http://www.runoob.com/typescript/ts-tutorial.html)  
+
+[TypeScript 中文手册](https://typescript.bootcss.com/)  
+
+[深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)  
+
 [TypeScript案例](https://www.tslang.cn/samples/index.html)  
 
 [TypeScript-Node-Starter](https://github.com/Microsoft/TypeScript-Node-Starter#typescript-node-starter)
