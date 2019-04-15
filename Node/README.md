@@ -110,6 +110,18 @@ app.js，应用核心配置文件
 
 [Express Tutorial Part 4: Routes and controllers](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/routes)  
 
+--------------------------
+
+[Browserify使用指南](http://www.mamicode.com/info-detail-1850314.html)  
+Browserify是一个供浏览器环境使用的模块打包工具  
+
+
+
+
+
+
+
+
 
 
 
