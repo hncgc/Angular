@@ -533,8 +533,11 @@ Dvideo.js
 
 
 
-
-
+------------------
+[js中string转int把String类型转化成int类型](https://www.jb51.net/article/53680.htm)  
+~~~
+var j = parseInt("11");
+~~~
 
 
 
