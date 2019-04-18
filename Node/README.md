@@ -119,7 +119,7 @@ Browserify是一个供浏览器环境使用的模块打包工具
 
 [nodejs接收get请求参数](https://blog.csdn.net/u013263917/article/details/78682251)  
 
-
+[NodeJs获取请求参数的方法（get方式）](https://blog.csdn.net/cherishSpring/article/details/51443426)  
 
 
 
