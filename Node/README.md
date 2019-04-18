@@ -115,7 +115,9 @@ app.js，应用核心配置文件
 [Browserify使用指南](http://www.mamicode.com/info-detail-1850314.html)  
 Browserify是一个供浏览器环境使用的模块打包工具  
 
+----------------------
 
+[nodejs接收get请求参数](https://blog.csdn.net/u013263917/article/details/78682251)  
 
 
 
