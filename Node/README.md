@@ -121,8 +121,11 @@ Browserify是一个供浏览器环境使用的模块打包工具
 
 [NodeJs获取请求参数的方法（get方式）](https://blog.csdn.net/cherishSpring/article/details/51443426)  
 
+[使用nodejs实现web服务器与客户端的交互](https://blog.csdn.net/qq_21586623/article/details/71403371)  
 
+[使用nodejs实现web服务器与客户端的交互](https://www.jianshu.com/p/ecfe16c0b3dd)  
 
+[nodejs实现服务器端与客户端实时数据传输的例子](http://blog.sina.com.cn/s/blog_a8b026160102weo7.html)  
 
 
 
