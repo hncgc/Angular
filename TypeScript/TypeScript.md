@@ -196,6 +196,22 @@ TypeScript 中文手册:http://www.runoob.com/manual/gitbook/TypeScript/_book/
 http://code.tutsplus.com/tutorials/getting-started-with-typescript--net-28890    
 https://zh.wikipedia.org/wiki/TypeScript  
 
+----------------------
 
+[ts中如何声明window对象](https://www.jianshu.com/p/044791938881)  
+~~~
+在ts中，声明window.xx总是报错，把window写成（<any>window）就可以啦
+
+<any>在这里的作用是强制类型转换
+
+在window，变成全局变量了，不用require不用import
+~~~
+
+[TS引用JS模块的声明方法编写格式](https://www.jianshu.com/p/455d858b3d2a?utm_campaign)  
+
+[笔记：Typescript 中引用全局变量](https://www.jianshu.com/p/de834f2fa309)  
+var ins:any = (<any>window).ClassOutOfTS();
+
+[typescript模块导入与全局变量踩坑日志](https://segmentfault.com/a/1190000016485619)  
 
 
