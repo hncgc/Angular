@@ -16,6 +16,8 @@ Angular2框架
 
 [TypeScript](https://github.com/hncgc/Angular/blob/master/TypeScript/TypeScript.md)  
 
+[WebSocket](https://github.com/hncgc/Angular/tree/master/WebSocket)  
+ 
 
 [NPM 使用介绍](http://www.runoob.com/nodejs/nodejs-npm.html)  
 
