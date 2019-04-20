@@ -29,6 +29,15 @@ Socket
 
 [Socket详解](https://blog.csdn.net/sight_/article/details/8138802)  
 
+[Socket和Http之间的区别和概述](https://blog.csdn.net/weixin_41648325/article/details/79412158)  
+
+[网络编程（十）——WebSocket 和socket、HTTP的区别和联系](https://blog.csdn.net/changhenshui1990/article/details/80185135)  
+
+[socket 与 websocket 区别](https://blog.csdn.net/mcj19970614/article/details/80453285)  
+
+[HTTP、TCP、UDP，Socket，HTTPS（史上最强理解，没有之一）](https://blog.csdn.net/u010314160/article/details/80972888)  
+
+
 
 
 
