@@ -227,4 +227,4 @@ let y = someFunc();
 
 ~~~
 
-
+[typescript之导入全局函数和类](https://blog.csdn.net/nk1212582/article/details/82193120)  
