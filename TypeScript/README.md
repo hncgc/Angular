@@ -197,6 +197,7 @@ http://code.tutsplus.com/tutorials/getting-started-with-typescript--net-28890
 https://zh.wikipedia.org/wiki/TypeScript  
 
 ----------------------
+[在Angular 2/Typescript中声明全局变量的最佳方式是什么？](https://www.cnblogs.com/sybboy/p/8075146.html)  
 
 [ts中如何声明window对象](https://www.jianshu.com/p/044791938881)  
 ~~~
