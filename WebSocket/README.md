@@ -13,6 +13,11 @@ WebSocket
 
 [wss连接的一些坑](https://blog.csdn.net/hfismyangel/article/details/82758629)   
 
+[配置Nginx支持WSS（WebSocket）](https://blog.51cto.com/kusorz/2058591?utm_source=oschina-app)  
+
+[nginx配置websocket支持wss](https://www.jianshu.com/p/def7027b787f)  
+
+[WebSocket 配置 wss](https://www.jianshu.com/p/59f951ff88a4)  
 
 Socket
 ===
