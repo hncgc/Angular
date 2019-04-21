@@ -228,3 +228,23 @@ let y = someFunc();
 ~~~
 
 [typescript之导入全局函数和类](https://blog.csdn.net/nk1212582/article/details/82193120)  
+
+[How do you explicitly set a new property on `window` in TypeScript?](https://stackoverflow.com/questions/12709074/how-do-you-explicitly-set-a-new-property-on-window-in-typescript/40204572#40204572)  
+
+
+typescript的命名空间namespace
+___
+
+[typescript的命名空间](https://blog.csdn.net/qq_24147051/article/details/85051272)  
+
+[TypeScript系列学习笔记-命名空间namespace](https://blog.csdn.net/ChaITSimpleLove/article/details/79835833)  
+
+[TypeScript基础入门之声明合并(三)](TypeScript基础入门之声明合并(三))  
+
+[typescript | 命名空间与导包，编译器链接多文件reference | ts-node使用](https://blog.csdn.net/u011607490/article/details/84700306)  
+
+
+
+
+
+
