@@ -215,4 +215,16 @@ var ins:any = (<any>window).ClassOutOfTS();
 
 [typescript模块导入与全局变量踩坑日志](https://segmentfault.com/a/1190000016485619)  
 
+[typescript之导入全局函数和类](https://blog.csdn.net/nk1212582/article/details/82193120)  
+~~~
+如果要导出多个对象，把它们放在顶层里导出
+export class SomeType { /* ... */ }
+export function someFunc() { /* ... */ }
+导入时明确地列出导入的名字
+import { SomeType, SomeFunc } from "./MyThings";
+let x = new SomeType();
+let y = someFunc();
+
+~~~
+
 
