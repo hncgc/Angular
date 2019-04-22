@@ -38,7 +38,6 @@ git checkout 1.2.6
 官网jquery压缩版引用地址:
 
 <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
-
 ~~~
 
 [jquery-1.9.1下载](http://www.jq22.com/jquery/jquery-1.9.1.zip)  
@@ -53,6 +52,8 @@ git checkout 1.2.6
 [jQuery API 中文文档 ](http://jquery.cuishifeng.cn/)
 
 [jQuery插件库](http://jquery.cuishifeng.cn/)  
+
+[jQuery 教程 | 菜鸟教程](http://www.runoob.com/jquery/jquery-tutorial.html)  
 
 [jQuery - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499993118b8173572625b4afe93a8b19dd707ea1d000)  
 
