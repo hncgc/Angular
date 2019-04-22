@@ -83,6 +83,8 @@ AJAX
 
 [原生JS+CSS（CSS3）+HTML实现页面弹框](https://blog.csdn.net/licheng11403080324/article/details/52435076)  
 
+[jQuery对话框和确认框插件jqueryconfirm](http://www.jq22.com/jquery-info6789)  
+
 轮播
 ---
 
