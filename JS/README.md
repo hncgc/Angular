@@ -85,6 +85,12 @@ AJAX
 
 [jQuery对话框和确认框插件jqueryconfirm](http://www.jq22.com/jquery-info6789)  
 
+[所有网站都通用的自定义弹出框alert](https://blog.csdn.net/a419419/article/details/77119556)  
+
+[前端自定义提示框样式之--alert](https://blog.csdn.net/qq_39137687/article/details/81391072)  
+
+
+
 轮播
 ---
 
