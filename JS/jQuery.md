@@ -57,7 +57,7 @@ git checkout 1.2.6
 
 [jQuery UI API](http://www.runoob.com/jqueryui/api-tabs.html)  
 
-
+[jQuery UI 模态确认](http://www.runoob.com/try/try.php?filename=jqueryui-example-dialog-modal)  
 
 
 
