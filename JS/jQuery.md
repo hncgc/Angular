@@ -59,7 +59,7 @@ git checkout 1.2.6
 
 [jQuery UI 模态确认](http://www.runoob.com/try/try.php?filename=jqueryui-example-dialog-modal)  
 
-
+[jQuery UI 模态](http://www.runoob.com/try/try.php?filename=jqueryui-example-dialog-modal-message)  
 
 
 
