@@ -257,3 +257,17 @@ ts与js没法直接互动，要用外部声明描述js代码的类型信息，�
 
 [TypeScript速成教程](https://github.com/joye61/typescript-tutorial)
 
+[TypeScript 引入js库](https://blog.csdn.net/candyguy242/article/details/84619884)  
+
+[Typescript 如何使用js 库](https://blog.csdn.net/uisoul/article/details/82722896)  
+
+[如何在typescript中引入javascript文件](https://blog.csdn.net/qq_36171431/article/details/79181190)  
+
+[TypeScript 学习笔记 之插件安装](https://blog.csdn.net/sinat_29729453/article/details/52523654)  
+
+
+
+
+
+
+
