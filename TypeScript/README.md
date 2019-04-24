@@ -265,7 +265,7 @@ ts与js没法直接互动，要用外部声明描述js代码的类型信息，�
 
 [TypeScript 学习笔记 之插件安装](https://blog.csdn.net/sinat_29729453/article/details/52523654)  
 
-
+[DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)  
 
 
 
