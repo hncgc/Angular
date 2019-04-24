@@ -244,6 +244,12 @@ ___
 [typescript | 命名空间与导包，编译器链接多文件reference | ts-node使用](https://blog.csdn.net/u011607490/article/details/84700306)  
 
 
+--------------------
+
+
+[webpack中使用了typeScript，安装了js-cookie并在.ts中引入但却说找不到这个模块](https://segmentfault.com/q/1010000015834315)  
+
+
 
 
 
