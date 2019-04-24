@@ -52,3 +52,16 @@ git checkout 1.2.6
 [jQuery - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/001434499993118b8173572625b4afe93a8b19dd707ea1d000)  
 
 [jquery高级教程](https://study.163.com/courses-search?keyword=jQuery&utm_source=baidu&utm_medium=cpc&utm_campaign=affiliate&utm_term=IT_232d&utm_content=SEM)  
+
+
+
+[jQuery UI API](http://www.runoob.com/jqueryui/api-tabs.html)  
+
+
+
+
+
+
+
+
+
