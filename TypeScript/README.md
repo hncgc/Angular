@@ -251,7 +251,9 @@ ___
 
 [如何在typescript中引用js文件](https://segmentfault.com/q/1010000016861643)  
 ~~~
-ts与js没法直接互动，要用外部声明描述js代码的类型信息，然后才可以导入js文件。楼主还没掌握ts的精髓，本人最近撸了一本TypeScript的教程，用心之作，欢迎围观[TypeScript速成教程](https://github.com/joye61/typescript-tutorial)
+ts与js没法直接互动，要用外部声明描述js代码的类型信息，然后才可以导入js文件。楼主还没掌握ts的精髓。
+本人最近撸了一本TypeScript的教程，用心之作，欢迎围观TypeScript速成教程
 ~~~
 
+[TypeScript速成教程](https://github.com/joye61/typescript-tutorial)
 
