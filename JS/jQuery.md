@@ -58,6 +58,12 @@ jQuery UI
 
 [jQuery UI](http://jqueryui.com/)  
 
+[Jquery UI 中文网](http://www.jqueryui.org.cn/)  
+
+[jQuery UI 教程 | 菜鸟教程](https://www.runoob.com/jqueryui/jqueryui-tutorial.html)  
+
+[jQuery UI Bootstrap -- 基于Bootstrap样式的 jQuery UI 控件](http://www.bootcss.com/p/jquery-ui-bootstrap/)  
+
 [jQuery UI API](http://www.runoob.com/jqueryui/api-tabs.html)  
 
 [jQuery UI 模态确认](http://www.runoob.com/try/try.php?filename=jqueryui-example-dialog-modal)  
