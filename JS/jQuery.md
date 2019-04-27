@@ -62,6 +62,16 @@ git checkout 1.2.6
 [jQuery UI 模态](http://www.runoob.com/try/try.php?filename=jqueryui-example-dialog-modal-message)  
 
 
+jQuery UI Layout
+---
+
+[jQuery布局插件UI Layout简介及使用方法](https://blog.csdn.net/zsg88/article/details/65445698)  
+
+[基于JQUERY UI的全能布局插件LAYOUT，强烈推荐，附带DEMO例子](https://download.csdn.net/download/zhang15018441488/10305115)  
+
+[jquery ui layout 后台框架（可切换ui主题）](https://download.csdn.net/download/liuxinxin1125/7703895)  
+
+[jquery layout 经典布局（东南西北中）](https://download.csdn.net/download/gyygjh/9735294)  
 
 
 
