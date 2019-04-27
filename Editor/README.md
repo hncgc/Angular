@@ -11,7 +11,7 @@ Editor
 
 [bootstrap-wysiwyg ](http://www.bootcss.com/p/bootstrap-wysiwyg/)  
 
-[百度UEditor](官方网址：http://ueditor.baidu.com/website/)  
+[百度UEditor](http://ueditor.baidu.com/website/)  
 https://ueditor.baidu.com/website/onlinedemo.html  
 
 [百度UMeditor富文本编辑器](https://ueditor.baidu.com/website/umeditor.html)  
