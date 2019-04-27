@@ -53,7 +53,10 @@ git checkout 1.2.6
 
 [jquery高级教程](https://study.163.com/courses-search?keyword=jQuery&utm_source=baidu&utm_medium=cpc&utm_campaign=affiliate&utm_term=IT_232d&utm_content=SEM)  
 
+jQuery UI
+---
 
+[jQuery UI](http://jqueryui.com/)  
 
 [jQuery UI API](http://www.runoob.com/jqueryui/api-tabs.html)  
 
