@@ -20,7 +20,7 @@ https://github.com/fex-team/umeditor
 [国产富文本编辑-wangEditor](http://www.wangeditor.com/)  
 文档: https://www.kancloud.cn/wangfupeng/wangeditor3/332599  
 
-[CKEditor](官方网址：http://ckeditor.com/demo)  
+[CKEditor](http://ckeditor.com/demo)  
 
 [eWebEditor](http://www.ewebeditor.net/demo/)  
 
