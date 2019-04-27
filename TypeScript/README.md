@@ -267,6 +267,23 @@ ts与js没法直接互动，要用外部声明描述js代码的类型信息，�
 
 [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)  
 
+[TypeScript项目中引入Javascript包增加.d.ts类型声明文件](https://www.jianshu.com/p/ec5dcdeed550)  
+~~~
+解决方案一：找一个写好的声明文件
+网站（https://microsoft.github.io/TypeSearch/）能搜到@types包含了哪些JS的包
+解决方案二：使用工具自动生成声明文件
+使用tsc命令是可以生成声明文件的，但是不好用，另外找到一个很好的工具dts-gen（https://github.com/Microsoft/dts-gen），
+使用这个工具可以很方便生成
+主要步骤：
+npm install -g dts-gen
+npm install -g package
+dts-gen -m package
+解决方案三：自己编写声明文件
+参考官方文档：
+https://www.tslang.cn/docs/handbook/declaration-files/introduction.html
+https://www.tslang.cn/docs/handbook/declaration-files/templates.html
+~~
+
 
 
 
