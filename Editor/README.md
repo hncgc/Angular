@@ -58,6 +58,31 @@ WangEditor：http://www.wangeditor.com/ 这个是轻量级的
 
 ~~~
 
+UMeditor
+---
+
+[百度富文本编辑器UMeditor使用-JSP](https://blog.csdn.net/tivonalh/article/details/80345904)  
+
+[umeditor使用教程 -JSP](https://blog.csdn.net/ReticentHuxt/article/details/69938733)  
+
+[UmEditor 文本编辑器常规用法](https://blog.csdn.net/sd6275832ght/article/details/82966610)  
+
+[[php] UEditor富文本编辑器(thinkphp)](https://blog.csdn.net/u010081689/article/details/46622909)  
+
+[php富文本编辑器](https://blog.csdn.net/flyfish0113/article/details/51913016)  
+
+[php引入百度Ueditor富文本编辑器](https://blog.csdn.net/donglingjiu/article/details/80517343)  
+
+[umeditor 踩坑](https://www.cnblogs.com/lyxverycool/p/8981896.html)  
+
+
+
+
+
+
+
+
+
 
 
 
