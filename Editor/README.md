@@ -41,6 +41,27 @@ https://github.com/summernote/summernote
 文档：https://www.kancloud.cn/wangfupeng/wangeditor3/332599
 源码：https://github.com/wangfupeng1988/wangEditor
 
+[【前端】wangEditor（富文本编辑器） 简易使用示例](https://blog.csdn.net/lcl1422426694/article/details/79059371)  
+
+[使用wangEditor实现富文本编辑（后端为Java）](https://blog.csdn.net/u011676300/article/details/80345152)  
+
+[求一个好用的html5网页富文本编辑器?](https://segmentfault.com/q/1010000012277351)  
+~~~
+Simditor：http://simditor.tower.im/
+WangEditor：http://www.wangeditor.com/ 这个是轻量级的
+1、Ueditor：功能十分强大，兼容性好。
+2、Umeditor：上面一个的简版，功能也很强大
+3、Quill：A modern rich text editor built for compatibility and extensibility
+最复杂功能最强大：ueditor。过滤、图片上传、远程图片抓取等。
+简易版 umeditor。
+用的最多的还是ueditor。一般第三方微信编辑器都是基于ueditor改的
+
+~~~
+
+
+
+
+
 
 
 
