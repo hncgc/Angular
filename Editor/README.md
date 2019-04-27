@@ -26,4 +26,5 @@ https://github.com/fex-team/umeditor
 
 [eWebEditor](http://www.ewebeditor.net/demo/)  
 
+[YUI 3](http://yuilibrary.com/)  
 
