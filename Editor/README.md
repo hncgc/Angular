@@ -33,5 +33,15 @@ https://github.com/fex-team/umeditor
 
 [html5编辑器 Squire](http://neilj.github.io/Squire/)
 
+[Summernote](https://github.com/summernote/summernote)  
+https://github.com/summernote/summernote
+
+[wangEditor—— 轻量级 web 富文本编辑器，配置方便，使用简单。支持 IE10+ 浏览器](https://www.wangEditor.com)  
+官网：https://www.wangEditor.com
+文档：https://www.kancloud.cn/wangfupeng/wangeditor3/332599
+源码：https://github.com/wangfupeng1988/wangEditor
+
+
+
 
 
