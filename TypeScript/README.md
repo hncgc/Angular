@@ -282,7 +282,16 @@ dts-gen -m package
 参考官方文档：
 https://www.tslang.cn/docs/handbook/declaration-files/introduction.html
 https://www.tslang.cn/docs/handbook/declaration-files/templates.html
-~~
+~~~
+
+[笔记：Typescript 中引用全局变量](https://www.jianshu.com/p/de834f2fa309)  
+
+
+
+
+
+
+
 
 
 
