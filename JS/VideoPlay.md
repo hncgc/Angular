@@ -28,6 +28,10 @@ npm install video.js
 
 [video.js API 详解](https://blog.csdn.net/zh_rey/article/details/78215968)  
 
+[video.js API](https://blog.csdn.net/huang100qi/article/details/53405876)  
+
+[Video.js web视频播放器](http://www.cnblogs.com/zhy-1992/p/6692012.html)  
+
 [videojs的使用以及如何把播放按钮居中](https://blog.csdn.net/zhoubing1217/article/details/52587863)  
 
 [video.js 无法正常显示中间播放按钮和播放后暂停等按钮](https://zhidao.baidu.com/question/625821426966555364.html)  
@@ -39,6 +43,10 @@ npm install video.js
 [video.js 移动端视频播放器插件心得](https://blog.csdn.net/HoneyYZY/article/details/80675250)  
 
 [video.js使用技巧](https://www.awaimai.com/2053.html)  
+
+[Video.js简单使用](https://cloud.tencent.com/developer/article/1119430)  
+
+
 
 --------------
 
