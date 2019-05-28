@@ -24,6 +24,7 @@ $ npm install bootstrap@3
 
 $ composer require twbs/bootstrap
 ~~~
+
 [全局CSS 样式 · Bootstrap v3 中文文档](https://v3.bootcss.com/css/)  
 
 [Bootstrap 教程(基础)_Bootstrap基础视频教程-慕课网](https://www.imooc.com/learn/141/)  
@@ -125,7 +126,17 @@ $(‘.carousel’).carousel({<br>　　pause：‘none’<br>});  //鼠标放到
 
 [bootstrap-模态框-弹出图片](https://blog.csdn.net/encircles/article/details/71127324)  
 
+--------------
 
+[Bootstrap-table使用详细介绍](https://blog.csdn.net/qq_32715873/article/details/53536097)  
+
+[bootstrap table轻松实现数据表格](https://www.jianshu.com/p/90b7330806d1)  
+
+[Bootstrap入门（四）表格](https://www.cnblogs.com/hnnydxgjj/p/5851206.html)  
+
+[Bootstrap Table](https://blog.csdn.net/qq_38296054/article/details/80494276)  
+
+[Bootstrap 分页](https://www.runoob.com/bootstrap/bootstrap-pagination.html)  
 
 
 
