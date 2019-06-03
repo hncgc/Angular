@@ -443,7 +443,26 @@ str2=str.substring(ipos,str.length);//取后部分
 var j = parseInt("11");
 ~~~
 
+---------------------
 
+[JS设置 按钮为可用和不可用两种状态](https://blog.csdn.net/mengke1124/article/details/46532457)  
+~~~
+<input type="button" value="确定"  id="stamp" onclick="stampBill()">
+<script>
+//取stamp，
+var stamp = document.getElementById("stamp");//设置盖章按钮为不可用
+ 
+stamp.disabled=true;
+//按钮变为不可点击
+//按钮变为可以点击
+//stamp.disabled=false;
+</script>
+~~~
+
+[HTML中jquery控制button按钮可点击、不可点击](https://blog.csdn.net/csdnones/article/details/52238857)  
+~~~
+$("#button_id").attr('disabled',true);
+~~~
 
 
 
