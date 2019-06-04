@@ -286,6 +286,7 @@ https://www.tslang.cn/docs/handbook/declaration-files/templates.html
 
 [笔记：Typescript 中引用全局变量](https://www.jianshu.com/p/de834f2fa309)  
 
+[error TS2339: Property 'modal' does not exist on type 'JQuery'](https://stackoverflow.com/questions/32735396/error-ts2339-property-modal-does-not-exist-on-type-jquery)  
 
 
 
