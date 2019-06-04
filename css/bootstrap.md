@@ -138,5 +138,37 @@ $(‘.carousel’).carousel({<br>　　pause：‘none’<br>});  //鼠标放到
 
 [Bootstrap 分页](https://www.runoob.com/bootstrap/bootstrap-pagination.html)  
 
+-------------------
+
+[Angular项目中如何引入 bootstrap](https://www.jianshu.com/p/810c97ee46e3)  
+
+[nodejs中引入jquery和bootstrap](https://www.jianshu.com/p/8dc512d8a113)  
+
+[Node.js学习（三）——Node.js使用Bootstrap](https://blog.csdn.net/flygoa/article/details/52677652)  
+
+[基于Bootstrap+Nodejs的Web应用（一）](https://blog.csdn.net/heroicpoem/article/details/86756699)  
+
+[从零构建部署Node.js+Express+Bootstrap Web应用](https://blog.csdn.net/congyihao/article/details/60747076)  
+
+[TypeScript 支持rxjs, jquery,bootstrap](https://www.jianshu.com/p/bfbb1daad003)  
+~~~
+ngular开发中使用rxjs、jquery、bootstrap等。装jquery的typescript的类型描述文件
+npm install @types/jquery --save-dev
+
+装bootstrap的typescript的类型描述文件
+npm install @types/bootstrap --save-dev
+
+装这两个的目的是让typescript代码认识jquery和bootstrap
+装rxjs的typescript的类型描述文件
+npm install -g rxjs
+npm install @types/rx  --save-dev
+~~~
+
+
+
+
+
+
+
 
 
