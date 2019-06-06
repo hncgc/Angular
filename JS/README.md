@@ -29,6 +29,9 @@ AJAX
 
 [js弹出消息对话框(alert)的几种方式](https://blog.csdn.net/qq_39822451/article/details/82753858)  
 
+[jQuery+bootstrap实现美化警告/确认/提示对话框插件](https://blog.csdn.net/u014508939/article/details/84895190)  
+http://www.html580.com/12067/demo  
+
 [jQuery弹出层插件](http://www.jq22.com/jquery-plugins%E5%BC%B9%E5%87%BA%E5%B1%82-1-jq)  
 
 [js、jQuery实现自定义弹出框效果](http://www.cnblogs.com/SunlIng-52/p/9207876.html)  
