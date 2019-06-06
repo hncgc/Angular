@@ -40,6 +40,8 @@ API文档:https://nodejs.org/dist/latest-v4.x/docs/api/
 
 [nodejs基础教程](https://www.geekjc.com/ebook/detail/5b9f65ce0f510f6ae689bccd/1537172650925)  
 
+[Node.js v10.16.0 文档](http://nodejs.cn/api/)  
+
 [ Node + Mysql实战项目-SERVER_NODE_EXPRESS](https://github.com/dkvirus/py-novel/tree/master/server_node_express)  
 ~~~
 |-- server_node_express
