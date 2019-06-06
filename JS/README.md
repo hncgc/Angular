@@ -27,6 +27,8 @@ AJAX
 弹窗
 ---
 
+[js弹出消息对话框(alert)的几种方式](https://blog.csdn.net/qq_39822451/article/details/82753858)  
+
 [jQuery弹出层插件](http://www.jq22.com/jquery-plugins%E5%BC%B9%E5%87%BA%E5%B1%82-1-jq)  
 
 [js、jQuery实现自定义弹出框效果](http://www.cnblogs.com/SunlIng-52/p/9207876.html)  
