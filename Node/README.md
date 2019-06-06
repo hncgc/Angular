@@ -133,6 +133,21 @@ Browserify是一个供浏览器环境使用的模块打包工具
 
 [nodejs实现服务器端与客户端实时数据传输的例子](http://blog.sina.com.cn/s/blog_a8b026160102weo7.html)  
 
+----------------
+
+[nodejs一行命令快速启动一个web服务(两大神器：anywhere,http-server)](https://blog.csdn.net/weixin_34198797/article/details/88017090)  
+
+[如何快速开启NodeJS服务](https://blog.csdn.net/samarket/article/details/89306750#NodeJS_2)  
+
+[nodejs的启动方式](https://blog.csdn.net/thatway_wp/article/details/79387586)  
+
+[安装Node.js并启动本地服务](https://blog.csdn.net/sinat_20177327/article/details/76152471)  
+
+[node.js在本地启动https服务](https://blog.csdn.net/liuniansilence/article/details/78668578)  
+
+[nodejs 搭建https服务](https://blog.csdn.net/u011573853/article/details/78308657)  
+
+
 
 
 
