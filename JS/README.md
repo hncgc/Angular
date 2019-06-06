@@ -30,7 +30,41 @@ AJAX
 [js弹出消息对话框(alert)的几种方式](https://blog.csdn.net/qq_39822451/article/details/82753858)  
 
 [jQuery+bootstrap实现美化警告/确认/提示对话框插件](https://blog.csdn.net/u014508939/article/details/84895190)  
+
+[jquery-confirm | 功能强大的jQuery对话框和确认框插件](http://www.jq22.com/demo/jqueryConfirm20160413/)  
+
 http://www.html580.com/12067/demo  
+~~~
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
+Quick Usage
+    $.alert({
+        title: 'Alert!',
+        content: 'Simple alert!',
+    });
+
+$.confirm({
+    title: 'Confirm!',
+    content: 'Simple confirm!',
+    buttons: {
+        confirm: function () {
+            $.alert('Confirmed!');
+        },
+        cancel: function () {
+            $.alert('Canceled!');
+        },
+        somethingElse: {
+            text: 'Something else',
+            btnClass: 'btn-blue',
+            keys: ['enter', 'shift'],
+            action: function(){
+                $.alert('Something else?');
+            }
+        }
+    }
+});
+
+~~~
 
 https://www.bootcdn.cn/jquery-confirm/  
 
