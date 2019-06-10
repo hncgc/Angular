@@ -505,6 +505,30 @@ stamp.disabled=true;
 $("#button_id").attr('disabled',true);
 ~~~
 
+----------------------------
+
+[HTML5 canvas生成图片马赛克特效插件](http://www.htmleaf.com/html5/html5-canvas/201502021314.html)  
+
+[HTML5 canvas生成图片马赛克特效插件](https://delmarks.iteye.com/blog/2182897)  
+
+[JS实现马赛克图片效果](https://blog.csdn.net/qq_38735649/article/details/82154269)  
+
+[html5 canvas 图片打马赛克 demo](https://blog.csdn.net/humarzhu/article/details/42102131)  
+
+[php 图片局部打马赛克](https://blog.csdn.net/fdipzone/article/details/40322461)  
+
+[前端图片处理：旋转，打码，裁剪](https://segmentfault.com/q/1010000007584749?_ea=1390941)  
+
+[图片局部打马赛克 [问题点数：40分]](https://bbs.csdn.net/topics/390897738)  
+
+
+
+
+
+
+
+
+
 
 
 
