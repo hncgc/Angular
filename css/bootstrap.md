@@ -164,11 +164,69 @@ npm install -g rxjs
 npm install @types/rx  --save-dev
 ~~~
 
+[Bootstrap 折叠 | 菜鸟教程](https://www.runoob.com/bootstrap/bootstrap-v2-collapse-plugin.html)  
 
+[bootstrap实现多行折叠](https://blog.csdn.net/lg346426260/article/details/71696130)  
 
-
-
-
-
+[JavaScript实现文本段落折叠展开和收拢效果](http://www.codefans.net/jscss/code/4595.shtml)  
+~~~
+<!DOCTYPE html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>js文本段落展开和收拢效果</title>
+<style>html,body,div,h2,p{margin: 0;padding: 0;}
+html{font: 1em Arial, Helvetica, sans-serif;color: #444;}
+a{color: #0087f1;}
+p{margin-bottom: 5px;}
+#container{margin: 0 auto;width: 600px;}
+#container h2{font-size: 20px;color: #0087f1;}
+#wrap{position: relative;padding: 10px;overflow: hidden;}
+#gradient{width: 100%;height: 35px;repeat-x;position: absolute;bottom: 0;left: 0;}
+#read-more{padding: 5px;border-top: 4px double #ddd;background: #fff;color: #333;}
+#read-more a{padding-right: 22px;no-repeat 100% 50%;font-weight: bold;text-decoration: none;}
+#read-more a: hover{color: #000;}</style>
+<script type="text/javascript" src="/ajaxjs/jquery-1.6.2.min.js"></script>
+<script type="text/javascript">
+$(function(){
+var slideHeight = 75; // px
+var defHeight = $('#wrap').height();
+if(defHeight >= slideHeight){
+	$('#wrap').css('height' , slideHeight + 'px');
+	$('#read-more').append('<a href="#">点击查看更多。。</a>');
+	$('#read-more a').click(function(){
+		var curHeight = $('#wrap').height();
+		if(curHeight == slideHeight){
+			$('#wrap').animate({
+			  height: defHeight
+			}, "normal");
+			$('#read-more a').html('合起来');
+			$('#gradient').fadeOut();
+		}else{
+			$('#wrap').animate({
+			 height: slideHeight
+			}, "normal");
+			$('#read-more a').html('点击查看更多。。');
+			$('#gradient').fadeIn();
+		}
+		return false;
+	});		
+}
+});
+</script>
+</head>
+<body>
+<div id="container">
+<h1>jQuery 段落文字折叠展开效果<br>
+<div id="wrap">
+<div>
+<p>这一段文字是可以折叠展开的，点击下面的“查看更多”就可演示本效果，以下文字是网站的相关内容：源码爱好者提供编程源码、网站源码、网页素材、书籍教程、网站模板、网页特效代码等，做有质量的学习型源码下载站。</p>
+</div>
+<div id="gradient"></div>
+</div>
+<div id="read-more"></div>
+</div>
+</body>
+</html>
+~~~
 
 
