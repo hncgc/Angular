@@ -9,5 +9,24 @@ Web文件上传
 
 [媒体处理 > SDK参考 > 上传SDK > 上传SDK下载](https://help.aliyun.com/document_detail/48501.html?spm=a2c4g.11186623.2.11.1a785972y7vGjM#concept-k1z-vkv-y2b)  
 
-[]()  
+[h5上传视频文件](https://www.cnblogs.com/huiseshijie/p/8479536.html)  
+
+[一般网站视频处理的方式 用户上传 各大主流视频站调用分享功能代码](https://blog.csdn.net/qq_27905477/article/details/80616416)  
+
+[网站后台——用户上传图片剪切](https://blog.csdn.net/RZ_J9pp/article/details/89761873)  
+
+[网站后台视频上传方式](https://jingyan.baidu.com/article/59703552d0a5918fc007409e.html)  
+
+[网站后台添加视频](https://segmentfault.com/q/1010000010191583)  
+
+
+
+
+
+
+
+
+
+
+
 
