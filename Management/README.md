@@ -94,4 +94,7 @@ return $.cookie(name);
 }
 ~~~
 
+[文件上传](https://github.com/hncgc/Angular/blob/master/Management/uploadFile.md)  
+
+
 
