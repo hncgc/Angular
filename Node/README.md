@@ -147,7 +147,13 @@ Browserify是一个供浏览器环境使用的模块打包工具
 
 [nodejs 搭建https服务](https://blog.csdn.net/u011573853/article/details/78308657)  
 
+-------------------
 
+[node.js学习之module调用方式](https://blog.csdn.net/liusen_445566/article/details/55193545)  
+
+[npm安装的nodejs模块怎样才可以在前端js中直接调用？](https://ask.csdn.net/questions/693054)  
+
+[nodejs中函数的调用实例详解](https://www.jb51.net/article/149848.htm)  
 
 
 
