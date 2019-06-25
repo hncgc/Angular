@@ -161,4 +161,4 @@ Browserify是一个供浏览器环境使用的模块打包工具
 [为什么 npm 要为每个项目单独安装一遍 node_modules？](https://www.cnblogs.com/weiyinfu/p/8471407.html)  
 
 
-
+[TS引用JS模块](https://blog.csdn.net/letterTiger/article/details/80596369)  
