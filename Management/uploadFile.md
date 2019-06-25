@@ -43,7 +43,7 @@ Github地址: https://github.com/ali-sdk/ali-oss?spm=a2c4g.11186623.2.12.73b2165
 ~~~
 
 
-
+[Browserify](https://www.jianshu.com/p/8d8b8752d8a0)  
 
 
 
