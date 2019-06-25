@@ -37,8 +37,10 @@ Github地址: https://github.com/ali-sdk/ali-oss?spm=a2c4g.11186623.2.12.73b2165
 
 
 
-
-
+[根本上解决npm install 报错“ajv-keywords@3.4.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.“](https://www.cnblogs.com/yalong/p/10406190.html)  
+~~~
+更新本机的npm到最新版本：npm install -g npm
+~~~
 
 
 
