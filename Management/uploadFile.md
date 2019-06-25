@@ -1,6 +1,10 @@
 Web文件上传
 ===
 
+[阿里云-对象存储 OSS > SDK 示例 > Node.js > 上传文件 > 上传本地文件](https://help.aliyun.com/document_detail/111265.html?spm=a2c4g.11186623.2.7.369a2778Bg9mOB#concept-uxl-2vb-dhb)  
+
+[阿里云-对象存储 OSS > SDK 示例 > Node.js > 安装](https://help.aliyun.com/document_detail/32068.html?spm=a2c4g.11186623.2.7.1e6b77a3vmDt0E#concept-32068-zh)  
+
 [阿里云视频文件的上传文件方法](https://help.aliyun.com/knowledge_detail/50618.html?spm=5176.2000002.0.0.6e653106qiibI2)  
 
 [媒体处理 > SDK参考 > 上传SDK > 使用说明](https://help.aliyun.com/document_detail/48467.html?spm=a2c4g.11186623.2.19.3244501cXqwTpr)  
