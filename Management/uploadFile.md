@@ -24,6 +24,42 @@ Github地址: https://github.com/ali-sdk/ali-oss?spm=a2c4g.11186623.2.12.73b2165
 
 [媒体处理 > SDK参考 > 上传SDK > 上传SDK下载](https://help.aliyun.com/document_detail/48501.html?spm=a2c4g.11186623.2.11.1a785972y7vGjM#concept-k1z-vkv-y2b)  
 
+[阿里云OSS文件上传（前端js文件直传方法）](https://blog.csdn.net/weixin_37626925/article/details/91360197)  
+~~~
+function upFile(el){
+    // el为上传文件的元素
+    // ----步骤1-------------------------------------------------
+    var client = new OSS.Wrapper({
+        region: "oss-cn-hangzhou", //阿里云获取
+        accessKeyId: "yourAccessKeyId",
+        accessKeySecret: "yourAccessKeySecret",
+        bucket: "bucketName"  //要存储的目录名
+    });
+    // ----步骤2-------------------------------------------------
+    var suffix = el.value.substr(el.value.indexOf(".")); // 获取文件后缀名
+    var filename = new Date().getTime() + suffix; // 为文件命名
+    client.multipartUpload("fileName/" + filename, el.files[0]).then(function (result){
+        var url = result.res.requestUrls[0];
+        var length = url.lastIndexOf('?');
+        var imgUrl = length>0?url.substr(0,length):url; // 文件最终路径
+        console.log(imgUrl);
+    }).catch(function (err) {
+        console.log(err);
+    });
+}
+~~~
+
+[阿里云oss js前端获取签名直传文件](https://blog.csdn.net/hch15112345824/article/details/78547190)  
+
+[阿里云oss对象存储 js web直传中文件重命名和文件数量限制问题的解决](https://blog.csdn.net/qq_30377913/article/details/76571916)  
+
+[阿里的oss文件上传前端代码,以及提交参数](https://blog.csdn.net/tomMMMMMMMMMMM/article/details/81001874)  
+
+
+
+
+-----------------
+
 [h5上传视频文件](https://www.cnblogs.com/huiseshijie/p/8479536.html)  
 
 [一般网站视频处理的方式 用户上传 各大主流视频站调用分享功能代码](https://blog.csdn.net/qq_27905477/article/details/80616416)  
