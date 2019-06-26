@@ -59,6 +59,8 @@ function upFile(el){
 
 [JavaScript客户端签名直传](https://help.aliyun.com/document_detail/31925.html#concept-frd-4gy-5db)  
 
+[JavaScript服务端签名后直传](https://help.aliyun.com/document_detail/31926.html)  
+
 [oss 阿里云 javascript 上传图片](https://blog.csdn.net/shidewen1125/article/details/53442820)  
 
 [js上传文件 -帮助文档- 阿里云](https://help.aliyun.com/wordpower/610868-1.html)  
