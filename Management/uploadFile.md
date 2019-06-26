@@ -55,7 +55,7 @@ function upFile(el){
 
 [阿里的oss文件上传前端代码,以及提交参数](https://blog.csdn.net/tomMMMMMMMMMMM/article/details/81001874)  
 
-
+[js上传文件 -帮助文档- 阿里云](https://help.aliyun.com/wordpower/610868-1.html)  
 
 
 -----------------
