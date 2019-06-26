@@ -61,6 +61,8 @@ function upFile(el){
 
 [JavaScript服务端签名后直传](https://help.aliyun.com/document_detail/31926.html)  
 
+[服务端签名直传并设置上传回调](https://help.aliyun.com/document_detail/31927.html?spm=a2c4g.11186623.2.14.17f16e28EU8HNt#concept-qp2-g4y-5db)  
+
 [oss 阿里云 javascript 上传图片](https://blog.csdn.net/shidewen1125/article/details/53442820)  
 
 [js上传文件 -帮助文档- 阿里云](https://help.aliyun.com/wordpower/610868-1.html)  
