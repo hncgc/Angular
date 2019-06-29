@@ -299,24 +299,6 @@ function funcReadImgInfo(){
 
 [微信jsjdk的config流程（含纯前端2小时玩耍流程）](https://www.jianshu.com/p/887fb1e943d0)  
 
-------------------
-
-[JS - 简单的下载图片至本地](https://www.cnblogs.com/jzsz/p/8029536.html)  
-~~~
-<iframe id="saveImg" src="图片路径" style="display:none;"></iframe>
-<a href="#" onclick="saveImg.document.execCommand('saveAs');">下载</a>
-~~~
-
-[使用JavaScript将图片保存至本地](https://www.cnblogs.com/zhangkaiqiang/p/8183926.html)  
-
-[原生js 保存图片到本地](https://www.cnblogs.com/web-fusheng/p/8608430.html)  
-
-[H5 -- （功能）基于html2canvas实现长按网页保存为图片到本地](https://blog.csdn.net/weixin_41076513/article/details/80896399)  
-
-[HTML+JS下载图片到本地](https://blog.csdn.net/wuye_lh/article/details/80050393)  
-
-[js下载图片(不让浏览器打开)](https://blog.csdn.net/liiil/article/details/80887155)  
-
 ------------------------
 
 [SVG 教程](http://www.w3school.com.cn/svg/index.asp)  
@@ -325,67 +307,14 @@ function funcReadImgInfo(){
 
 [SVG | HTML5资源教程](https://www.html5tricks.com/tag/svg/)  
 
------------------------------
-
-[js中怎么截取文件后缀名](https://zhidao.baidu.com/question/304974772611548764.html)  
-~~~
-var fileExtension = fileName.substring(fileName.lastIndexOf('.') + 1);
-
-function getFileName(o){//通过第一种方式获取文件名
-    var pos=o.lastIndexOf("\\");//查找最后一个\的位置
-    return o.substring(pos+1); //截取最后一个\位置到字符长度，也就是截取文件名 
-}
- 
-function getFileName2(o){//通过第二种方式获取文件名
-    var arr = o.split('\\');//通过\分隔字符串，成字符串数组
-    return arr[arr.length-1];//取最后一个，就是文件名
-}
-~~~
-
-[js中截取文件的后缀名方法](https://blog.csdn.net/qq_34409900/article/details/80408235)  
-
-[JS中如何删除某个指定字符(前)后的字符串](https://zhidao.baidu.com/question/292699810.html)  
-~~~
-var str;
-var ipos;
-str="123456789+abc";
-ipos = str.indexOf("+");
-str1=str.substring(0,ipos); //取前部分
-str2=str.substring(ipos,str.length);//取后部分
-~~~
-
-[JS数组、字符串常用方法](https://www.cnblogs.com/songzk/p/6081883.html)  
-
-
-
-------------------
-[js中string转int把String类型转化成int类型](https://www.jb51.net/article/53680.htm)  
-~~~
-var j = parseInt("11");
-~~~
-
----------------------
-
-[JS设置 按钮为可用和不可用两种状态](https://blog.csdn.net/mengke1124/article/details/46532457)  
-~~~
-<input type="button" value="确定"  id="stamp" onclick="stampBill()">
-<script>
-//取stamp，
-var stamp = document.getElementById("stamp");//设置盖章按钮为不可用
- 
-stamp.disabled=true;
-//按钮变为不可点击
-//按钮变为可以点击
-//stamp.disabled=false;
-</script>
-~~~
 
 [HTML中jquery控制button按钮可点击、不可点击](https://blog.csdn.net/csdnones/article/details/52238857)  
 ~~~
 $("#button_id").attr('disabled',true);
 ~~~
 
-----------------------------
+马赛克特效
+---
 
 [HTML5 canvas生成图片马赛克特效插件](http://www.htmleaf.com/html5/html5-canvas/201502021314.html)  
 
