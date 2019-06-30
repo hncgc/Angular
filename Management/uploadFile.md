@@ -13,6 +13,7 @@ Web文件上传
 
 ------------
 
+[对象存储 OSS SDK 示例 SDK 文档简介](https://www.alibabacloud.com/help/zh/doc-detail/52834.htm)  
 
 [阿里云-对象存储 OSS > SDK 示例 > Node.js > 上传文件 > 上传本地文件](https://help.aliyun.com/document_detail/111265.html?spm=a2c4g.11186623.2.7.369a2778Bg9mOB#concept-uxl-2vb-dhb)  
 
