@@ -27,6 +27,14 @@ Github地址: https://github.com/ali-sdk/ali-oss?spm=a2c4g.11186623.2.12.73b2165
 
 [Alibaba Cloud OSS SDK for iOS](https://github.com/luozhang002/aliyun-oss-ios-sdk)  
 
+[ali-oss](https://github.com/ali-sdk/ali-oss?spm=a2c4g.11186623.2.12.34aa165aLJBfEw)  
+
+[oss-in-browser](https://github.com/rockuw/oss-in-browser)  
+
+[ali-oss/example/](https://github.com/ali-sdk/ali-oss/tree/master/example)  
+
+
+
 ---------------
 
 [阿里云视频文件的上传文件方法](https://help.aliyun.com/knowledge_detail/50618.html?spm=5176.2000002.0.0.6e653106qiibI2)  
