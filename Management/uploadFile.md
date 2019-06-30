@@ -15,6 +15,10 @@ Web文件上传
 
 [对象存储 OSS SDK 示例 SDK 文档简介](https://www.alibabacloud.com/help/zh/doc-detail/52834.htm)  
 
+[API文档](https://github.com/ali-sdk/ali-oss?spm=a2c4g.11186623.2.13.34aa165aLJBfEw#summary)  
+
+[Browser.js SDK参考](https://www.alibabacloud.com/help/zh/doc-detail/64041.htm?spm=a2c63.p38356.879954.13.6e5d4a01UkNAaz#concept-64041-zh)  
+
 [阿里云-对象存储 OSS > SDK 示例 > Node.js > 上传文件 > 上传本地文件](https://help.aliyun.com/document_detail/111265.html?spm=a2c4g.11186623.2.7.369a2778Bg9mOB#concept-uxl-2vb-dhb)  
 
 [阿里云-对象存储 OSS > SDK 示例 > Node.js > 安装](https://help.aliyun.com/document_detail/32068.html?spm=a2c4g.11186623.2.7.1e6b77a3vmDt0E#concept-32068-zh)  
