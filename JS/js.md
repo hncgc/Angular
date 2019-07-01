@@ -37,6 +37,9 @@ window.parent.opener.location.reload();
 window.close(); 
 ~~~
 
+[使用JS模拟锚点跳转的实例](https://www.jb51.net/article/134127.htm)  
+
+
 
 
 [关于js返回上一页的实现方法](https://www.cnblogs.com/wlqh/p/5948879.html)  
@@ -211,6 +214,7 @@ exec() 方法用于检索字符串中的正则表达式的匹配。返回一个�
 如果大家想对JS有深入系统的学习，可以参阅 JavaScript核心技术开发解密 这本经典读物。
 
 ~~~
+
 
 
 
