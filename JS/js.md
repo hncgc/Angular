@@ -166,5 +166,15 @@ stamp.disabled=true;
 </script>
 ~~~
 
+[JS获取上一访问页面URL地址document.referrer实践](https://blog.csdn.net/Duan_Super/article/details/79987008)  
+
+[js判断访客来源网址和关键字](https://www.cnblogs.com/zgzy/p/4341663.html)  
+
+[js 判断字符串中是否包含某个字符串](https://www.cnblogs.com/xiaoshen666/p/10823381.html)  
+
+
+
+
+
 
 
