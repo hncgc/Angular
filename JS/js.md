@@ -217,5 +217,5 @@ exec() 方法用于检索字符串中的正则表达式的匹配。返回一个�
 
 [js使用cookie存取值](https://blog.csdn.net/csdn9_14/article/details/77102882)  
 
-
+[JavaScript toUTCString() 方法](http://www.w3school.com.cn/jsref/jsref_toUTCString.asp)  
 
