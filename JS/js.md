@@ -219,3 +219,11 @@ exec() 方法用于检索字符串中的正则表达式的匹配。返回一个�
 
 [JavaScript toUTCString() 方法](http://www.w3school.com.cn/jsref/jsref_toUTCString.asp)  
 
+[HTML5 Web 存储（localStorage和sessionStorage）](https://blog.csdn.net/sleepwalker_1992/article/details/82832123)  
+
+[Window.localStorage](https://developer.mozilla.org/zh-CN/docs/Web/API/Window/localStorage)  
+
+[Window localStorage 属性](https://www.runoob.com/jsref/prop-win-localstorage.html)  
+
+
+
