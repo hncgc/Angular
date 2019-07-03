@@ -92,6 +92,37 @@ http://getbootstrap.com/docs/4.1/getting-started/download/
 
 [Bootstrap自定义模态框，自动消失](https://blog.csdn.net/ai_shuyingzhixia/article/details/80159220)  
 
+~~~
+html:
+<div class="modal fade text-center" id="confirmModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" style="width: 300px">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title" id="myModalLabel">
+                    确定要提交
+                </h4>
+            </div>
+            <div class="center padder-v2">
+                <button id="confirm_model_commit" type="button" class="btn btn-primary" data-dismiss="modal">是</button>
+                <button type="button" class="btn btn-default margin_lift20" data-dismiss="modal">否</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+ts:
+var ins: any = (<any>window);
+$(document).ready(function () {
+    $('#showdialog').click(function () {
+        ins.showConfirm();
+    });
+}
+ins.showConfirm = function () {
+    (<any>$('#confirmModal')).modal('show');
+};
+~~~
+
 [Bootstrap启动（关闭）轮播](https://www.cnblogs.com/candy-Yao/p/7446993.html)  
 ~~~
 $('.carousel').carousel();   //启动轮播
