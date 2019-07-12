@@ -96,5 +96,8 @@ return $.cookie(name);
 
 [文件上传](https://github.com/hncgc/Angular/blob/master/Management/uploadFile.md)  
 
+[百度地图](https://github.com/hncgc/Angular/blob/master/Management/baidumap.md)  
+
+
 
 
