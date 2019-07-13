@@ -316,3 +316,12 @@ html:
 [CSS 实现隐藏滚动条同时又可以滚动](https://www.cnblogs.com/alice626/p/6206760.html)  
 
 
+[textarea文本域宽度和高度（width、height）自动适应变化处理](https://blog.csdn.net/domingoluis/article/details/6676331)  
+~~~
+                                <textarea id="description" rows="10" class="" data-fgcolor="#1AB394"
+                                          placeholder="输入商讯描述"
+                                          style="width:100%; overflow:auto; word-break:break-all;"></textarea>
+~~~
+
+
+
