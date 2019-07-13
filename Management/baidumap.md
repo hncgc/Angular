@@ -7,6 +7,8 @@
 
 [Javascript API 3.0](http://lbsyun.baidu.com/index.php?title=jspopular3.0)  
 
+[申请百度账号和ak](http://lbsyun.baidu.com/apiconsole/key)  
+
 [百度地图ak](http://lbsyun.baidu.com/apiconsole/key)
 
 
