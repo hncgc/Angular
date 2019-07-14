@@ -24,3 +24,11 @@
 119.919606016,32.4760532748	江苏省-泰州市
 111.653718137,29.0121488552	湖南省-常德市
 ~~~
+
+[网页中加入百度地图（带地区搜索）](https://www.cnblogs.com/ljmin/archive/2012/07/27/2612413.html)  
+
+[百度aip示例](http://api.map.baidu.com/lbsapi/creatmap/index.html)  
+
+
+
+
