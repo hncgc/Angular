@@ -95,6 +95,8 @@ function upFile(el){
 
 [当前主题: oss web直传](https://yq.aliyun.com/zt/492400)  
 
+[美图秀秀web sdk集成阿里云OSS web直传，或者，OSS web直传使用](https://blog.csdn.net/lz610756247/article/details/81505241)    
+
 
 -----------------
 
