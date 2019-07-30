@@ -98,6 +98,8 @@ function upFile(el){
 [美图秀秀web sdk集成阿里云OSS web直传，或者，OSS web直传使用](https://blog.csdn.net/lz610756247/article/details/81505241)    
 代码在这里：https://gitee.com/gtx_197/oss_web_upload  
 
+[Web直传阿里云Oss踩坑总结](https://rtyxmd.github.io/articles/myBlogs/9994.html#%E5%BC%95%E5%85%A5sdk)  
+
 -----------------
 
 [h5上传视频文件](https://www.cnblogs.com/huiseshijie/p/8479536.html)  
