@@ -93,6 +93,8 @@ function upFile(el){
 
 [js上传文件 -帮助文档- 阿里云](https://help.aliyun.com/wordpower/610868-1.html)  
 
+[当前主题: oss web直传](https://yq.aliyun.com/zt/492400)  
+
 
 -----------------
 
