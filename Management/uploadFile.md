@@ -83,7 +83,7 @@ function upFile(el){
 
 [JavaScript客户端直传OSS，服务端签名](https://blog.csdn.net/Vue2018/article/details/84322889)  
 
-[JavaScript客户端签名直传](https://help.aliyun.com/document_detail/31925.html#concept-frd-4gy-5db)  
+[JavaScript客户端签名直传](https://help.aliyun.com/document_detail/31925.html#concept-frd-4gy-5db)   重要
 
 [JavaScript服务端签名后直传](https://help.aliyun.com/document_detail/31926.html)  
 
